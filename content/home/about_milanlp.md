@@ -12,4 +12,4 @@ title = "About us"
 +++
 
 
-We are the Milan **Natural Language Processing Group**. 
+We are the Milan **Natural Language Processing Group**. We study, develop and deploy NLP algorithms to solve real-world problems.
