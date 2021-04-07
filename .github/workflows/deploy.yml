@@ -26,7 +26,6 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           personal_token: ${{ secrets.TOKEN }}
-          cname: https://federicobianchi.io
           external_repository: MilaNLProc/MilaNLProc.github.io
           publish_dir: ./public
           #   keep_files: true
