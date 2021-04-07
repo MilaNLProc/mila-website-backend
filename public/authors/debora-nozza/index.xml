@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Debora Nozza | MilaNLP Lab @ Bocconi University</title>
+    <link>https://milanlproc.github.io/authors/debora-nozza/</link>
+      <atom:link href="https://milanlproc.github.io/authors/debora-nozza/index.xml" rel="self" type="application/rss+xml" />
+    <description>Debora Nozza</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2021</copyright><lastBuildDate>Thu, 16 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Debora Nozza</title>
+      <link>https://milanlproc.github.io/authors/debora-nozza/</link>
+    </image>
+    
+    <item>
+      <title>Cross-lingual Contextualized Topic Models with Zero-shot Learning</title>
+      <link>https://milanlproc.github.io/publication/2020_crosslingual_topic_model/</link>
+      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2020_crosslingual_topic_model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What the [MASK]? Making Sense of Language-Specific BERT Models</title>
+      <link>https://milanlproc.github.io/publication/2020_bertlang/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2020_bertlang/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | MilaNLP Lab @ Bocconi University</title>
+    <link>https://milanlproc.github.io/project/</link>
+      <atom:link href="https://milanlproc.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2021</copyright><lastBuildDate>Mon, 27 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Projects</title>
+      <link>https://milanlproc.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>INTEGRATOR</title>
+      <link>https://milanlproc.github.io/project/integrator/</link>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/project/integrator/</guid>
+      <description>&lt;p&gt;Dirk Hovy, scientific director of DMI and Associate Professor of computer science, has won an ERC starting grant of 1.5mln euros. His project introduces demographic factors into language processing systems, which will improve algorithmic performance, avoid racism, sexism, and ageism, and open up new applications.
+What if I wrote that “winning an ERC Grant, Dirk Hovy got a sick result?”. Those familiar with the use of “sick” as a synonym for “great” or “awesome” among teenagers would think that Bocconi Knowledge hired a very young writer (or someone posing as such). The rest would think I went crazy. Current artificial intelligence-based language systems wouldn’t have a clue. “Natural language processing (NLP) technologies,” Prof. Hovy says, “fail to account for demographics both in understanding language and in generating it. And this failure prevents us from reaching human-like performance. It limits possible future applications and it introduces systematic bias against underrepresented demographic groups”.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
