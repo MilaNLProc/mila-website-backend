@@ -44,7 +44,7 @@ url_poster:
 url_project: ""
 url_slides:
 url_source: ""
-url_video:
+url_video: "https://slideslive.com/38929070/you-sound-just-like-your-father-commercial-machine-translation-systems-include-stylistic-biases"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
