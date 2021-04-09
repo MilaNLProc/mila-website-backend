@@ -73,7 +73,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- Visitors
+
 ---
 
 I am a forensic psychologist of the Italian National Police.
