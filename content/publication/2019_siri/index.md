@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Women’s Syntactic Resilience and Men’s Grammatical Luck: Gender-Bias in Part-of-Speech Tagging and Dependency Parsing"
-authors: ["Aparna Garimella", "Carmen Banea", "Dirk Hovy", "Rada Mihalcea"]
-date: 2019-07-03
+title: "Hey Siri. Ok Google. Alexa: A topic modeling of user reviews for smart speakers"
+authors: ["Hanh Nguyen", "Dirk Hovy"]
+date: 2019-11-03
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,15 +16,15 @@ publishDate: 2019-10-31T01:35:54+01:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "ACL"
+publication: "Proceedings of the 5th Workshop on Noisy User-generated Text (WNUT)"
 publication_short: ""
 
-abstract: "Several linguistic studies have shown the prevalence of various lexical and grammatical patterns in texts authored by a person of a particular gender, but models for part-of-speech tagging and dependency parsing have still not adapted to account for these differences. To address this, we annotate the Wall Street Journal part of the Penn Treebank with the gender information of the articles’ authors, and build taggers and parsers trained on this data that show performance differences in text written by men and women. Further analyses reveal numerous part-of-speech tags and syntactic relations whose prediction performances benefit from the prevalence of a specific gender in the training data. The results underscore the importance of accounting for gendered differences in syntactic tasks, and outline future venues for developing more accurate taggers and parsers. We release our data to the research community."
+abstract: "User reviews provide a significant source of information for companies to understand their market and audience. In order to discover broad trends in this source, researchers have typically used topic models such as Latent Dirichlet Allocation (LDA). However, while there are metrics to choose the “best” number of topics, it is not clear whether the resulting topics can also provide in-depth, actionable product analysis. Our paper examines this issue by analyzing user reviews from the Best Buy US website for smart speakers. Using coherence scores to choose topics, we test whether the results help us to understand user interests and concerns. We find that while coherence scores are a good starting point to identify a number of topics, it still requires manual adaptation based on domain knowledge to provide market insights. We show that the resulting dimensions capture brand performance and differences, and differentiate the market into two distinct groups with different properties."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["pos tagging", "parsing", "NLP", "bias"]
+tags: ["NLP", "smart speakers", "topic modeling"]
 categories: []
 featured: false
 
