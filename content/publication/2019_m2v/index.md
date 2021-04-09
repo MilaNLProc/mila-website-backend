@@ -25,7 +25,7 @@ abstract: "Prior research has shown that geolocation can be substantially improv
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: [geolocation]
 categories: []
 featured: false
 

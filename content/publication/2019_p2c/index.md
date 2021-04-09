@@ -25,7 +25,7 @@ Geolocating social media posts relies on the assumption that language carries su
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: [geolocation]
 categories: []
 featured: false
 
