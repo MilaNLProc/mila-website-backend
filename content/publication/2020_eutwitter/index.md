@@ -4,7 +4,7 @@
 title: "Visualizing Regional Language Variation Across Europe on Twitter"
 authors: ["Dirk Hovy", "Afshin Rahimi", "Timothy Baldwin", "Julian Brooke"]
 date: 2020-03-22
-doi: ""
+doi: "https://doi.org/10.1007/978-3-319-73400-2_175-1"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-02-29T14:48:20+01:00
