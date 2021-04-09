@@ -37,6 +37,10 @@
       <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
     </h3>
 
+    <div class="article-style">
+      {{ .Date.Format "January, 2006" }}
+    </div>
+
     {{ with $summary }}
     <div class="article-style">
       {{ . }}
