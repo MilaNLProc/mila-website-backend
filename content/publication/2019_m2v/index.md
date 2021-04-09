@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Dense Node Representation for Geolocation"
-authors: [Fornaciari T.,  Hovy D.]
+authors: [Tommaso Fornaciari, Dirk Hovy]
 date: 2019-11-03
 doi: ""
 
@@ -19,7 +19,8 @@ publication_types: ["1"]
 publication: "Proceedings of the 5th Workshop on Noisy User-generated Text (WNUT)"
 publication_short: ""
 
-abstract: ""
+abstract: "Prior research has shown that geolocation can be substantially improved by including user network information. While effective, it suffers from the curse of dimensionality, since networks are usually represented as sparse adjacency matrices of connections, which grow exponentially with the number of users. In order to incorporate this information, we therefore need to limit the network size, in turn limiting performance and risking sample bias. In this paper, we address these limitations by instead using dense network representations. We explore two methods to learn continuous node representations from either 1) the network structure with node2vec (Grover and Leskovec, 2016), or 2) textual user mentions via doc2vec (Le and Mikolov, 2014). We combine both methods with input from social media posts in an attention-based convolutional neural network and evaluate the contribution of each component on geolocation performance. Our method enables us to incorporate arbitrarily large networks in a fixed-length vector, without limiting the network size. Our models achieve competitive results with similar state-of-the-art methods, but with much fewer model parameters, while being applicable to networks of virtually any size.
+"
 
 # Summary. An optional shortened abstract.
 summary: ""
