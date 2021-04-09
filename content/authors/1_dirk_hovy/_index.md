@@ -52,7 +52,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Director
+- Researchers
 ---
 
 **Dirk Hovy** is an Associate Professor of computer science in the Marketing Department of Bocconi, and the scientific director of the [Data and Marketing Insights](www.dmi.unibocconi.eu/) research unit. Previously, he was faculty at the University of Copenhagen, got a PhD from USC's Information Sciences Institute, and a linguistics master's in Germany.
