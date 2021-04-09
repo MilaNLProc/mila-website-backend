@@ -4,7 +4,7 @@ name: Dirk Hovy
 
 # Username (this should match the folder name)
 authors:
-- hovy_dirk
+- 1_dirk_hovy
 
 # Is this the primary user of the site?
 superuser: false
@@ -52,7 +52,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Director
+- Researchers
 ---
 
 **Dirk Hovy** is the scientific director of DMI and an Associate Professor in the Marketing Department. He has a background in Computer Science. His research focuses on natural language processing and computational social science, specifically, the interaction of demographic factors and language, and their consequences for performance, fairness, and personalization of statistical models. He is also interested in deep learning, graphical models, and ethical questions of bias and algorithmic fairness in machine learning.

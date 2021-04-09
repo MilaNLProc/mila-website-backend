@@ -4,7 +4,7 @@ name: Federico Bianchi
 
 # Username (this should match the folder name)
 authors:
-- bianchi_federico
+- federico_bianchi
 
 # Is this the primary user of the site?
 superuser: false
