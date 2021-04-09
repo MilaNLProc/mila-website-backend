@@ -17,7 +17,7 @@ height = "300px"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "MilaNLP Lab"
-  content = "The Milan Natural Language Processing Lab"
+  content = "We are the **Milan Natural Language Processing Group**. We study, develop and deploy NLP algorithms to solve real-world problems."
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
