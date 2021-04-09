@@ -19,12 +19,12 @@ publication_types: ["2"]
 publication: "Language Resources and Evaluation"
 publication_short: ""
 
-abstract: "dentifying deceptive online reviews is a challenging tasks for Natural Language Processing (NLP). Collecting corpora for the task is difficult, because normally it is not possible to know whether reviews are genuine. A common workaround involves collecting (supposedly) truthful reviews online and adding them to a set of deceptive reviews obtained through crowdsourcing services. Models trained this way are generally successful at discriminating between ‘genuine’ online reviews and the crowdsourced deceptive reviews. It has been argued that the deceptive reviews obtained via crowdsourcing are very different from real fake reviews, but the claim has never been properly tested. In this paper, we compare (false) crowdsourced reviews with a set of ‘real’ fake reviews published on line. We evaluate their degree of similarity and their usefulness in training models for the detection of untrustworthy reviews. We find that the deceptive reviews collected via crowdsourcing are significantly different from the fake reviews published online. In the case of the artificially produced deceptive texts, it turns out that their domain similarity with the targets affects the models’ performance, much more than their"
+abstract: "Identifying deceptive online reviews is a challenging tasks for Natural Language Processing (NLP). Collecting corpora for the task is difficult, because normally it is not possible to know whether reviews are genuine. A common workaround involves collecting (supposedly) truthful reviews online and adding them to a set of deceptive reviews obtained through crowdsourcing services. Models trained this way are generally successful at discriminating between ‘genuine’ online reviews and the crowdsourced deceptive reviews. It has been argued that the deceptive reviews obtained via crowdsourcing are very different from real fake reviews, but the claim has never been properly tested. In this paper, we compare (false) crowdsourced reviews with a set of ‘real’ fake reviews published on line. We evaluate their degree of similarity and their usefulness in training models for the detection of untrustworthy reviews. We find that the deceptive reviews collected via crowdsourcing are significantly different from the fake reviews published online. In the case of the artificially produced deceptive texts, it turns out that their domain similarity with the targets affects the models’ performance, much more than their"
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: [dataset, "deception detection", NLP]
 categories: []
 featured: false
 

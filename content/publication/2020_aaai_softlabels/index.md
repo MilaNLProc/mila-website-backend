@@ -25,7 +25,7 @@ abstract: "Recently, Peterson et al. provided evidence of the benefits of using 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: [annotation, disagreement, "loss function", "NLP"]
 categories: []
 featured: false
 

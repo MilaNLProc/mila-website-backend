@@ -25,7 +25,7 @@ abstract: "Recently, Natural Language Processing (NLP) has witnessed an impressi
 summary: ""
 
 
-tags: ["multilingual","BERT","Representation learning","NLP"]
+tags: ["multilingual","BERT","representation learning","NLP"]
 categories: []
 featured: false
 

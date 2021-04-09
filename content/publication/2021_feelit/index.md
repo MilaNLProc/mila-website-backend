@@ -27,7 +27,7 @@ We release an [open-source Python library](https://github.com/MilaNLProc/feel-it
 summary: ""
 
 
-tags: ["Sentiment Analysis","Emotion Detection","Italian","BERT","NLP"]
+tags: ["Sentiment Analysis","Emotion Detection","Italian","BERT","NLP", "dataset"]
 categories: []
 featured: false
 

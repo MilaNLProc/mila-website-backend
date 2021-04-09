@@ -24,7 +24,7 @@ abstract: "Geolocation, predicting the location of a post based on text and othe
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [geolocation, "multitask learning"]
+tags: [geolocation, "multitask learning", NLP]
 categories: []
 featured: false
 

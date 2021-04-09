@@ -26,7 +26,7 @@ In this paper, we introduce a zero-shot cross-lingual topic model, i.e., our mod
 summary: ""
 
 
-tags: ["multilingual","BERT","Topic Model","Representation learning","NLP"]
+tags: ["multilingual","BERT","topic modeling","representation learning","NLP"]
 categories: []
 featured: false
 

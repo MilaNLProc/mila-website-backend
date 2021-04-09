@@ -24,7 +24,7 @@ abstract: "Spotting a lie is challenging but has an enormous potential impact on
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: ["deception detection", dataset, NLP]
 categories: []
 featured: false
 

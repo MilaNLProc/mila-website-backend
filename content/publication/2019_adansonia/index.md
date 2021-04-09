@@ -24,7 +24,7 @@ abstract: "Can large-scale peer interaction foster entrepreneurship and innovati
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: ["social science", "economics", "text analysis"]
 categories: []
 featured: false
 
