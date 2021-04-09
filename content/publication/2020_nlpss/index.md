@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Text Analysis in Python for Social Scientists – Discovery and Exploration"
-authors: [""Dirk Hovy"]
+authors: ["Dirk Hovy"]
 date: 2020-12-16
 doi: ""
 
