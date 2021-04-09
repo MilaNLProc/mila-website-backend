@@ -40,6 +40,9 @@ social:
 - icon: user
   icon_pack: fas
   link: http://www.dirkhovy.com/
+- icon: linkedin
+  icon_pack: fab
+  link: https://it.linkedin.com/in/dirk-hovy-b1288a4
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
