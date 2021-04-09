@@ -16,6 +16,19 @@ role: Postdoc
 organizations:
 - name:
   url: ""
+  
+education:
+  courses:
+  - course: PhD in Computer Science
+    institution: University of Milano Bicocca
+    year: 2018
+email: ""
+    
+interests:
+- Natural Language Processing
+- Hate Speech
+- Ethics in NLP
+- Computational Social Science
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -56,5 +69,5 @@ user_groups:
 ---
 
 **Debora Nozza** is a Postdoctoral Research Fellow at [Bocconi University](https:\\www.bocconi.it/). Her research interests mainly focus on Natural Language Processing, specifically on the detection and counter-acting of hate speech and algorithmic bias on Social Media data in multilingual context.
-She was Area Chair at the 14th Women in [Machine Learning Workshop (WiML)](https://wimlworkshop.org/2019/) at NeurIPS 2019 and active member of the [Milan Women in Machine Learning and Data Science community](https://www.meetup.com/it-IT/Milan-Women-in-Machine-Learning-and-Data-Science/).
-She was one of the organizers of the task on Automatic Misogyny Identification (AMI) at [Evalita 2018](\url{http://www.evalita.it/2018}), and one of the organizers of the HatEval Task 5 at [SemEval 2019](http://alt.qcri.org/semeval2019/) on multilingual detection of hate speech against immigrants and women in Twitter.
+
+She was one of the organizers of the task on Automatic Misogyny Identification (AMI) at [Evalita 2018](\url{http://www.evalita.it/2018}) and [Evalita 2020](\url{https://amievalita2020.github.io/}), and one of the organizers of the HatEval Task 5 at [SemEval 2019](http://alt.qcri.org/semeval2019/) on multilingual detection of hate speech against immigrants and women in Twitter.
