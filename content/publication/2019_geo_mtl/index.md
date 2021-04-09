@@ -24,7 +24,7 @@ abstract: "Geolocation, predicting the location of a post based on text and othe
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [geolocation]
+tags: [geolocation, "multitask learning"]
 categories: []
 featured: false
 
@@ -49,7 +49,7 @@ url_video:
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Learned Language Differences across the Continent"
+  caption: ""
   focal_point: ""
   preview_only: false
 
