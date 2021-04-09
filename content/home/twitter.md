@@ -24,4 +24,4 @@ subtitle = ""
 +++
 
 
-<a class="twitter-timeline" data-width="320" data-height="300"  href="https://twitter.com/MilaNLProc?ref_src=twsrc%5Etfw">Tweets by MilaNLProc</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="620" data-height="300"  href="https://twitter.com/MilaNLProc?ref_src=twsrc%5Etfw">Tweets by MilaNLProc</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
