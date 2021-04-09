@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Geolocation with Attention-Based Multitask Learning Models"
-authors: [Fornaciari T.,  Hovy D.]
+authors: [Tommaso Fornaciari, Dirk Hovy]
 date: 2019-11-03
 doi: ""
 
@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "Proceedings of the 5th Workshop on Noisy User-generated Text (WNUT)"
 publication_short: ""
 
-abstract: ""
+abstract: "Geolocation, predicting the location of a post based on text and other information, has a huge potential for several social media applications. Typically, the problem is modeled as either multi-class classification or regression. In the first case, the classes are geographic areas previously identified; in the second, the models directly predict geographic coordinates. The former requires discretization of the coordinates, but yields better performance. The latter is potentially more precise and true to the nature of the problem, but often results in worse performance. We propose to combine the two approaches in an attention-based multitask convolutional neural network that jointly predicts both discrete locations and continuous geographic coordinates. We evaluate the multi-task (MTL) model against single-task models and prior work. We find that MTL significantly improves performance, reporting large gains on one data set, but also note that the correlation between labels and coordinates has a marked impact on the effectiveness of including a regression task."
 
 # Summary. An optional shortened abstract.
 summary: ""
