@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Bain and Company
+role: Bain & Company
 
 # Organizations/Affiliations
 organizations:
