@@ -44,7 +44,7 @@ url_poster:
 url_project: ""
 url_slides:
 url_source: ""
-url_video:
+url_video: "https://slideslive.com/38929459/predictive-biases-in-natural-language-processing-models-a-conceptual-framework-and-overview"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
