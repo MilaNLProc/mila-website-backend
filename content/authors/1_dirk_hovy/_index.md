@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Bocconi University
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
