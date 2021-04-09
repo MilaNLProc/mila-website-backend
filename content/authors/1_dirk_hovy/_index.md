@@ -4,7 +4,7 @@ name: Dirk Hovy
 
 # Username (this should match the folder name)
 authors:
-- 1_dirk_hovy
+- hovy_dirk
 
 # Is this the primary user of the site?
 superuser: false
@@ -52,7 +52,16 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Director
 ---
 
-**Dirk Hovy** is the scientific director of DMI and an Associate Professor in the Marketing Department. He has a background in Computer Science. His research focuses on natural language processing and computational social science, specifically, the interaction of demographic factors and language, and their consequences for performance, fairness, and personalization of statistical models. He is also interested in deep learning, graphical models, and ethical questions of bias and algorithmic fairness in machine learning.
+**Dirk Hovy** is an Associate Professor of computer science in the Marketing Department of Bocconi, and the scientific director of the [Data and Marketing Insights](www.dmi.unibocconi.eu/) research unit. Previously, he was faculty at the University of Copenhagen, got a PhD from USC's Information Sciences Institute, and a linguistics master's in Germany.
+
+Dirk is interested in the interaction between language, society, and machine learning, or what language can tell us about society, and what computers can tell us about language. He is also interested in ethical questions of bias and algorithmic fairness in machine learning.
+
+He has authored over [70 articles on these topics](https://scholar.google.com/citations?user=7xluaTAAAAAJ&hl=it&oi=ao), including 3 best paper awards, and a tetxbook on [NLP in Python](https://www.cambridge.org/core/elements/text-analysis-in-python-for-social-scientists/BFAB0A3604C7E29F6198EA2F7941DFF3).
+
+Dirk has co-founded and organized several workshops (on [computational social science](https://sites.google.com/site/nlpandcss/), and [ethics in NLP](http://ethicsinnlp.com/)), and was a local organizer for the EMNLP 2017 conference.
+He was awarded an ERC Starting Grant project 2020 for research on demographic bias in NLP.
+
+Outside of work, Dirk enjoys cooking, running, and leather-crafting.
