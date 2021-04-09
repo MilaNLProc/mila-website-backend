@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Dense Node Representation for Geolocation"
-authors: [Fornaciari T.,  Hovy D.]
+authors: [Tommaso Fornaciari, Dirk Hovy]
 date: 2019-11-03
 doi: ""
 
