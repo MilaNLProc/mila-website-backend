@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Improving Author Attribute Prediction by Retrofitting Linguistic Representations with Homophily"
+title: "Increasing In-Class Similarity by Retrofitting Embeddings with Demographic Information"
 authors: [Dirk Hovy, Tommaso Fornaciari]
 date: 2018-11-03
 doi: ""
