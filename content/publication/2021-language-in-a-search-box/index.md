@@ -5,7 +5,7 @@ title: "Language in a (Search) Box: Grounding Language Learning in Real-World Hu
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- admin
+- Federico Bianchi
 - Ciro Greco
 - Jacopo Tagliabue
 
