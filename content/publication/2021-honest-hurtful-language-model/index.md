@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "[2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics](https://2021.naacl.org/)"
 publication_short: "2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics"
 
-abstract: "Language models have revolutionized the field of NLP. However, language models capture and proliferate hurtful stereotypes, especially in text generation. Our results show that 4.3% of the time, language models complete a sentence with a hurtful word. These cases are not random, but follow language and gender-specific patterns. We propose a score to measure hurtful sentence completions in language models (HONEST). It uses a systematic template- and lexicon-based bias evaluation methodology for six languages. Our findings suggest that these models replicate and amplify deep-seated societal stereotypes about gender roles. Sentence completions refer to sexual promiscuity when the target is female in 9% of the time, and in 4% to homosexuality when the target is male.  The results raise questions about the use of these models in production settings."
+abstract: "Language models have revolutionized the field of NLP. However, language models capture and proliferate hurtful stereotypes, especially in text generation. Our results show that **4.3% of the time, language models complete a sentence with a hurtful word**. These cases are not random, but follow language and gender-specific patterns. We propose a score to measure hurtful sentence completions in language models (HONEST). It uses a systematic template- and lexicon-based bias evaluation methodology for six languages. Our findings suggest that these models replicate and amplify deep-seated societal stereotypes about gender roles. Sentence completions refer to sexual promiscuity when the target is female in 9% of the time, and in 4% to homosexuality when the target is male.  The results raise questions about the use of these models in production settings."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -49,10 +49,10 @@ url_video:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-#image:
-#  caption:
-#  focal_point: "Center"
-#  preview_only: false
+image:
+  caption: 'Examples of hurtful sentence completions'
+  focal_point: "Center"
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

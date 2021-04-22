@@ -16,8 +16,8 @@ publishDate: 2021-04-09T01:41:26+01:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Proceedings of the 2021 Conference of the European Chapter of the Association for Computational Linguistics"
-publication_short: ""
+publication: "In Proceedings of *The 16th Conference of the European Chapter of the Association for Computational Linguistics*"
+publication_short: "In *EACL*"
 
 abstract: "Spotting a lie is challenging but has an enormous potential impact on security as well as private and public safety. Several NLP methods have been proposed to classify texts as truthful or deceptive. In most cases, however, the target texts’ preceding context is not considered. This is a severe limitation, as any communication takes place in context, not in a vacuum, and context can help to detect deception. We study a corpus of Italian dialogues containing deceptive statements and implement deep neural models that incorporate various linguistic contexts. We establish a new state-of-the-art identifying deception and find that not all context is equally useful to the task. Only the texts closest to the target, if from the same speaker (rather than questions by an interlocutor), boost performance. We also find that the semantic information in language models such as BERT contributes to the performance. However, BERT alone does not capture the implicit knowledge of deception cues: its contribution is conditional on the concurrent use of attention to learn cues from BERT’s representations."
 
@@ -36,9 +36,9 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
-url_code:
-url_dataset:
+url_pdf: 'https://www.aclweb.org/anthology/2021.eacl-main.232.pdf'
+url_code: 'https://www.aclweb.org/anthology/attachments/2021.eacl-main.232.Software.zip'
+url_dataset: 'https://www.aclweb.org/anthology/attachments/2021.eacl-main.232.Dataset.zip'
 url_poster:
 url_project:
 url_slides:
@@ -46,7 +46,7 @@ url_source:
 url_video:
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
