@@ -7,7 +7,7 @@ We are delighted to announce that our group has four papers accepted at at ACL-I
 
 ---
 
-**Title**: [Pre-training is a Hot Topic: Contextualized Document Embeddings Improve Topic Coherence](https://milanlproc.github.io/publication/publication/2021-contextualized-improve-topic-models-coherence/)
+**Title**: [Pre-training is a Hot Topic: Contextualized Document Embeddings Improve Topic Coherence](https://milanlproc.github.io/publication/2021-contextualized-improve-topic-models-coherence/)
 
 **Authors**: [Federico Bianchi](https://milanlproc.github.io/authors/federico-bianchi/), Silvia Terragni, [Dirk Hovy](https://milanlproc.github.io/authors/dirk-hovy/)
 
