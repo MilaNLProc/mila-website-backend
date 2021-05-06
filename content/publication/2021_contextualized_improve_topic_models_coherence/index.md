@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Pre-training is a Hot Topic: Contextualized Document EmbeddingsImprove Topic Coherence"
+title: "Pre-training is a Hot Topic: Contextualized Document Embeddings Improve Topic Coherence"
 authors: [Federico Bianchi, Silvia Terragni, Dirk Hovy]
 date: 2021-08-06
 doi: ""
