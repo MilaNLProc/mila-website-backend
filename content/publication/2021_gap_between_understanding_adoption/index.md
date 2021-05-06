@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "BERTective: Language Models and Contextual Information for Deception Detection"
-authors: [Tommaso Fornaciari, Federico Bianchi, Dirk Hovy, Massimo Poesio]
-date: 2021-04-09
+title: "On the Gap between Adoption and Understanding in NLP"
+authors: [Federico Bianchi, Dirk Hovy]
+date: 2021-08-06
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-04-09T01:41:26+01:00
+publishDate: 2021-05-06T01:41:26+01:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,15 +16,15 @@ publishDate: 2021-04-09T01:41:26+01:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In Proceedings of *The 16th Conference of the European Chapter of the Association for Computational Linguistics*"
-publication_short: "In *EACL*"
+publication: "In Findings of the Association for Computational Linguistics: ACL 2021"
+publication_short: "In *Findings of the Association for Computational Linguistics*" 
 
-abstract: "Spotting a lie is challenging but has an enormous potential impact on security as well as private and public safety. Several NLP methods have been proposed to classify texts as truthful or deceptive. In most cases, however, the target texts’ preceding context is not considered. This is a severe limitation, as any communication takes place in context, not in a vacuum, and context can help to detect deception. We study a corpus of Italian dialogues containing deceptive statements and implement deep neural models that incorporate various linguistic contexts. We establish a new state-of-the-art identifying deception and find that not all context is equally useful to the task. Only the texts closest to the target, if from the same speaker (rather than questions by an interlocutor), boost performance. We also find that the semantic information in language models such as BERT contributes to the performance. However, BERT alone does not capture the implicit knowledge of deception cues: its contribution is conditional on the concurrent use of attention to learn cues from BERT’s representations."
+abstract: "There are some issues with current research trends in NLP that can hamper the free development of scientific research. We identify five of particular concern: 1) the early adoption of methods without sufficient understanding or analysis; 2) the preference for computational methods regardless of risks associated with their limitations; 3) the resulting bias in the papers we publish; 4) the impossibility of re-running some experiments due to their cost; 5) the dangers of unexplainable methods.  If these issues are not addressed, we risk a loss of reproducibility, reputability, and subsequently public trust in our field. In this position paper, we outline each of these points and suggest ways forward." 
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["deception detection", dataset, NLP]
+tags: [Position Paper, Issues, NLP]
 categories: []
 featured: false
 
@@ -36,9 +36,9 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: 'https://www.aclweb.org/anthology/2021.eacl-main.232.pdf'
-url_code: 'https://www.aclweb.org/anthology/attachments/2021.eacl-main.232.Software.zip'
-url_dataset: 'https://www.aclweb.org/anthology/attachments/2021.eacl-main.232.Dataset.zip'
+url_pdf: ''
+url_code: ''
+url_dataset: ''
 url_poster:
 url_project:
 url_slides:
