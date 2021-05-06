@@ -3,7 +3,7 @@
 
 title: "'We will Reduce Taxes' - Identifying Election Pledges with Language Models"
 authors: [Tommaso Fornaciari, Dirk Hovy, Elin Naurin, Julia Runeson, Robert Thomson, Pankaj Adhikari]
-date: 2021-05-06
+date: 2021-08-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

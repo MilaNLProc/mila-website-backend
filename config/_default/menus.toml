@@ -14,10 +14,10 @@
   #   url = "#posts"
   #   weight = 20
 
-  #[[main]]
-  #  name = "Blog"
-  #  url = "/post"
-  #  weight = 10
+  [[main]]
+    name = "News"
+    url = "/post"
+    weight = 10
 
   #[[main]]
   #  name = "Talks"
