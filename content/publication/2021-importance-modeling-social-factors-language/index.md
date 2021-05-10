@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "HONEST: Measuring Hurtful Sentence Completion in Language Models"
-authors: ["Debora Nozza", "Federico Bianchi", "Dirk Hovy"]
+title: "The Importance of Modeling Social Factors of Language: Theory and Practice"
+authors: ["Dirk Hovy", "Diyi Yang"]
 date: 2021-06-06
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-03-29T14:48:20+01:00
+publishDate: 2021-05-06T14:48:20+01:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,16 +16,19 @@ publishDate: 2021-03-29T14:48:20+01:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "[2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics](https://2021.naacl.org/)"
+publication: "[2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics](https://2021.naacl.org)"
 publication_short: "2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics"
 
-abstract: "Language models have revolutionized the field of NLP. However, language models capture and proliferate hurtful stereotypes, especially in text generation. Our results show that **4.3% of the time, language models complete a sentence with a hurtful word**. These cases are not random, but follow language and gender-specific patterns. We propose a score to measure hurtful sentence completions in language models (HONEST). It uses a systematic template- and lexicon-based bias evaluation methodology for six languages. Our findings suggest that these models replicate and amplify deep-seated societal stereotypes about gender roles. Sentence completions refer to sexual promiscuity when the target is female in 9% of the time, and in 4% to homosexuality when the target is male.  The results raise questions about the use of these models in production settings."
-
+abstract: "Natural language processing (NLP) applications are now more powerful and ubiquitous than ever before. With rapidly developing (neural) models and ever-more available data, current NLP models have access to more information than any human speaker during their life. Still, it would be hard to argue that NLP models have reached human-level capacity. 
+In this position paper, we argue that the reason for the current limitations is a focus on information content while ignoring language's social factors. We show that current NLP systems systematically break down when faced with interpreting the social factors of language. This limits applications to a subset of information-related tasks and prevents NLP from reaching human-level performance. At the same time, systems that incorporate even a minimum of social factors already show remarkable improvements.
+We formalize a taxonomy of seven social factors based on linguistic theory and exemplify current failures and emerging successes for each of them. 
+We suggest that the NLP community address social factors to get closer to the goal of human-like language understanding.
+"
 # Summary. An optional shortened abstract.
 summary: ""
 
 
-tags: ["Hate Speech","BERT","NLP"]
+tags: ["social factors","computational linguistics","NLP"]
 categories: []
 featured: false
 
@@ -50,7 +53,7 @@ url_video:
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: 'Examples of hurtful sentence completions'
+  caption: 'Hierarchy of social factors'
   focal_point: "Center"
   preview_only: false
 
