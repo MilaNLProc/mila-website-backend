@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "FEEL-IT: Emotion and Sentiment Classification for the Italian Language"
-authors: ["Federico Bianchi","Debora Nozza","Dirk Hovy"]
+title: "MilaNLP @ WASSA: Does BERT Feel Sad When You Cry?"
+authors: ["Tommaso Fornaciari", "Federico Bianchi","Debora Nozza","Dirk Hovy"]
 date: 2021-05-16
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-03-28T14:48:20+01:00
+publishDate: 2021-03-27T14:48:20+01:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,15 +19,13 @@ publication_types: ["1"]
 publication: "[11th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis](https://wt-public.emm4u.eu/wassa2021/)"
 publication_short: "11th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis at EACL 2021"
 
-abstract: "Sentiment analysis is a common task to understand people's reactions online. Still, we often need more nuanced information: is the post negative because the user is angry or because they are sad?
-An abundance of approaches has been introduced for tackling both tasks. However, at least for Italian, they all treat only one of the tasks at a time. We introduce FEEL-IT, a novel benchmark corpus of Italian Twitter posts annotated with four basic emotions: **anger**, **fear**, **joy**, **sadness**. By collapsing them, we can also do sentiment analysis. We evaluate our corpus on benchmark datasets for both emotion and sentiment classification,  obtaining competitive results.
-We release an [open-source Python library](https://github.com/MilaNLProc/feel-it), so researchers can use a model trained on FEEL-IT for inferring both sentiments and emotions from Italian text."
+abstract: "The paper describes the MilaNLP team’s submission (Bocconi University, Milan) in the WASSA 2021 Shared Task on Empathy Detection and Emotion Classification. We focus on Track 2 - Emotion Classification - which consists of predicting the emotion of reactions to English news stories at the essay-level. We test different models based on multi-task and multi-input frameworks. The goal was to better exploit all the correlated information given in the data set. We find, though, that empathy as an auxiliary task in multi-task learning and demographic attributes as additional input provide worse performance with respect to single-task learning. While the result is competitive in terms of the competition, our results suggest that emotion and empathy are not related tasks - at least for the purpose of prediction."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
 
-tags: ["Sentiment Analysis","Emotion Detection","Italian","BERT","NLP", "dataset"]
+tags: ["Emotion Detection","BERT","NLP"]
 categories: []
 featured: false
 
@@ -39,8 +37,8 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://www.aclweb.org/anthology/2021.wassa-1.8.pdf"
-url_code: "https://github.com/MilaNLProc/feel-it"
+url_pdf: "https://www.aclweb.org/anthology/2021.wassa-1.29.pdf"
+url_code:
 url_dataset:
 url_poster:
 url_project:

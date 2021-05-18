@@ -1,9 +1,15 @@
-@Inproceedings{fornaciari:eacl2021,
-	author    = {Fornaciari, Tommaso  and  Bianchi, Federico and Hovy, Dirk and Poesio, Massimo},
-	title     = {BERTective: Language Models and Contextual Information for Deception Detection},
-	booktitle = {Proceedings of the 2021 Conference of the European Chapter of the Association for Computational Linguistics},
-	month     = {April},
-	year      = {2021},
-	address   = {Online},
-	publisher = {Association for Computational Linguistics}
+@inproceedings{fornaciari-etal-2021-bertective,
+    title = "{BERT}ective: Language Models and Contextual Information for Deception Detection",
+    author = "Fornaciari, Tommaso  and
+      Bianchi, Federico  and
+      Poesio, Massimo  and
+      Hovy, Dirk",
+    booktitle = "Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume",
+    month = apr,
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2021.eacl-main.232",
+    pages = "2699--2708",
+    abstract = "Spotting a lie is challenging but has an enormous potential impact on security as well as private and public safety. Several NLP methods have been proposed to classify texts as truthful or deceptive. In most cases, however, the target texts{'} preceding context is not considered. This is a severe limitation, as any communication takes place in context, not in a vacuum, and context can help to detect deception. We study a corpus of Italian dialogues containing deceptive statements and implement deep neural models that incorporate various linguistic contexts. We establish a new state-of-the-art identifying deception and find that not all context is equally useful to the task. Only the texts closest to the target, if from the same speaker (rather than questions by an interlocutor), boost performance. We also find that the semantic information in language models such as BERT contributes to the performance. However, BERT alone does not capture the implicit knowledge of deception cues: its contribution is conditional on the concurrent use of attention to learn cues from BERT{'}s representations.",
 }
