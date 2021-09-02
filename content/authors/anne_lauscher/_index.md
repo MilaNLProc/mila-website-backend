@@ -33,7 +33,7 @@ social:
   link: https://twitter.com/anne_lauscher
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/https://scholar.google.de/citations?hl=en&user=IbJS3UEAAAAJ
+  link: https://scholar.google.de/citations?user=IbJS3UEAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/anlausch
