@@ -16,6 +16,20 @@ role: Postdoc
 organizations:
 - name:
   url: ""
+  
+education:
+  courses:
+  - course: PhD in Computer Science
+    institution: University of Mannheim
+    year: 2021
+email: ""
+    
+interests:
+- Ethics in Natural Language Processing
+- Computational Argumentation
+- Representation Learning
+- Transfer Learning
+
 
 # Short bio (displayed in user profile at end of posts)
 bio:
