@@ -30,7 +30,7 @@ social:
   link: 'mailto:anne.lauscher@unibocconi.it'  
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/annelauscher
+  link: https://twitter.com/anne_lauscher
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/https://scholar.google.de/citations?hl=en&user=IbJS3UEAAAAJ
@@ -55,4 +55,4 @@ user_groups:
 - Researchers
 ---
 
-**Anne Lauscher** recently started as a postdoctoral researcher in the Natural Language Processing group at Bocconi University in Milan, Italy, where she is working on introducing demographic factors into language processing systems with the aim of improving algorithmic performance and system fairness. She obtained her Ph.D., awarded with the highest honors, from the Data and Web Science group at the University of Mannheim, Germany, where her research focused on the interplay between language representations and computational argumentation. During her studies, she also interned at and became an independent research contractor for Grammarly Inc. and for the Allen Institute for Artificial Intelligence. Her research has been published at top-tier conferences in NLP and AI (EMNLP, ACL, AAAI, COLING), for which she also regularly serves as a program committee member and (ethics) reviewer. 
+**Anne Lauscher** recently started as a postdoctoral researcher in the Natural Language Processing group at Bocconi University in Milan, Italy, where she is working on introducing demographic factors into language processing systems with the aim of improving algorithmic performance and system fairness. She obtained her Ph.D., awarded with the highest honors, from the Data and Web Science group at the University of Mannheim, Germany, where her research focused on the interplay between language representations and computational argumentation. During her studies, she also interned at and became an independent research contractor for Grammarly Inc. and for the Allen Institute for Artificial Intelligence. 
