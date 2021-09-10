@@ -17,12 +17,6 @@ organizations:
 - name: University of Mannheim
   url: "https://www.uni-mannheim.de/dws/people/researchers/phd-students/kilian-theil/"
   
-<!-- education:
-  courses:
-  - course: PhD in Computer Science
-    institution: University of Mannheim
-    year: 2021
-email: "" -->
     
 interests:
 - Natural Language Processing
