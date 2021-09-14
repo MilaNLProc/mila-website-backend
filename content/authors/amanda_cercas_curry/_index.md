@@ -25,7 +25,10 @@ education:
 email: ""
     
 interests:
-- Natural Language Processing
+- Open Domain Dialogue Systems
+- Natural Language Generation
+- Ethics in Natural Language Processing
+
 
 
 # Short bio (displayed in user profile at end of posts)
@@ -47,10 +50,10 @@ social:
   link: https://scholar.google.it/citations?hl=en&user=wJ3c5wMAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/XXX
+  link: https://github.com/amandacurry
 - icon: user
   icon_pack: fas
-  link: http://XXX
+  link: https://amandacurry.github.io
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -66,4 +69,4 @@ user_groups:
 - Researchers
 ---
 
-**Amanda Cercas Curry** is a Postdoctoral Research Fellow at [Bocconi University](https:\\www.bocconi.it/). Her research interests mainly focus on Natural Language Processing, specifically on XXX.
+**Amanda Cercas Curry** is a Postdoctoral Research Fellow at [Bocconi University](https:\\www.bocconi.it/). Her research interests mainly focus on Natural Language Processing, specifically on open-domain conversational systems, their social impact and how we can develop more ethical AI across disciplines. During her PhD, she worked on abuse detection and mitigation in dialogue systems particularly when it comes to female digital assitants. During her PhD, she led her university’s team in the 2018 Amazon Alexa Challenge during which they were finalists. She also co-hosts the podcast “Let’s Chat Ethics” which covers current issues in AI Ethics. 
