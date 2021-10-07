@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "On the Gap between Adoption and Understanding in NLP"
-authors: [Federico Bianchi, Dirk Hovy]
+title: "Five sources of bias in natural language processing"
+authors: [Dirk Hovy, Shrimai Prabhumoye]
 date: 2021-08-06
 doi: ""
 
@@ -13,18 +13,18 @@ publishDate: 2021-05-06T01:41:26+01:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In Findings of the Association for Computational Linguistics: ACL 2021"
-publication_short: "In *Findings of the Association for Computational Linguistics*" 
+publication: "Language and Linguistics Compass"
+publication_short: "Language and Linguistics Compass" 
 
-abstract: "There are some issues with current research trends in NLP that can hamper the free development of scientific research. We identify five of particular concern: 1) the early adoption of methods without sufficient understanding or analysis; 2) the preference for computational methods regardless of risks associated with their limitations; 3) the resulting bias in the papers we publish; 4) the impossibility of re-running some experiments due to their cost; 5) the dangers of unexplainable methods.  If these issues are not addressed, we risk a loss of reproducibility, reputability, and subsequently public trust in our field. In this position paper, we outline each of these points and suggest ways forward." 
+abstract: "Recently, there has been an increased interest in demographically grounded bias in natural language processing (NLP) applications. Much of the recent work has focused on describing bias and providing an overview of bias in a larger context. Here, we provide a simple, actionable summary of this recent work. We outline five sources where bias can occur in NLP systems: (1) the data, (2) the annotation process, (3) the input representations, (4) the models, and finally (5) the research design (or how we conceptualize our research). We explore each of the bias sources in detail in this article, including examples and links to related work, as well as potential counter-measures." 
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [Position Paper, Issues, NLP]
+tags: [Position Paper, Issues, NLP, bias]
 categories: []
 featured: false
 
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: 'https://aclanthology.org/2021.findings-acl.340.pdf'
+url_pdf: 'https://onlinelibrary.wiley.com/doi/abs/10.1111/lnc3.12432'
 url_code: ''
 url_dataset: ''
 url_poster:

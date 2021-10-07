@@ -40,7 +40,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: ''
+url_pdf: 'https://aclanthology.org/2021.acl-short.96.pdf'
 url_code: 'https://github.com/MilaNLProc/contextualized-topic-models'
 url_dataset: ''
 url_poster:
