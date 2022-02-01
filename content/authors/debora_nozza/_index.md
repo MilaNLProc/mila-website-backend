@@ -66,7 +66,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
----s
+---
 
 **Debora Nozza** is a Postdoctoral Research Fellow at [Bocconi University](https:\\www.bocconi.it/). She was recently awarded a €120,000 grant from Fondazione Cariplo for her project [MONICA](https://milanlproc.github.io/project/monitoring_italian_measures_response_covid19/), which will focus on monitoring coverage, attitudes, and accessibility of Italian measures in response to COVID-19. Her research interests mainly focus on Natural Language Processing, specifically on the detection and counter-acting of hate speech and algorithmic bias on Social Media data in multilingual context.
 
