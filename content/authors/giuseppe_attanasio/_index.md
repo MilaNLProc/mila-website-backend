@@ -40,6 +40,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/giuseppe-attanasio/
+- icon: user
+  icon_pack: fas
+  link: https://gattanasio.cc
 - icon: music
   icon_pack: fas
   link: https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB?si=aad147ee54044638
