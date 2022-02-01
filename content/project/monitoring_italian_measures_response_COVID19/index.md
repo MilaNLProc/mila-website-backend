@@ -15,6 +15,11 @@ tags:
 - nlp
 ---
 
+PI: [Debora Nozza](https://milanlproc.github.io/authors/debora_nozza/)
+
+co-PI: [Dirk Hovy](https://milanlproc.github.io/authors/1_dirk_hovy/) and [Nicoletta Balbo](https://didattica.unibocconi.eu/docenti/cv.php?rif=92152)
+
+---
 
 The interdisciplinary MONICA project will create a **digital barometer of Italians’ attitudes towards the government measures implemented in response to COVID-19**. The pandemic has plunged millions of vulnerable people into abject poverty. The government created financial measures to improve the economic situation and social inclusion. However, it is unclear whether these measures reach those who need them most.
 To find out, we will uncover the public perception of these measures and provide concrete metrics for three related dimensions: 1) coverage of the potential beneficiaries, 2) attitudes of the Italian population stratified by different demographic factors, and 3) accessibility of the information. MONICA will provide citizens with a tool to automatically rank and simplify articles about requirements and steps to access these initiatives. MONICA will enable policymakers to understand which segments of the vulnerable population are not accessing these initiatives and why.
