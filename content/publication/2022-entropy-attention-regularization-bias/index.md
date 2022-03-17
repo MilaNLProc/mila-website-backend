@@ -3,7 +3,7 @@
 
 title: "Entropy-based Attention Regularization Frees Unintended Bias Mitigation from Lists"
 authors: ["Giuseppe Attanasio", "Debora Nozza", "Dirk Hovy", "Elena Baralis"]
-date: 2022-03-15
+date: 2022-03-14
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -24,7 +24,7 @@ abstract: "Natural Language Processing (NLP) models risk overfitting to specific
 summary: ""
 
 
-tags: ["Hate Speech","Mitigation", "Entropy", "Attention", "Regularization", "NLP"]
+tags: ["Hate Speech", "Bias", "Entropy", "Attention", "Regularization", "NLP"]
 categories: []
 featured: false
 
