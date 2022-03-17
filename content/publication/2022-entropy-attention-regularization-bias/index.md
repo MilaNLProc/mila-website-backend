@@ -3,7 +3,7 @@
 
 title: "Entropy-based Attention Regularization Frees Unintended Bias Mitigation from Lists"
 authors: ["Giuseppe Attanasio", "Debora Nozza", "Dirk Hovy", "Elena Baralis"]
-date: 2022-03-14
+date: 2022-03-15
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
