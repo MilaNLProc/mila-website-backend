@@ -37,12 +37,18 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
+# Custom links (uncomment lines below)
+links:
+ - name: Blog Post
+   url: https://towardsdatascience.com/can-too-much-bert-be-bad-for-you-92f0014e099b
+
+
 url_pdf:
-url_code:
+url_code: https://github.com/MilaNLProc/honest
 url_dataset:
-url_poster:
+url_poster: 2021-honest-hurtful-language-model-poster.pdf
 url_project:
-url_slides:
+url_slides: 2021-honest-hurtful-language-model-presentation.pdf
 url_source:
 url_video:
 

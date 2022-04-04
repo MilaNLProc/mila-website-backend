@@ -42,9 +42,9 @@ featured: false
 url_pdf:
 url_code:
 url_dataset:
-url_poster:
+url_poster: 2021-zeroshot-crosslingual-hate-speech-poster.pdf
 url_project:
-url_slides:
+url_slides: 2021-zeroshot-crosslingual-hate-speech-presentation.pdf
 url_source:
 url_video:
 
