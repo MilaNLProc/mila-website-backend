@@ -25,7 +25,8 @@ education:
 email: ""
     
 interests:
-- Ethics in Natural Language Processing
+- Ethical Artificial Intelligence
+- Conversational Artificial Intelligence
 - Computational Argumentation
 - Representation Learning
 - Transfer Learning
@@ -51,9 +52,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/anlausch
-#- icon: user
-#  icon_pack: fas
-#  link: https://federicobianchi.io/
+- icon: user
+  icon_pack: fas
+  link: https://anne-lauscher.de
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,4 +70,4 @@ user_groups:
 - Researchers
 ---
 
-**Anne Lauscher** recently started as a postdoctoral researcher in the Natural Language Processing group at Bocconi University in Milan, Italy, where she is working on introducing demographic factors into language processing systems with the aim of improving algorithmic performance and system fairness. She obtained her Ph.D., awarded with the highest honors, from the Data and Web Science group at the University of Mannheim, Germany, where her research focused on the interplay between language representations and computational argumentation. During her studies, she also interned at and became an independent research contractor for Grammarly Inc. and for the Allen Institute for Artificial Intelligence. 
+**Anne Lauscher (she/her)** is a postdoctoral researcher in the Natural Language Processing group at Bocconi University in Milan, Italy, where she is working on introducing demographic factors into language processing systems with the aim of improving algorithmic performance and system fairness. She obtained her Ph.D., awarded with the highest honors (summa cum laude), from the Data and Web Science group at the University of Mannheim, Germany, where her research focused on the interplay between language representations and computational argumentation. During her studies, she also interned at and became an independent research contractor for Grammarly Inc. and for the Allen Institute for Artificial Intelligence. In 2021, she received the Maria Gräfin von Linden-Award in life sciences/ STEM, which honors outstanding female researchers in the German State of Baden-Württemberg for her research on Ethical Artificial Intelligence.
