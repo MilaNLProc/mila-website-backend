@@ -53,7 +53,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 
 **Kilian Theil** is a visiting researcher from the University of Mannheim, Germany. He is currently finishing his PhD in AI and will stay with MilaNLP at Bocconi University until the end of October 2021. In his research, he explores applications of NLP and ML for predictions of uncertainty, risk, and personality in the financial domain. Furthermore, he is interested in studying the social and ethical implications of smart cities with agent-based modeling.
