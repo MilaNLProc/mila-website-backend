@@ -59,4 +59,4 @@ user_groups:
 At MilaNLP, he is working on personalisable models for hate speech detection as well as cross-lingual hate speech detection in low-resource settings.
 He will be in Milan until the end of July 2022.
 
-For more information, visit his [university profile](\url{https://www.oii.ox.ac.uk/people/profiles/paul-rottger/}) or [Google Scholar](\url{https://scholar.google.com/citations?user=7rpmd9cAAAAJ&hl=en}).
+For more information, visit his [university profile](https://www.oii.ox.ac.uk/people/profiles/paul-rottger/) or [Google Scholar](https://scholar.google.com/citations?user=7rpmd9cAAAAJ&hl=en).
