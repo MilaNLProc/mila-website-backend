@@ -40,10 +40,10 @@ featured: false
 
 # Custom links (uncomment lines below)
 
-url_pdf:
+url_pdf: https://aclanthology.org/2022.bigscience-1.6.pdf
 url_code: 
 url_dataset:
-url_poster: 
+url_poster: 2022-pipelines-social-bias-testing-language-models-poster.pdf
 url_project:
 url_slides: 
 url_source:
