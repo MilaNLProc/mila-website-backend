@@ -17,7 +17,7 @@ header:
 The Coding Aperitivo is our take on a weekly seminar series. We end the working week and wind down with some relaxed academic chatter, a drink and some snacks. 
 
 ### Dirk's Negroni
-When in Milan, drink as the Milanese. Though the official recipe calls for equal parts gin, Campari and red vermouth, here we opt for a punchier negroni, heavy on the gin. 
+When in Milan, drink as the Milanese. Though the official recipe calls for equal parts gin, Campari and red vermouth, here we opt for a punchier negroni, heavy on the gin. For a sbagliato, substitute the gin for prosecco.
 
 - 3-4 parts gin (to taste)
 - 2 parts campari

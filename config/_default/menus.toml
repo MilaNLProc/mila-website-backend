@@ -39,10 +39,10 @@
     url = "/publication"
     weight = 30
   
-  #[[main]]
-  #  name = "Coding Aperitivo"
-  #  url = "/coding_aperitivo"
-  #  weight = 40
+  [[main]]
+    name = "Coding Aperitivo"
+    url = "/coding_aperitivo"
+    weight = 40
 
   [[main]]
     name = "Contact"
