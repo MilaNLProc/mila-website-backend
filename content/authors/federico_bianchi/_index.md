@@ -52,7 +52,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 
 **Federico Bianchi** is a Postdoctoral Researcher at Bocconi, where he works on Natural Language Processing.
