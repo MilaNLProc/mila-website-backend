@@ -10,11 +10,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Visiting PhD Student
+role: PhD Student, University of Oxford
 
 # Organizations/Affiliations
 organizations:
-- name: 
+- name:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -24,22 +24,7 @@ bio:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:paul.rottger@oii.ox.ac.uk'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/paul_rottger
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=7rpmd9cAAAAJ&hl=en
-- icon: github
-  icon_pack: fab
-  link: https://github.com/paul-rottger
-- icon: user
-  icon_pack: fas
-  link: https://www.oii.ox.ac.uk/people/profiles/paul-rottger/
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -52,11 +37,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
-
-**Paul Rottger** is a visiting PhD student from the University of Oxford, where he researches NLP methods for hate speech detection.
-At MilaNLP, he is working on personalisable models for hate speech detection as well as cross-lingual hate speech detection in low-resource settings.
-He will be in Milan until the end of July 2022.
-
-For more information, visit his [university profile](https://www.oii.ox.ac.uk/people/profiles/paul-rottger/) or [Google Scholar](https://scholar.google.com/citations?user=7rpmd9cAAAAJ&hl=en).

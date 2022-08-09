@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoc
+role: Postdoc, Stanford University
 
 # Organizations/Affiliations
 organizations:
@@ -24,22 +24,6 @@ bio:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:f.bianchi@unibocconi.it'  
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/fb_vinid
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=1okGjb8AAAAJ&hl=it
-- icon: github
-  icon_pack: fab
-  link: https://github.com/vinid
-- icon: user
-  icon_pack: fas
-  link: https://federicobianchi.io/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -54,6 +38,3 @@ email: ""
 user_groups:
 - Alumni
 ---
-
-**Federico Bianchi** is a Postdoctoral Researcher at Bocconi, where he works on Natural Language Processing.
-His interests also revolve around Knowledge Representation and Neural-Symbolic Learning and Reasoning. AI Enthusiast, he also works with Knowledge Graphs and Knowledge Graphs Embeddings.
