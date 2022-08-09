@@ -37,7 +37,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: 
+url_pdf: https://aclanthology.org/2022.wassa-1.18.pdf
 url_code: "https://github.com/MilaNLProc/xlm-emo"
 url_dataset:
 url_poster:
@@ -49,10 +49,10 @@ url_video:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-#image:
-#  caption:
-#  focal_point: "Center"
-#  preview_only: false
+image:
+  caption: 'Covered languages'
+  focal_point: "Center"
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
