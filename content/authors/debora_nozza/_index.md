@@ -16,14 +16,14 @@ role: Postdoc
 organizations:
 - name:
   url: ""
-  
+
 education:
   courses:
   - course: PhD in Computer Science
     institution: University of Milano Bicocca
     year: 2018
 email: ""
-    
+
 interests:
 - Natural Language Processing
 - Hate Speech
@@ -52,7 +52,7 @@ social:
   link: https://github.com/dnozza
 - icon: user
   icon_pack: fas
-  link: http://dnozza.github.io
+  link: https://deboranozza.com/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
