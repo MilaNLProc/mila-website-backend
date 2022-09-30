@@ -10,51 +10,22 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoc
+role: Associate Professor, University of Hamburg
 
 # Organizations/Affiliations
 organizations:
 - name:
   url: ""
-  
-education:
-  courses:
-  - course: PhD in Computer Science
-    institution: University of Mannheim
-    year: 2021
-email: ""
-    
-interests:
-- Ethical Artificial Intelligence
-- Conversational Artificial Intelligence
-- Computational Argumentation
-- Representation Learning
-- Transfer Learning
 
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+#bio:
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:anne.lauscher@unibocconi.it'  
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/anne_lauscher
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.de/citations?user=IbJS3UEAAAAJ&hl=en
-- icon: github
-  icon_pack: fab
-  link: https://github.com/anlausch
-- icon: user
-  icon_pack: fas
-  link: https://anne-lauscher.de
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -67,7 +38,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
-
-**Anne Lauscher (she/her)** is a postdoctoral researcher in the Natural Language Processing group at Bocconi University in Milan, Italy, where she is working on introducing demographic factors into language processing systems with the aim of improving algorithmic performance and system fairness. She obtained her Ph.D., awarded with the highest honors (summa cum laude), from the Data and Web Science group at the University of Mannheim, Germany, where her research focused on the interplay between language representations and computational argumentation. During her studies, she also interned at and became an independent research contractor for Grammarly Inc. and for the Allen Institute for Artificial Intelligence. In 2021, she received the Maria Gräfin von Linden-Award in life sciences/ STEM, which honors outstanding female researchers in the German State of Baden-Württemberg for her research on Ethical Artificial Intelligence.
