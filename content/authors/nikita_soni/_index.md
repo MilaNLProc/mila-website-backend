@@ -17,20 +17,6 @@ organizations:
 - name:
   url: ""
 
-education:
-  courses:
-  - course: PhD in Computer Science
-    institution: Heriot-Watt University
-    year: 2021
-email: ""
-
-interests:
-- Open Domain Dialogue Systems
-- Natural Language Generation
-- Ethics in Natural Language Processing
-
-
-
 # Short bio (displayed in user profile at end of posts)
 bio:
 
