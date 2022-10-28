@@ -37,8 +37,8 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://aclanthology.org/2022.wassa-1.18.pdf
-url_code: "https://github.com/MilaNLProc/xlm-emo"
+url_pdf: https://aclanthology.org/2022.coling-1.105.pdf
+url_code: 
 url_dataset:
 url_poster:
 url_project:
@@ -50,7 +50,7 @@ url_video:
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: 'Covered languages'
+  caption: 'Neopronoun examples'
   focal_point: "Center"
   preview_only: false
 
