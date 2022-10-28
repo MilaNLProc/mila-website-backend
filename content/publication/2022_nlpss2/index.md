@@ -37,7 +37,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://www.cambridge.org/core/elements/text-analysis-in-python-for-social-scientists/BFAB0A3604C7E29F6198EA2F7941DFF3"
+url_pdf: "https://www.cambridge.org/core/elements/text-analysis-in-python-for-social-scientists/54B82AEA3FB586919A2265E6799ACB11"
 url_code: ""
 url_dataset:
 url_poster:
