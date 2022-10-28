@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Exposing the limits of Zero-shot Cross-lingual Hate Speech Detection"
+title: "Learning from Disagreement: A Survey"
 authors: ["Alexandra N Uma", "Tommaso Fornaciari", "Dirk Hovy", "Silviu Paun", "Barbara Plank", "Massimo Poesio"]
 date: 2021-12-27
 doi: ""
