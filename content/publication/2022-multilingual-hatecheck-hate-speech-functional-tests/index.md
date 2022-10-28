@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Multilingual HateCheck: Functional Tests for Multilingual Hate Speech Detection Models"
-authors: ["aul Röttger", "Haitham Seelawi", "Debora Nozza", "Zeerak Talat", "Bertie Vidgen"]
+authors: ["Paul Röttger", "Haitham Seelawi", "Debora Nozza", "Zeerak Talat", "Bertie Vidgen"]
 date: 2022-07-12
 doi: ""
 
