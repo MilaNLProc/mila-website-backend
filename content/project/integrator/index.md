@@ -5,7 +5,7 @@ summary: Incorporating Demographic Factors into Natural Language Processing Mode
 abstract: ""
 date: "2020-01-27T00:00:00Z"
 image:
-  caption: '[Photo by Clay Banks on Unsplash](https://unsplash.com/photos/LjqARJaJotc)'
+  caption: 'INTEGRATOR logo'
 
   focal_point: Smart
 
