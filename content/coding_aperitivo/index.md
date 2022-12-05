@@ -63,7 +63,22 @@ In previous sessions, some guests have:
 - [Christopher Klamm](https://chkla.github.io/gitPage/) (University of Mannheim) on *Defining and Measuring Polasiration Across Disciplines*
 - [Swabha Swayamdipta](https://swabhs.com/) (Allen Institute for AI) on *Annotation Challenges in NLP*
 - [Carlo Schwarz](https://carloschwarz.eu/about/) (Università Bocconi) on *How Polarized are Citizens? Measuring Ideology from the Ground-Up*
+- [Lorenzo Bertolini](https://lorenzoscottb.github.io/) (University of Sussex) on *Testing Language Models on Compositionality*
+- [Alessandro Raganato](https://raganato.github.io/) (University of Milano-Bicocca) 
 - [Mark Dingemanse](https://markdingemanse.net/) and [Andreas Liesenfeld](https://liesenf.github.io/) on *Language Diversity in Conversational AI Research*
 - [Agostina Calabrese](https://ago3.github.io/) (University of Edinburgh) on *If Data Patterns is the Answer, What was the Question?*
+- [Aida Mostafazadeh](https://aidamd.github.io/) (Google Research) on *incorporating annotators' psychological profiles into modeling language classification tasks*
+- [Myrthe Reuver](https://myrthereuver.github.io/) (Free University of Amsterdam (VU)) on *Viewpoint diversity in news recommendation: Theories, Models, and Tasks to support democracy.* 
+- [Tommaso Caselli](https://scholar.google.it/citations?user=fxQvP_QAAAAJ&hl=it) (Rijksuniveristeit Groningen) on *Language Resources to Monitor Abusive Language in Dutch*
+- [Valentin Hoffman](https://valentinhofmann.github.io/) (University of Oxford) on *Semantic Diffusion: Deep Learning Sense of network*
+- [Beatrice Savoldi](https://ict.fbk.eu/people/detail/beatrice-savoldi/) (University of Trento) on *Designing a course for Ethics in NLP*
+- [Hannah Rose Kirk](https://www.hannahrosekirk.com/) (University of Oxford) on *Bias harms and mitigation*
+- [Juan Manuel Perez](https://twitter.com/perezjotaeme) (Instituto de Investigación en Ciencias de la Computación UBA/CONICET) on *Assessing the impact of contextual information in hate speech detection*
+- [Daryna Dementieva](https://dardem.github.io/)(SkolTech) on *Text detoxification*
+- [Fabio Tollon](https://philpeople.org/profiles/fabio-tollon) (Bielefeld University) on *From designed properties to possibilities for action*
+- [Ryan Cotterell](https://rycolab.io/authors/ryan/) (ETH Zurich) on *Some Thoughts on Compositionality*
+- [William Agnew](https://sites.google.com/cs.washington.edu/william-agnew/home?pli=1) (University of Washington) on *Values, Ethics and NLP*
+- [Rami Aly](https://scholar.google.com/citations?user=dbzGY5YAAAAJ&hl=de) (University of Cambridge) on *automatic fact checking*
+- [Indira Sen](https://indiiigo.github.io/) (Leibnitz Institute for the Social Sciences) on *Measuring social constructs with NLP: Two case studies of abusive language and workplace depression*
 
 
