@@ -1,6 +1,6 @@
 ---
 title: Postdoctoral Researcher - Hate Speech Detection
-summary: Postdoctoral Researcher position up to 3 years - Deadline 23rd January 2023
+summary: "Postdoctoral Researcher position up to 3 years - Deadline 23 Jan 2023"
 abstract: ""
 date: "2020-01-27T00:00:00Z"
 categories:
