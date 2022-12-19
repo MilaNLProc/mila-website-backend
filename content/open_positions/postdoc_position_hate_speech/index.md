@@ -33,5 +33,7 @@ Position Details:
 
 How to apply:
 
-Go to the [Bocconi postdoc job market page](https://jobmarket.unibocconi.eu/?type=a&urlBack=/wps/wcm/connect/Bocconi/SitoPubblico_IT/Albero+di+navigazione/Home/docenti+e+ricerca/docenti/Reclutamento+docenti/Concorsi/Assegni+di+Ricerca/) and search for "*INDOMITA*" . 
+Go to the [Bocconi postdoc job market page](https://jobmarket.unibocconi.eu/?type=a&urlBack=/wps/wcm/connect/Bocconi/SitoPubblico_IT/Albero+di+navigazione/Home/docenti+e+ricerca/docenti/Reclutamento+docenti/Concorsi/Assegni+di+Ricerca/) and search for "*INDOMITA*", you will then have to click on "Apply online" for proceeding with the application. See below the screenshot of the application platform.
 Official job description at this [link](https://jobmarket.unibocconi.eu/include/dwload.php?a=NjY5XmM0YTkwM2I1ZjRkNTFmNzk0ODljYjJiZDRlZDkyZjA3Xi9kMC9hcGFjaGUvam9ibWFya2V0LnVuaWJvY2NvbmkuZXUvZGF0YS91cGxvYWQvQklEL3Nlc3Npb25fMjU1LTIwMjIxMTIzXmpta19zZXNfZmlsZV5qbWZfXmptZl9maWxlXjkyOQ==). Candidates should attach publications and a cover letter to their application. Online interviews will take place during February 2023. Please contact <dirk.hovy@unibocconi.it> if you have any question.
+
+![How to apply](how_to_apply.png)
