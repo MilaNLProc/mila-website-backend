@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Amanda Cercas Curry
+name: Donya Rooein
 
 # Username (this should match the folder name)
 authors:
-- amanda_cercas_curry
+- donya_rooein
 
 # Is this the primary user of the site?
 superuser: false
@@ -19,15 +19,15 @@ organizations:
   
 education:
   courses:
-  - course: PhD in Computer Science
-    institution: Heriot-Watt University 
-    year: 2021
+  - course: PhD in Information Technology Engineering
+    institution: Politecnico di Milano 
+    year: 2022
 email: ""
     
 interests:
-- Open Domain Dialogue Systems
-- Natural Language Generation
-- Ethics in Natural Language Processing
+- Natural Language Processing
+- Conversational Human-Machine Interaction
+- daptive Conversational Agents
 
 
 
@@ -41,19 +41,19 @@ bio:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:amanda.cercas@unibocconi.it'  # For a direct email link, use "mailto:debora.nozza@unibocconi.it".
+  link: 'mailto:donya.rooein@unibocconi.it'  # For a direct email link, use "mailto:debora.nozza@unibocconi.it".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/CurriedAmanda
+  link: https://twitter.com/donyarooein
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.it/citations?hl=en&user=wJ3c5wMAAAAJ
+  link: https://scholar.google.com/citations?user=1iRLeoMAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/amandacurry
-- icon: user
-  icon_pack: fas
-  link: https://amandacurry.github.io
+  link: https://github.com/donya-rooein
+# - icon: user
+#   icon_pack: fas
+#   link: https://amandacurry.github.io
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,4 +69,4 @@ user_groups:
 - Researchers
 ---
 
-**Amanda Cercas Curry** is a Postdoctoral Research Fellow at [Bocconi University](https:\\www.bocconi.it/). Her research interests mainly focus on Natural Language Processing, specifically on open-domain conversational systems, their social impact and how we can develop more ethical AI across disciplines. During her PhD, she worked on abuse detection and mitigation in dialogue systems particularly when it comes to female digital assitants. During her PhD, she led her university’s team in the 2018 Amazon Alexa Challenge during which they were finalists. She also co-hosts the podcast “Let’s Chat Ethics” which covers current issues in AI Ethics. 
+**Donya Rooein** is a Postdoctoral Research Fellow at [Bocconi University](https:\\www.bocconi.it/).  Her research interests include natural language processing, conversational agents, and applied machine learning. Donya completed her Ph.D. in Information Technology Engineering from Politecnico di Milano in October 2022. Her thesis was “A Scalable, Reconfigurable, and Adaptive Framework for Chatbots in Education”. During her Ph.D., she focused on adaptive conversational agents; in particular, she designed and developed highly configurable chatbots in education to support various actors with different demographics.
