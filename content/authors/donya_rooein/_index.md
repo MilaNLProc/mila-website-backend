@@ -27,7 +27,7 @@ email: ""
 interests:
 - Natural Language Processing
 - Conversational Human-Machine Interaction
-- daptive Conversational Agents
+- Adaptive Conversational Agents
 
 
 
