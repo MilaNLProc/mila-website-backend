@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Amanda Cercas Curry
+name: Flor Plaza 
 
 # Username (this should match the folder name)
 authors:
-- amanda_cercas_curry
+- flor_plaza
 
 # Is this the primary user of the site?
 superuser: false
@@ -20,15 +20,16 @@ organizations:
 education:
   courses:
   - course: PhD in Computer Science
-    institution: Heriot-Watt University 
-    year: 2021
+    institution: SINAI (University of Jaén) 
+    year: 2023
 email: ""
     
 interests:
-- Open Domain Dialogue Systems
-- Natural Language Generation
-- Ethics in Natural Language Processing
-
+- Natural Language Processing
+- NLP for social good
+- Hate Speech Detection
+- Emotion Analysis
+- Early Detection of Mental Health Disorders
 
 
 # Short bio (displayed in user profile at end of posts)
@@ -41,19 +42,19 @@ bio:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:amanda.cercas@unibocconi.it'  # For a direct email link, use "mailto:debora.nozza@unibocconi.it".
+  link: 'mailto:flor.plaza@unibocconi.it'  # For a direct email link, use "mailto:debora.nozza@unibocconi.it".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/CurriedAmanda
+  link: https://twitter.com/florplaza22
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.it/citations?hl=en&user=wJ3c5wMAAAAJ
+  link: https://scholar.google.it/citations?hl=en&user=4GqDwGEAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/amandacurry
+  link: https://github.com/fmplaza
 - icon: user
   icon_pack: fas
-  link: https://amandacurry.github.io
+  link: https://fmplaza.github.io
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,4 +70,5 @@ user_groups:
 - Researchers
 ---
 
-**Amanda Cercas Curry** is a Postdoctoral Research Fellow at [Bocconi University](https:\\www.bocconi.it/). Her research interests mainly focus on Natural Language Processing, specifically on open-domain conversational systems, their social impact and how we can develop more ethical AI across disciplines. During her PhD, she worked on abuse detection and mitigation in dialogue systems particularly when it comes to female digital assitants. During her PhD, she led her university’s team in the 2018 Amazon Alexa Challenge during which they were finalists. She also co-hosts the podcast “Let’s Chat Ethics” which covers current issues in AI Ethics. 
+**Flor Miriam Plaza-del-Arco** is a Postdoctoral Research Fellow at [Bocconi University](https:\\www.bocconi.it/). Her research interests mainly focus on Natural Language Processing, specifically on the detection of hate speech and the analysis of emotions on Social Media. During her PhD, she worked on offensive language detection on social media in both English and Spanish, specifically she created different resources including corpora and lexicons, as well as developed computational systems that benefit from different linguistic phenomena to detect offensive language more accurately. 
+She has co-organized the [EmoEvalEs](https://competitions.codalab.org/competitions/28682) and [MeOffendES](https://competitions.codalab.org/competitions/28679) shared tasks at IberLEF 2021 on offensive language detection and emotion detection. She has also co-organized the 36th and 37th editions of the [SEPLN Conference](http://www.sepln.org/en).
