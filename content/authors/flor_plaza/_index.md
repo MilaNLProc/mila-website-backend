@@ -29,7 +29,7 @@ interests:
 - NLP for social good
 - Hate Speech Detection
 - Emotion Analysis
-- Early Detection of Mental Health Disorders
+#- Early Detection of Mental Health Disorders
 
 
 # Short bio (displayed in user profile at end of posts)
