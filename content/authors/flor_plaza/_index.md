@@ -71,4 +71,5 @@ user_groups:
 ---
 
 **Flor Miriam Plaza-del-Arco** is a Postdoctoral Research Fellow at [Bocconi University](https:\\www.bocconi.it/). Her research interests mainly focus on Natural Language Processing, specifically on the detection of hate speech and the analysis of emotions on Social Media. During her PhD, she worked on offensive language detection on social media in both English and Spanish, specifically she created different resources including corpora and lexicons, as well as developed computational systems that benefit from different linguistic phenomena to detect offensive language more accurately. 
+
 She has co-organized the [EmoEvalEs](https://competitions.codalab.org/competitions/28682) and [MeOffendES](https://competitions.codalab.org/competitions/28679) shared tasks at IberLEF 2021 on offensive language detection and emotion detection. She has also co-organized the 36th and 37th editions of the [SEPLN Conference](http://www.sepln.org/en).
