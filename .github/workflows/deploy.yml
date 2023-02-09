@@ -29,6 +29,6 @@ jobs:
           external_repository: MilaNLProc/MilaNLProc.github.io
           publish_dir: ./public
           #   keep_files: true
-          user_name: vinid
-          user_email: chiccobia@gmail.com
+          user_name: dnozza
+          user_email: nozza.debora@gmail.com
           publish_branch: main
