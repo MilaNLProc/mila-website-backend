@@ -37,7 +37,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://arxiv.org/pdf/2210.11359.pdf
+url_pdf: https://aclanthology.org/2022.emnlp-main.383.pdf
 url_code:
 url_dataset:
 url_poster:
