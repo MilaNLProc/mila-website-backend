@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "XLM-EMO: Multilingual Emotion Prediction in Social Media Text"
+title: "It's Not Just Hate: A Multi-Dimensional Perspective on Detecting Harmful Speech Online"
 authors: ["Federico Bianchi","Stefanie Hills", "Patricia Rossini" ,"Dirk Hovy", "Rebekah Tromble", "Nava Tintarev"]
 date: 2022-12-12
 doi: ""
