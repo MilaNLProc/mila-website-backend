@@ -58,11 +58,11 @@ user_groups:
 - Researchers
 ---
 
-**Dirk Hovy** is an Associate Professor of computer science in the Marketing Department of Bocconi, and the scientific director of the [Data and Marketing Insights](www.dmi.unibocconi.eu/) research unit. Previously, he was faculty at the University of Copenhagen, got a PhD from USC's Information Sciences Institute, and a linguistics master's in Germany.
+**Dirk Hovy** is an Associate Professor in the Computing Sciences Department of Bocconi University, and the scientific director of the [Data and Marketing Insights](www.dmi.unibocconi.eu/) research unit. Previously, he was faculty at the University of Copenhagen, got a PhD from USC's Information Sciences Institute, and a linguistics master's in Germany.
 
 Dirk is interested in the interaction between language, society, and machine learning, or what language can tell us about society, and what computers can tell us about language. He is also interested in ethical questions of bias and algorithmic fairness in machine learning.
 
-He has authored over [70 articles on these topics](https://scholar.google.com/citations?user=7xluaTAAAAAJ&hl=it&oi=ao), including 3 best paper awards, and a tetxbook on [NLP in Python](https://www.cambridge.org/core/elements/text-analysis-in-python-for-social-scientists/BFAB0A3604C7E29F6198EA2F7941DFF3).
+He has authored over [100 articles on these topics](https://scholar.google.com/citations?user=7xluaTAAAAAJ&hl=it&oi=ao), including 3 best paper awards, and [two](https://www.cambridge.org/core/elements/text-analysis-in-python-for-social-scientists/BFAB0A3604C7E29F6198EA2F7941DFF3) [textbooks](https://www.cambridge.org/core/elements/abs/text-analysis-in-python-for-social-scientists/54B82AEA3FB586919A2265E6799ACB11) on NLP in Python.
 
 Dirk has co-founded and organized several workshops (on [computational social science](https://sites.google.com/site/nlpandcss/), and [ethics in NLP](http://ethicsinnlp.com/)), and was a local organizer for the EMNLP 2017 conference.
 He was awarded an ERC Starting Grant project 2020 for research on demographic bias in NLP.
