@@ -41,7 +41,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Students
+- Alumni
 ---
 
 **Jan Globisz** is a Master’s student of Data Science and Business Analytics at Bocconi University. As a research assistant, he worked on uncovering the demographic features from SCOTUS judgments, as well as monitoring the changing roles of males and females in Swedish parenthood. In his thesis, he explored the topic of corruption in public procurement and built a classification model for detecting corruption risks in European calls for tenders. In his spare time, he supports the work of an NGO helping refugees from Ukraine and the Polish - Belarusian border.
