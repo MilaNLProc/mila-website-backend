@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Viewpoint: Artificial Intelligence Accidents Waiting to Happen? "
+title: "Viewpoint: Artificial Intelligence Accidents Waiting to Happen?"
 authors: ["Federico Bianchi","Amanda Cercas Curry","Dirk Hovy"]
 date: 2023-01-08
 doi: ""
@@ -23,7 +23,6 @@ abstract: "Artificial Intelligence (AI) is at a crucial point in its development
 
 # Summary. An optional shortened abstract.
 summary: ""
-
 
 tags: ["AI","models","sociology"]
 categories: []
