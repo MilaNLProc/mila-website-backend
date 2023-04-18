@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://www.jair.org/index.php/jair/article/view/14263/26889
+url_pdf: "https://www.jair.org/index.php/jair/article/view/14263/26889"
 url_code:
 url_dataset:
 url_poster:
@@ -65,5 +65,5 @@ projects: [integrator]
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: ""
+#   slides: ""
 ---
