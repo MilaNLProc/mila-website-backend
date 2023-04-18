@@ -3,7 +3,7 @@
 
 title: "Language Invariant Properties in Natural Language Processing"
 authors: ["Federico Bianchi","Debora Nozza","Dirk Hovy"]
-date: 2022-04-212
+date: 2022-04-21
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
