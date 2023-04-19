@@ -61,6 +61,12 @@ jobs:
         uses: actions/upload-pages-artifact@v1
         with:
           path: ./public
+          personal_token: ${{ secrets.TOKEN }}
+          external_repository: MilaNLProc/MilaNLProc.github.io
+          #   keep_files: true
+          user_name: dnozza
+          user_email: nozza.debora@gmail.com
+          publish_branch: main
 
   # Deployment job
   deploy:
