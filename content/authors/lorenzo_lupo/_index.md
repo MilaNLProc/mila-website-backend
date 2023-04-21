@@ -17,18 +17,18 @@ organizations:
 - name:
   url: ""
   
-education:
-  courses:
-  - course: PhD in machine learning and natural language processing 
-    institution: Université Grenoble-Alpes, team GETALP, and Naver Labs Europe
-    year: 2023
-email: ""
+# education:
+#   courses:
+#   - course: PhD in Computer Science 
+#     institution: Université Grenoble-Alpes, team GETALP, and Naver Labs Europe
+#     year: 2023
+# email: ""
     
-interests:
-- Natural Language Processing
-- machine translation
-- automatic grammatical error correction
-- reinforcement learning
+# interests:
+# - Natural Language Processing
+# - Social and Sustainable innovation
+# - automatic grammatical error correction
+# - reinforcement learning
 
 
 
@@ -42,10 +42,10 @@ bio:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:lorenzo.lupo2@unibocconi.it'  # For a direct email link, use "mailto:debora.nozza@unibocconi.it".
+  link: 'mailto:lorenzo.lupo2@unibocconi.it'
 - icon: twitter
   icon_pack: fab
-  link: 
+  link: https://twitter.com/lorelupo
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=X3KOx8UAAAAJ&hl=en
@@ -59,12 +59,12 @@ social:
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: https://lorelupo.github.io/docs/Lorenzo_Lupo_CV.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: https://lorelupo.github.io/docs/Lorenzo_Lupo_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "lorenzo.lupo2@unibocconi.it"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -72,4 +72,6 @@ user_groups:
 - Researchers
 ---
 
-**Lorenzo Lupo** is a Postdoctoral Research Fellow at [Bocconi University](https:\\www.bocconi.it/) in the MENTALISM project.
+**Lorenzo Lupo** is a postdoctoral research fellow at Bocconi University, working on natural language processing and its applications to social and economic challenges. He is collaborating to the MENTALISM project, combining text analysis and machine learning with survey data to track inequality. 
+
+More on his [personal website](https://lorelupo.github.io/).
