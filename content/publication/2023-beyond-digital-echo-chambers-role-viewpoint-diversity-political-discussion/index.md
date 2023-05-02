@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: 'Beyond Digital "Echo Chambers": The Role of Viewpoint Diversity in Political Discussion'
+title: "Beyond Digital 'Echo Chambers': The Role of Viewpoint Diversity in Political Discussion"
 authors: ["Rishav Hada", "Amir Ebrahimi Fard", "Sarah Shugars", "Federico Bianchi", "Patricia Rossini", "Dirk Hovy", "Rebekah Tromble", "Nava Tintareva"]
 date: 2023-02-27
 doi: ""
@@ -58,7 +58,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: ["twitter health"]
+projects: [twitterhealth]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
