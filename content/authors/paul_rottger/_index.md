@@ -28,7 +28,7 @@ education:
 email: ""
     
 interests:
-- Social Values in Large Language Models
+- Social Values in NLP
 - Evaluating Large Language Models
 - Language Model Safety
 
