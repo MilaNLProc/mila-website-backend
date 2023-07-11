@@ -25,7 +25,7 @@ abstract: "Machine learning models are now able to convert user-written text des
 summary: ""
 
 
-tags: ["Vision","NLP","Bias"]
+tags: ["Vision","NLP","Bias","Fairness"]
 categories: []
 featured: false
 
