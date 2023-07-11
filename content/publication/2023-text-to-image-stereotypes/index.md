@@ -13,7 +13,7 @@ publishDate: 2023-05-07T14:48:20+01:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "[Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency - FAACT 2023](https://facctconference.org/2023/)"
