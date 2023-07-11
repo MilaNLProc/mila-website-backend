@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Associate Professor
+role: Full Professor
 
 # Organizations/Affiliations
 organizations:
@@ -58,7 +58,7 @@ user_groups:
 - Researchers
 ---
 
-**Dirk Hovy** is an Associate Professor in the Computing Sciences Department of Bocconi University, and the scientific director of the [Data and Marketing Insights](www.dmi.unibocconi.eu/) research unit. Previously, he was faculty at the University of Copenhagen, got a PhD from USC's Information Sciences Institute, and a linguistics master's in Germany.
+**Dirk Hovy** is a Full Professor in the Computing Sciences Department of Bocconi University, and the scientific director of the [Data and Marketing Insights](www.dmi.unibocconi.eu/) research unit. Previously, he was faculty at the University of Copenhagen, got a PhD from USC's Information Sciences Institute, and a linguistics master's in Germany.
 
 Dirk is interested in the interaction between language, society, and machine learning, or what language can tell us about society, and what computers can tell us about language. He is also interested in ethical questions of bias and algorithmic fairness in machine learning.
 
