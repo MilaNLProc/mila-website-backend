@@ -2,7 +2,7 @@
 title: Postdoctoral Researcher - Natural Language Processing
 summary: "Postdoctoral Researcher position up to 2 years - Deadline 1 Sep 2023"
 abstract: ""
-date: "2023-06-27T00:00:00Z"
+date: "2023-07-12T00:00:00Z"
 categories:
 tags:
 - computational social sciences
