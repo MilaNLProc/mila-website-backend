@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The State of Profanity Obfuscation in Natural Language Processing Scientific Publications"
-authors: ["Debora Nozza","Dirk Hovy"]
-date: 2023-07-12
+title: "A Cross-Lingual Study of Homotransphobia on Twitter"
+authors: ["Davide Locatelli","Greta Damo","Debora Nozza"]
+date: 2023-05-12
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2023-07-12T14:48:20+01:00
+publishDate: 2023-05-12T14:48:20+01:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,10 +16,10 @@ publishDate: 2023-07-12T14:48:20+01:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "[Findings of the Association for Computational Linguistics: ACL 2023](https://2023.aclweb.org/)"
-publication_short: "Findings of the Association for Computational Linguistics: ACL 2023"
+publication: "[First Workshop on Cross-Cultural Considerations in NLP (C3NLP) at EACL 2023](https://sites.google.com/view/c3nlp)"
+publication_short: "First Workshop on Cross-Cultural Considerations in NLP (C3NLP) at EACL 2023"
 
-abstract: "Work on hate speech has made considering rude and harmful examples in scientific publications inevitable. This situation raises various problems, such as whether or not to obscure profanities. While science must accurately disclose what it does, the unwarranted spread of hate speech can harm readers and increases its internet frequency. While maintaining publications’ professional appearance, obfuscating profanities makes it challenging to evaluate the content, especially for non-native speakers. Surveying 150 ACL papers, we discovered that obfuscation is usually used for English but not other languages, and even then, quite unevenly. We discuss the problems with obfuscation and suggest a multilingual community resource called PrOf with a Python module to standardize profanity obfuscation processes. We believe PrOf can help scientific publication policies to make hate speech work accessible and comparable, irrespective of language."
+abstract: "We present a cross-lingual study of homotransphobia on Twitter, examining the prevalence and forms of homotransphobic content in tweets related to LGBT issues in seven languages. Our findings reveal that homotransphobia is a global problem that takes on distinct cultural expressions, influenced by factors such as misinformation, cultural prejudices, and religious beliefs. To aid the detection of hate speech, we also devise a taxonomy that classifies public discourse around LGBT issues. By contributing to the growing body of research on online hate speech, our study provides valuable insights for creating effective strategies to combat homotransphobia on social media."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -37,8 +37,8 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://aclanthology.org/2023.findings-acl.240.pdf
-url_code: "https://github.com/dnozza/profanity-obfuscation"
+url_pdf: https://aclanthology.org/2023.c3nlp-1.3.pdf
+url_code: 
 url_dataset:
 url_poster:
 url_project:
@@ -50,7 +50,7 @@ url_video:
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: 'Code'
+  caption: 'Taxonomy'
   focal_point: "Center"
   preview_only: false
 
@@ -59,7 +59,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [integrator]
+projects: [monica]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

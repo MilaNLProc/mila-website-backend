@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The State of Profanity Obfuscation in Natural Language Processing Scientific Publications"
-authors: ["Debora Nozza","Dirk Hovy"]
+title: "Respectful or Toxic? Using Zero-Shot Learning with Language Models to Detect Hate Speech"
+authors: ["Flor Miriam Plaza-del-Arco","Debora Nozza","Dirk Hovy"]
 date: 2023-07-12
 doi: ""
 
@@ -16,10 +16,10 @@ publishDate: 2023-07-12T14:48:20+01:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "[Findings of the Association for Computational Linguistics: ACL 2023](https://2023.aclweb.org/)"
-publication_short: "Findings of the Association for Computational Linguistics: ACL 2023"
+publication: "[The 7th Workshop on Online Abuse and Harms (WOAH) at ACL 2023](https://www.workshopononlineabuse.com/)"
+publication_short: "The 7th Workshop on Online Abuse and Harms (WOAH) at ACL 2023"
 
-abstract: "Work on hate speech has made considering rude and harmful examples in scientific publications inevitable. This situation raises various problems, such as whether or not to obscure profanities. While science must accurately disclose what it does, the unwarranted spread of hate speech can harm readers and increases its internet frequency. While maintaining publications’ professional appearance, obfuscating profanities makes it challenging to evaluate the content, especially for non-native speakers. Surveying 150 ACL papers, we discovered that obfuscation is usually used for English but not other languages, and even then, quite unevenly. We discuss the problems with obfuscation and suggest a multilingual community resource called PrOf with a Python module to standardize profanity obfuscation processes. We believe PrOf can help scientific publication policies to make hate speech work accessible and comparable, irrespective of language."
+abstract: "Hate speech detection faces two significant challenges: 1) the limited availability of labeled data and 2) the high variability of hate speech across different contexts and languages. Prompting brings a ray of hope to these challenges. It allows injecting a model with task-specific knowledge without relying on labeled data. This paper explores zero-shot learning with prompting for hate speech detection. We investigate how well zero-shot learning can detect hate speech in 3 languages with limited labeled data. We experiment with various large language models and verbalizers on 8 benchmark datasets. Our findings highlight the impact of prompt selection on the results. They also suggest that prompting, specifically with recent large language models, can achieve performance comparable to and surpass fine-tuned models, making it a promising alternative for under-resourced languages. Our findings highlight the potential of prompting for hate speech detection and show how both the prompt and the model have a significant impact on achieving more accurate predictions in this task."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -37,8 +37,8 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://aclanthology.org/2023.findings-acl.240.pdf
-url_code: "https://github.com/dnozza/profanity-obfuscation"
+url_pdf: https://aclanthology.org/2023.woah-1.6.pdf
+url_code: 
 url_dataset:
 url_poster:
 url_project:
@@ -50,7 +50,7 @@ url_video:
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: 'Code'
+  caption: 'Findings'
   focal_point: "Center"
   preview_only: false
 
@@ -59,7 +59,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [integrator]
+projects: [integrator,monica]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
