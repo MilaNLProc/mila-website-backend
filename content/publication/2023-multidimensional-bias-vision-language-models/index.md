@@ -38,7 +38,7 @@ featured: false
 #   icon: twitter
 
 url_pdf: https://aclanthology.org/2023.findings-acl.403.pdf
-url_code: 
+url_code:
 url_dataset:
 url_poster:
 url_project:
@@ -59,7 +59,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [integrator]
+projects: [monica]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
