@@ -33,5 +33,5 @@ Position Details:
 
 How to apply:
 
-Go to the [Bocconi postdoc job market page](https://jobmarket.unibocconi.eu/?type=a&urlBack=/wps/wcm/connect/Bocconi/SitoPubblico_IT/Albero+di+navigazione/Home/docenti+e+ricerca/docenti/Reclutamento+docenti/Concorsi/Assegni+di+Ricerca/) and search for **Natural language processing**".
+Go to the [Bocconi postdoc job market page](https://jobmarket.unibocconi.eu/?type=a&urlBack=/wps/wcm/connect/Bocconi/SitoPubblico_IT/Albero+di+navigazione/Home/docenti+e+ricerca/docenti/Reclutamento+docenti/Concorsi/Assegni+di+Ricerca/) and search for "**Natural language processing**".
 Official job description at this [link](https://jobmarket.unibocconi.eu/include/dwload.php?a=NjUxXjgyNTgxYjQyOGEyOTE3OWY5MzNmNTZhZDIwODUyNjkxXnVwbG9hZC9EUkIvc2Vzc2lvbl8zOTItMjAyMzA3MTJeam1rX3Nlc19maWxlXmptZl9eam1mX2ZpbGVeMTcwNQ==). Candidates should attach publications and a cover letter to their application. Online interviews will take place during September 2023. Please contact <debora.nozza@unibocconi.it> if you have any question.
