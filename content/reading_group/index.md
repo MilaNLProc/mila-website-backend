@@ -37,4 +37,4 @@ It currently takes place every Thursday at 12:00 PM (Rome). For more info, feel 
 - Dec-21
 - Dec-28, *break (Christmas)*
 
-![Cat Humpdar](https://giphy.com/gifs/cat-book-reading-LkjlH3rVETgsg)
+![Cat Humpdar](https://media.giphy.com/media/LkjlH3rVETgsg/giphy.gif)
