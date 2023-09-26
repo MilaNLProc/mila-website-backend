@@ -37,4 +37,4 @@ It currently takes place every Thursday at 12:00 PM (Rome). For more info, feel 
 - Dec-21
 - Dec-28, *break (Christmas)*
 
-![Cat Humpdar](https://media.giphy.com/media/LkjlH3rVETgsg/giphy.gif)
+![Image](https://storage.googleapis.com/pai-images/4052a8b4bb134ffb953b417e3a03da6e.jpeg)
