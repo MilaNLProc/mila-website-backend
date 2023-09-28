@@ -20,14 +20,14 @@ It currently takes place every Thursday at 12:00 PM (Rome). For more info, feel 
 
 ## Upcoming Program
 
-- Sep-14, Giuseppe, The Belebele Benchmark: a Parallel Reading Comprehension Dataset in 122 Language Variants
-- Sep-21, Karina, CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models
-- Sep-28, Debora, Do Multilingual Language Models Think Better in English?
+- Sep-14, Giuseppe, [The Belebele Benchmark: a Parallel Reading Comprehension Dataset in 122 Language Variants](https://arxiv.org/abs/2308.16884)
+- Sep-21, Karina, [CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models](https://aclanthology.org/2020.emnlp-main.154.pdf)
+- Sep-28, Debora, [Do Multilingual Language Models Think Better in English?](https://arxiv.org/abs/2308.01223)
 - Oct-5	Amanda
-- Oct-12, Kai, Analyzing Polarization in Social Media: Method and Application to Tweets on 21 Mass Shootings
-- Oct-19, Dirk, Can AI-Generated Text be Reliably Detected?
+- Oct-12, Kai, [Analyzing Polarization in Social Media: Method and Application to Tweets on 21 Mass Shootings](https://aclanthology.org/N19-1304.pdf)
+- Oct-19, Dirk, [Can AI-Generated Text be Reliably Detected?](https://arxiv.org/pdf/2303.11156.pdf)
 - Oct-26, Lorenzo
-- Nov-2
+- Nov-2,
 - Nov-9
 - Nov-16, Donya	
 - Nov-23, Paul	
