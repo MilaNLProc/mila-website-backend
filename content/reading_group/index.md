@@ -29,11 +29,11 @@ It currently takes place every Thursday at 12:00 PM (Rome). For more info, feel 
 | Oct-12 | Kai | [Analyzing Polarization in Social Media: Method and Application to Tweets on 21 Mass Shootings](https://aclanthology.org/N19-1304.pdf) |
 | Oct-19 | Dirk | [Can AI-Generated Text be Reliably Detected?](https://arxiv.org/pdf/2303.11156.pdf) |
 | Oct-26 | Lorenzo | [The uselessness of AI ethics](https://link.springer.com/article/10.1007/s43681-022-00209-w) |
-| Nov-2 | Serena | |
+| Nov-2 | Serena | [Topic Modeling in Embedding Spaces](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00325/96463/Topic-Modeling-in-Embedding-Spaces) |
 | Nov-9 | Caroline | |
 | Nov-16 | Donya | |
 | Nov-23 | Paul | |
-| Nov-30 | Flor | |
+| Nov-30 | Flor | [GoLLIE: Guideline-following Large Language Model for Information Extraction](https://arxiv.org/abs/2310.03668) |
 | Dec-7 | *break (EMNLP)* | |
 | Dec-14 | | |
 | Dec-21 | | |
