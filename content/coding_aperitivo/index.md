@@ -81,12 +81,12 @@ In previous sessions, some guests have:
 - [Rami Aly](https://scholar.google.com/citations?user=dbzGY5YAAAAJ&hl=de) (University of Cambridge) on *automatic fact checking*
 - [Indira Sen](https://indiiigo.github.io/) (Leibnitz Institute for the Social Sciences) on *Measuring social constructs with NLP: Two case studies of abusive language and workplace depression*
 - [Maurice Jakesch](https://mauricejakesch.com/) on *Assessing the Effects and Risks of Large Language Models in AI-Mediated Communication*
-- [Marco del Tredici](https://sites.google.com/site/marcodeltredici/) led a discussion on current trends in NLP.
+- [Marco del Tredici](https://sites.google.com/site/marcodeltredici/) led a discussion on current trends in NLP
 - [Fatma Elsafoury](https://efatmae.github.io/) on hate speech and toxicity.
 - [Mor Geva](https://mega002.github.io/) on annotation bias sources and prevention.
 - [Emanuele Bugliarello](https://e-bug.github.io/) on language modelling as pixels.
 - [Tess Buckley](https://tessbuckley.me/) on computational creativity and the ethics of AI-generated music.
-- [Marina Rizzi](https://marinarizzi.weebly.com/) on *"Self-regulation and the Evolution of Content: A Cross-Platform Analysis*.  
+- [Marina Rizzi](https://marinarizzi.weebly.com/) on *Self-regulation and the Evolution of Content: A Cross-Platform Analysis*.  
 - [Giovanni Cassani](https://www.tilburguniversity.edu/staff/g-cassani), Marco Bragoni, and Paul Schreiber on *Multimodal Representations for Words that Don’t Exist Yet* 
 - [Laura Vasquez-Rodriguez](https://lmvasque.github.io/) gave us a thorough intorduction to text simplification with NLP.
 - [Raj Ammanabrolu](https://prithvirajva.com/) on *Interactive Language Learning*
