@@ -80,22 +80,22 @@ In previous sessions, some guests have:
 - [William Agnew](https://sites.google.com/cs.washington.edu/william-agnew/home?pli=1) (University of Washington) on *Values, Ethics and NLP*
 - [Rami Aly](https://scholar.google.com/citations?user=dbzGY5YAAAAJ&hl=de) (University of Cambridge) on *automatic fact checking*
 - [Indira Sen](https://indiiigo.github.io/) (Leibnitz Institute for the Social Sciences) on *Measuring social constructs with NLP: Two case studies of abusive language and workplace depression*
-- [Maurice Jakesch](https://mauricejakesch.com/) on **Assessing the Effects and Risks of Large Language Models in AI-Mediated Communication**
+- [Maurice Jakesch](https://mauricejakesch.com/) on *Assessing the Effects and Risks of Large Language Models in AI-Mediated Communication*
 - [Marco del Tredici](https://sites.google.com/site/marcodeltredici/) led a discussion on current trends in NLP.
 - [Fatma Elsafoury](https://efatmae.github.io/) on hate speech and toxicity.
 - [Mor Geva](https://mega002.github.io/) on annotation bias sources and prevention.
 - [Emanuele Bugliarello](https://e-bug.github.io/) on language modelling as pixels.
 - [Tess Buckley](https://tessbuckley.me/) on computational creativity and the ethics of AI-generated music.
-- [Marina Rizzi](https://marinarizzi.weebly.com/) on **"Self-regulation and the Evolution of Content: A Cross-Platform Analysis**.  
-- [Giovanni Cassani](https://www.tilburguniversity.edu/staff/g-cassani), Marco Bragoni, and Paul Schreiber on **Multimodal Representations for Words that Don’t Exist Yet**. 
+- [Marina Rizzi](https://marinarizzi.weebly.com/) on *"Self-regulation and the Evolution of Content: A Cross-Platform Analysis*.  
+- [Giovanni Cassani](https://www.tilburguniversity.edu/staff/g-cassani), Marco Bragoni, and Paul Schreiber on *Multimodal Representations for Words that Don’t Exist Yet* 
 - [Laura Vasquez-Rodriguez](https://lmvasque.github.io/) gave us a thorough intorduction to text simplification with NLP.
-- [Raj Ammanabrolu](https://prithvirajva.com/) on **Interactive Language Learning**
+- [Raj Ammanabrolu](https://prithvirajva.com/) on *Interactive Language Learning*
 - [Suchin Gururangan](https://suchin.io/) led a discussion on all things language models, open-sourcing and regulation.
-- [Giada Pistilli](https://www.giadapistilli.com/) led a discussion on ethics in NLP. 
-- [Edoardo Ponti](https://ducdauge.github.io/) on **Modular Deep Learning**
-- [Julie-Anne Meaney](https://smash.inf.ed.ac.uk/author/julie-anne-meaney/) on **Demographically-aware Computational Humour**.
+- [Giada Pistilli](https://www.giadapistilli.com/) led a discussion on ethics in NLP 
+- [Edoardo Ponti](https://ducdauge.github.io/) on *Modular Deep Learning*
+- [Julie-Anne Meaney](https://smash.inf.ed.ac.uk/author/julie-anne-meaney/) on *Demographically-aware Computational Humour*
 - [Giorgio Franceschelli](https://giorgiofranceschelli.github.io/) on on creativity and machine learning.
-- [Aubrie Amstutz](https://aubrieamstutz.com/) on managing toxicity and hate speech in the private sector. 
-- [Tom McCoy](https://rtmccoy.com/) on **Embers of Autoregression: Understanding Large Language Models Through the Problem They are Trained to Solve**
+- [Aubrie Amstutz](https://aubrieamstutz.com/) on managing toxicity and hate speech in the private sector 
+- [Tom McCoy](https://rtmccoy.com/) on *Embers of Autoregression: Understanding Large Language Models Through the Problem They are Trained to Solve*
 - [Camilo Carvajal Reyes](https://www.dim.uchile.cl/~ccarvajal/) on the EthicApp, analysing and understanding how people debate ethical issues.
 - [Tanvi Dinkar](https://www.linkedin.com/in/tanvi-dinkar-001aa037?originalSubdomain=uk) on safety and robustness in conversational AI
