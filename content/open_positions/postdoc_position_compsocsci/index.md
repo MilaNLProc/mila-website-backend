@@ -14,7 +14,7 @@ PI: [Kai Zhu](https://kaizhu.me/)
 ---
 # Computational Social Science with a Focus on Natural Language Processing and Societal Impact of Media Ecosystem
 
-We are happy to announce a Postdoctoral position at Bocconi University in computational social science, emphasizing natural language processing (NLP) and societal impact of the media ecosystem. This position is a unique opportunity to work on projects that explore the interplay between social media and mass media in shaping public narratives and collective attention. The successful candidate will work closely with [Prof. Kai Zhu](https://kaizhu.me/) and [Prof. Dirk Hovy](), and will have the opportunity to be part of the MilaNLP Lab and BIDSA.
+We are happy to announce a Postdoctoral position at Bocconi University in computational social science, emphasizing natural language processing (NLP) and societal impact of the media ecosystem. This position is a unique opportunity to work on projects that explore the interplay between social media and mass media in shaping public narratives and collective attention. The successful candidate will work closely with [Prof. Kai Zhu](https://kaizhu.me/) and [Prof. Dirk Hovy](https://milanlproc.github.io/authors/1_dirk_hovy/), and will have the opportunity to be part of the MilaNLP Lab and BIDSA.
 
 Project Overview:
 - Title: Exploring Societal Impact of Media Ecosystem
