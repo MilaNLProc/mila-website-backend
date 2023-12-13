@@ -33,10 +33,10 @@ It currently takes place every Thursday at 12:00 PM (Rome). For more info, feel 
 | Nov-9 | Carolin | [SelfCheckGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models](https://arxiv.org/abs/2303.08896) |
 | Nov-16 | Donya | [Time Travel in LLMs: Tracing Data Contamination in Large Language Models](https://arxiv.org/abs/2308.08493) |
 | Nov-23 | Paul | [Towards Evaluating AI Systems for Moral Status Using Self-Reports](https://arxiv.org/abs/2311.08576) |
-| Nov-30 | Flor | *break* |
+| Nov-30 | *break* |  |
 | Dec-7 | *break (EMNLP)* | |
-| Dec-14 | | |
-| Dec-21 | | |
+| Dec-14 | *break (NAACL deadline)* | |
+| Dec-21 | Flor | TBD |
 | Dec-28 | *break (Christmas)* | |
 
 <!-- - Sep-14, Giuseppe, [The Belebele Benchmark: a Parallel Reading Comprehension Dataset in 122 Language Variants](https://arxiv.org/abs/2308.16884)
