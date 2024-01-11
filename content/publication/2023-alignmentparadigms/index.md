@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The Empty Signifier Problem: Towards Clearer Paradigms for Operationalising "Alignment" in Large Language Models"
+title: "The Empty Signifier Problem: Towards Clearer Paradigms for Operationalising 'Alignment' in Large Language Models"
 authors: ["Hannah Rose Kirk", "Bertie Vidgen", "Paul Röttger", "Scott A. Hale"]
 date: 2023-11-15
 doi: ""
