@@ -47,7 +47,7 @@ url_source:
 url_video:
 
 image:
-  caption: 'Exaggerated Safety in Language Models'
+  caption: ''
   focal_point: "Center"
   preview_only: false
 
