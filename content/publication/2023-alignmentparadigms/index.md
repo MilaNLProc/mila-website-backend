@@ -16,8 +16,8 @@ publishDate: 2023-07-12T14:48:20+01:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Socially Responsible Language Modelling Research (SoLaR) @ NeurIPs 2023"
-publication_short: "SoLaR @ NeurIPs 2023"
+publication: "Socially Responsible Language Modelling Research (SoLaR) at NeurIPs 2023"
+publication_short: "SoLaR at NeurIPs 2023"
 
 abstract: "In this paper, we address the concept of 'alignment' in large language models (LLMs) through the lens of post-structuralist socio-political theory, specifically examining its parallels to empty signifiers. To establish a shared vocabulary around how abstract concepts of alignment are operationalised in empirical datasets, we propose a framework that demarcates: 1) which dimensions of model behaviour are considered important, then 2) how meanings and definitions are ascribed to these dimensions, and by whom. We situate existing empirical literature and provide guidance on deciding which paradigm to follow. Through this framework, we aim to foster a culture of transparency and critical evaluation, aiding the community in navigating the complexities of aligning LLMs with human populations."
 
@@ -45,6 +45,11 @@ url_project:
 url_slides:
 url_source:
 url_video:
+
+image:
+  caption: 'Exaggerated Safety in Language Models'
+  focal_point: "Center"
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
