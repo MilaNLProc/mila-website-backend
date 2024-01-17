@@ -22,13 +22,15 @@ It currently takes place every Thursday at 12:00 PM (Rome). For more info, feel 
 
 | Date | Presenter | Paper |
 | ---- | ----------- | ---- |
-| January 11th 2024 | - | - |
-| 18th | - | -
-| 25h | - | - |
-| February 1st | - | - |
-| 8th | - | - |
-| 15th | - | - |
-| 22nd | - | - |
+| January 18th 2024 | Flor | [Can Large Language Models Transform Computational Social Science?](https://arxiv.org/abs/2305.03514) |
+| 25th | Giuseppe | [Patchscopes: A Unifying Framework for Inspecting Hidden Representations of Language Models](https://arxiv.org/abs/2401.06102) |
+| February 1st | Amanda | - |
+| 8th | Anne | - |
+| 15th | Carolin | - |
+| 22nd | Lorenzo | [Large Language Models can Strategically Deceive their Users when Put Under Pressure](https://arxiv.org/abs/2311.07590) |
+| 29th | Paul | - |
+| March 7th | Dirk | [The Generative AI Paradox: "What It Can Create, It May Not Understand"](https://arxiv.org/abs/2311.00059) |
+| 14th | Donya | - |
 
 See below for past talks.
 
