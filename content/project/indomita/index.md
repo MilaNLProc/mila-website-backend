@@ -4,9 +4,9 @@ title: INDOMITA
 summary: Innovative Demographically-aware Hate Speech Detection in Online Media in Italian
 abstract: ""
 
-date: "2022-04-13T00:00:00Z"
+date: "2023-04-13T00:00:00Z"
 image:
-  caption: 'https://www.pexels.com/photo/books-on-wood-stack-in-rural-backyard-4218590/'
+  caption: 'Photo by Sebastian Voortman: https://www.pexels.com/photo/woman-jumping-wearing-green-backpack-214574/'
 
   focal_point: Smart
 
