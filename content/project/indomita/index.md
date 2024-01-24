@@ -38,4 +38,4 @@ Our novel, user-centered approach will address hatespeech in three ways:
 In sum, our user focus will revolutionize existing research on hate speech detection, both in Italian and other languages, to give authorities and media providers better ways to assess content for immediate countermeasures. It will allow us to bridge language differences more easily than purely text-based methods, as we capture socio-behavioral patterns that generalize across languages.
 It will generate revolutionary insights of the complex dynamics between online actors and the generation of online hate.
 
-INDOMITA is supported by a MIUR FARE initiative under grant agreement 2020 Prot. R20YSMBZ8S.
+INDOMITA is supported by a MUR FARE 2020 initiative under grant agreement Prot. R20YSMBZ8S.
