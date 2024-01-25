@@ -22,8 +22,6 @@ It currently takes place every Thursday at 12:00 PM (Rome). For more info, feel 
 
 | Date | Presenter | Paper |
 | ---- | ----------- | ---- |
-| January 18th 2024 | Flor | [Can Large Language Models Transform Computational Social Science?](https://arxiv.org/abs/2305.03514) |
-| 25th | Giuseppe | [Patchscopes: A Unifying Framework for Inspecting Hidden Representations of Language Models](https://arxiv.org/abs/2401.06102) |
 | February 1st | Amanda | Regulation and NLP (RegNLP): Taming Large Language Models (https://aclanthology.org/2023.emnlp-main.539/) |
 | 8th | Anne | - |
 | 15th | Carolin | - |
@@ -69,3 +67,5 @@ See below for past talks.
 | Nov-9 | Carolin | [SelfCheckGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models](https://arxiv.org/abs/2303.08896) |
 | Nov-16 | Donya | [Time Travel in LLMs: Tracing Data Contamination in Large Language Models](https://arxiv.org/abs/2308.08493) |
 | Nov-23 | Paul | [Towards Evaluating AI Systems for Moral Status Using Self-Reports](https://arxiv.org/abs/2311.08576) |
+| Jan-18 | Flor | [Can Large Language Models Transform Computational Social Science?](https://arxiv.org/abs/2305.03514) |
+| Jan-25 | Giuseppe | [Patchscopes: A Unifying Framework for Inspecting Hidden Representations of Language Models](https://arxiv.org/abs/2401.06102) |
