@@ -38,7 +38,7 @@ featured: false
 #   icon: twitter
 
 url_pdf: https://aclanthology.org/2022.sigdial-1.4.pdf
-url_code: 
+url_code:
 url_dataset:
 url_poster:
 url_project:
