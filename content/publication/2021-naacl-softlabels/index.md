@@ -19,8 +19,8 @@ publication_types: ["1"]
 publication: "*2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics*"
 publication_short: "*NAACL2021*"
 
-abstract: "Supervised learning assumes that a ground truth label exists. 
-However, the reliability of this ground truth depends on human annotators, who often disagree. 
+abstract: "Supervised learning assumes that a ground truth label exists.
+However, the reliability of this ground truth depends on human annotators, who often disagree.
 Prior work has shown that this disagreement can be helpful in training models.
 We propose a novel method to incorporate this disagreement as information: in addition to the standard error computation, we use soft labels (i.e., probability distributions over the annotator labels) as an auxiliary task in a multi-task neural network.
 We measure the divergence between the predictions and the target soft labels with several loss-functions and evaluate the models on various NLP tasks.
@@ -41,14 +41,14 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: 
-url_code: 
+url_pdf: https://aclanthology.org/2021.naacl-main.204.pdf
+url_code:
 url_dataset:
 url_poster:
 url_project:
 url_slides:
 url_source:
-url_video:
+url_video: https://aclanthology.org/2021.naacl-main.204.mp4
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

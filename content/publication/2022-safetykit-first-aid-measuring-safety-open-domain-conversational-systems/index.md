@@ -16,7 +16,7 @@ publishDate: 2022-03-17T14:48:20+01:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Findings of the Association for Computational Linguistics: ACL2022 (Forthcoming)"
+publication: "Findings of the Association for Computational Linguistics: ACL2022"
 publication_short: ""
 
 abstract: "The social impact of natural language processing and its applications has received increasing attention.  In this position paper, we focus on the problem of safety for end-to-end conversational AI. We survey the problem landscape therein, introducing a taxonomy of three observed phenomena: the Instigator, Yea-Sayer, and Impostor effects. We then empirically assess the extent to which current tools can measure these effects and current systems display them. We release these tools as part of a ``first aid kit'' (SAFETYKIT) to quickly assess apparent safety concerns. Our results show that, while current tools are able to provide an estimate of the relative safety of systems in various settings, they still have several shortcomings. We suggest several future directions and discuss ethical considerations."
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://aclanthology.org/2022.acl-long.284.pdf
 url_code:
 url_dataset:
 url_poster:
