@@ -22,14 +22,14 @@ It currently takes place every Thursday at 12:00 PM (Rome). For more info, feel 
 
 | Date | Presenter | Paper |
 | ---- | ----------- | ---- |
-| February 1st | Amanda | Regulation and NLP (RegNLP): Taming Large Language Models (https://aclanthology.org/2023.emnlp-main.539/) |
-| 8th | Anne | - |
+| February 8th | Anne | - |
 | 15th | Carolin | - |
 | 22nd | Lorenzo | [Large Language Models can Strategically Deceive their Users when Put Under Pressure](https://arxiv.org/abs/2311.07590) |
 | 29th | Paul | - |
 | March 7th | Dirk | [The Generative AI Paradox: "What It Can Create, It May Not Understand"](https://arxiv.org/abs/2311.00059) |
 | 14th | Donya | - |
 | 21th | Emanuele | - |
+| 28th | Mikel | - |
 
 See below for past talks.
 
@@ -69,3 +69,4 @@ See below for past talks.
 | Nov-23 | Paul | [Towards Evaluating AI Systems for Moral Status Using Self-Reports](https://arxiv.org/abs/2311.08576) |
 | Jan-18 | Flor | [Can Large Language Models Transform Computational Social Science?](https://arxiv.org/abs/2305.03514) |
 | Jan-25 | Giuseppe | [Patchscopes: A Unifying Framework for Inspecting Hidden Representations of Language Models](https://arxiv.org/abs/2401.06102) |
+| February 1st | Amanda | Regulation and NLP (RegNLP): Taming Large Language Models (https://aclanthology.org/2023.emnlp-main.539/) |
