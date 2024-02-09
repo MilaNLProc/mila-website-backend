@@ -16,7 +16,7 @@ header:
 
 The Reading Group is our weekly meeting to present and discuss exciting contributions from the community.
 
-It currently takes place every Thursday at 12:00 PM (Rome). For more info, feel free to [reach out](mailto:giuseppe.attanasio3@unibocconi.it).
+It currently takes place every Thursday at 12:00 PM (Rome). For more info, feel free to [reach out](mailto:donya.rooein@unibocconi.it).
 
 ## Upcoming Program
 
