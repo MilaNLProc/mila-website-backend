@@ -22,7 +22,7 @@ It currently takes place every Thursday at 12:00 PM (Rome). For more info, feel 
 
 | Date | Presenter | Paper |
 | ---- | ----------- | ---- |
-| February 15th | Carolin | - |
+| February 15th | Carolin | [Multilingual Pixel Representations for Translation and Effective Cross-lingual Transfer](https://aclanthology.org/2023.emnlp-main.854.pdf) |
 | 22nd | Lorenzo | [Value Kaleidoscope: Engaging AI with Pluralistic Human Values, Rights, and Duties](https://arxiv.org/abs/2309.00779) 
 | 29th | Paul | - |
 | March 7th | Dirk | [The Generative AI Paradox: "What It Can Create, It May Not Understand"](https://arxiv.org/abs/2311.00059) |
