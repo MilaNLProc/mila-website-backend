@@ -22,12 +22,13 @@ It currently takes place every Thursday at 12:00 PM (Rome). For more info, feel 
 
 | Date | Presenter | Paper |
 | ---- | ----------- | ---- | 
-| March 7th | Dirk | [The Generative AI Paradox: "What It Can Create, It May Not Understand"](https://arxiv.org/abs/2311.00059) |
-| 14th | Donya | [Mission: Impossible Language Models](https://arxiv.org/abs/2401.06416) |
+| March 14th | Donya | [Mission: Impossible Language Models](https://arxiv.org/abs/2401.06416) |
 | 21th | Emanuele | - |
 | 28th | Mikel | - |
-| April 4th | Derya | [Generalizing Backpropagation for Gradient-Based Interpretability"](https://arxiv.org/abs/2307.03056) |
-
+| April 4th | Derya | [Generalizing Backpropagation for Gradient-Based Interpretability](https://arxiv.org/abs/2307.03056) |
+| 11th | Michele | [Fairwashing: the risk of rationalization](https://arxiv.org/abs/1901.09749) |
+| 18st | Kai | TBA |
+| 21st | Emanuele | TBA |
 
 
 See below for past talks.
@@ -72,4 +73,5 @@ See below for past talks.
 | Feb-8 | Anne | [What is ‘Typological Diversity’ in NLP?](https://arxiv.org/pdf/2402.04222.pdf) |
 | Feb-15 | Carolin | [Multilingual Pixel Representations for Translation and Effective Cross-lingual Transfer](https://aclanthology.org/2023.emnlp-main.854.pdf) |
 | Feb-22 | Lorenzo | [Value Kaleidoscope: Engaging AI with Pluralistic Human Values, Rights, and Duties](https://arxiv.org/abs/2309.00779)
-| February 29th | Paul | [A Roadmap to Pluralistic Alignment](https://arxiv.org/abs/2402.05070) |
+| Feb-29 | Paul | [A Roadmap to Pluralistic Alignment](https://arxiv.org/abs/2402.05070) |
+| March 7th | Dirk | [The Generative AI Paradox: "What It Can Create, It May Not Understand"](https://arxiv.org/abs/2311.00059) |
