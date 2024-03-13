@@ -22,12 +22,12 @@ It currently takes place every Thursday at 12:00 PM (Rome). For more info, feel 
 
 | Date | Presenter | Paper |
 | ---- | ----------- | ---- | 
-| March 14th | Donya | [Mission: Impossible Language Models](https://arxiv.org/abs/2401.06416) |
-| 28th | Mikel | TBA |
-| April 4th | Derya | [Generalizing Backpropagation for Gradient-Based Interpretability](https://arxiv.org/abs/2307.03056) |
-| 11th | Emanuele | TBA |
-| 18th | Kai | TBA |
-| 25th | Michele | [Fairwashing: the risk of rationalization](https://arxiv.org/abs/1901.09749) |
+| Mar 14 | Donya | [Mission: Impossible Language Models](https://arxiv.org/abs/2401.06416) |
+| Mar 28 | Mikel | TBA |
+| Apr 4 | Derya | [Generalizing Backpropagation for Gradient-Based Interpretability](https://arxiv.org/abs/2307.03056) |
+| Apr 11 | Emanuele | TBA |
+| Apr 18 | Kai | TBA |
+| Apr 25 | Michele | [Fairwashing: the risk of rationalization](https://arxiv.org/abs/1901.09749) |
 
 
 See below for past talks.
