@@ -27,7 +27,7 @@ It currently takes place every Thursday at 12:00 PM (Rome). For more info, feel 
 | April 4th | Derya | [Generalizing Backpropagation for Gradient-Based Interpretability](https://arxiv.org/abs/2307.03056) |
 | 11th | Emanuele | TBA |
 | 18th | Kai | TBA |
-| 21st | Michele | [Fairwashing: the risk of rationalization](https://arxiv.org/abs/1901.09749) |
+| 25th | Michele | [Fairwashing: the risk of rationalization](https://arxiv.org/abs/1901.09749) |
 
 
 See below for past talks.
