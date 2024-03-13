@@ -16,7 +16,7 @@ header:
 
 The Reading Group is our weekly meeting to present and discuss exciting contributions from the community.
 
-It currently takes place every Thursday at 12:00 PM (Rome). For more info, feel free to [reach out](mailto:donya.rooein@unibocconi.it).
+It currently takes place every Thursday at 12:00 PM (Milan). For more info, feel free to [reach out](mailto:donya.rooein@unibocconi.it).
 
 ## Upcoming Program
 
@@ -73,4 +73,4 @@ See below for past talks.
 | Feb-15 | Carolin | [Multilingual Pixel Representations for Translation and Effective Cross-lingual Transfer](https://aclanthology.org/2023.emnlp-main.854.pdf) |
 | Feb-22 | Lorenzo | [Value Kaleidoscope: Engaging AI with Pluralistic Human Values, Rights, and Duties](https://arxiv.org/abs/2309.00779)
 | Feb-29 | Paul | [A Roadmap to Pluralistic Alignment](https://arxiv.org/abs/2402.05070) |
-| March 7th | Dirk | [The Generative AI Paradox: "What It Can Create, It May Not Understand"](https://arxiv.org/abs/2311.00059) |
+| Mar-7 | Dirk | [The Generative AI Paradox: "What It Can Create, It May Not Understand"](https://arxiv.org/abs/2311.00059) |
