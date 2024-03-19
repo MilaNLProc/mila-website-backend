@@ -22,8 +22,7 @@ It currently takes place every Thursday at 12:00 PM (Milan). For more info, feel
 
 | Date | Presenter | Paper |
 | ---- | ----------- | ---- | 
-| Mar 14 | Donya | [Mission: Impossible Language Models](https://arxiv.org/abs/2401.06416) |
-| Mar 28 | Mikel | TBA |
+| Mar 28 | Mikel | [Language Model Tokenizers Introduce Unfairness Between Languages](https://arxiv.org/abs/2305.15425) |
 | Apr 4 | Derya | [Generalizing Backpropagation for Gradient-Based Interpretability](https://arxiv.org/abs/2307.03056) |
 | Apr 11 | Emanuele | TBA |
 | Apr 18 | Kai | TBA |
@@ -74,3 +73,4 @@ See below for past talks.
 | Feb-22 | Lorenzo | [Value Kaleidoscope: Engaging AI with Pluralistic Human Values, Rights, and Duties](https://arxiv.org/abs/2309.00779)
 | Feb-29 | Paul | [A Roadmap to Pluralistic Alignment](https://arxiv.org/abs/2402.05070) |
 | Mar-7 | Dirk | [The Generative AI Paradox: "What It Can Create, It May Not Understand"](https://arxiv.org/abs/2311.00059) |
+| Mar-14 | Donya | [Mission: Impossible Language Models](https://arxiv.org/abs/2401.06416) |
