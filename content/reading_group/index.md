@@ -23,7 +23,7 @@ It currently takes place every Thursday at 12:00 PM (Milan). For more info, feel
 | Date | Presenter | Paper |
 | ---- | ----------- | ---- | 
 | Mar 28 | Mikel | [Language Model Tokenizers Introduce Unfairness Between Languages](https://arxiv.org/abs/2305.15425) |
-| Apr 4 | Derya | [Generalizing Backpropagation for Gradient-Based Interpretability](https://arxiv.org/abs/2307.03056) |
+| Apr 4 | Derya | [KG-GPT: A General Framework for Reasoning on Kn](https://arxiv.org/pdf/2310.11220.pdf) |
 | Apr 11 | Emanuele | TBA |
 | Apr 18 | Kai | TBA |
 | Apr 25 | Michele | [Fairwashing: the risk of rationalization](https://arxiv.org/abs/1901.09749) |
