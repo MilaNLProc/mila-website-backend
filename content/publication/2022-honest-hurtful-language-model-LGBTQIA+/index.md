@@ -39,7 +39,7 @@ featured: false
 
 # Custom links (uncomment lines below)
 
-url_pdf:
+url_pdf: https://aclanthology.org/2022.ltedi-1.4.pdf
 url_code: https://github.com/MilaNLProc/honest
 url_dataset:
 url_poster: 
