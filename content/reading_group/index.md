@@ -73,4 +73,4 @@ See below for past talks.
 | Mar 7 | Dirk | [The Generative AI Paradox: "What It Can Create, It May Not Understand"](https://arxiv.org/abs/2311.00059) |
 | Mar 14 | Donya | [Mission: Impossible Language Models](https://arxiv.org/abs/2401.06416) |
 | Mar 28 | Mikel | [Language Model Tokenizers Introduce Unfairness Between Languages](https://arxiv.org/abs/2305.15425) |
-| Apr 4 | Derya | [KG-GPT: A General Framework for Reasoning on Kn](https://arxiv.org/pdf/2310.11220.pdf) |
+| Apr 4 | Derya | [KG-GPT: A General Framework for Reasoning on Knowledge Graphs Using Large Language Models](https://arxiv.org/pdf/2310.11220.pdf) |
