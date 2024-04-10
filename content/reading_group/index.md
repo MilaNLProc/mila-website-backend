@@ -22,7 +22,7 @@ It currently takes place every Thursday at 12:00 PM (Milan). For more info, feel
 
 | Date | Presenter | Paper |
 | ---- | ----------- | ---- | 
-| Apr 11 | Emanuele | TBA |
+| Apr 11 | Emanuele | [scGPT: Towards Building a Foundation Model for Single-Cell Multi-omics Using Generative AI](https://www.biorxiv.org/content/10.1101/2023.04.30.538439v1.full) |
 | Apr 18 | Kai | [Improving Wikipedia verifiability with AI](https://www.nature.com/articles/s42256-023-00726-1) |
 | Apr 25 | Michele | [Fairwashing: the risk of rationalization](https://arxiv.org/abs/1901.09749) |
 
