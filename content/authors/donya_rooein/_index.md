@@ -58,9 +58,6 @@ social:
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: https://donya-rooein.github.io/files/donya-rooein-cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -71,4 +68,6 @@ user_groups:
 - Researchers
 ---
 
-**Donya Rooein** is a Postdoctoral Research Fellow at [Bocconi University](https:\\www.bocconi.it/).  Her research interests include natural language processing, conversational agents, and applied machine learning. Donya completed her Ph.D. in Information Technology Engineering from Politecnico di Milano in October 2022. Her thesis was “A Scalable, Reconfigurable, and Adaptive Framework for Chatbots in Education”. During her Ph.D., she focused on adaptive conversational agents; in particular, she designed and developed highly configurable chatbots in education to support various actors with different demographics.
+**Donya Rooein** is a Postdoctoral Research Fellow at [Bocconi University](https:\\www.bocconi.it/), her work revolves around leveraging **natural language processing** for **educational** advancements. She explores the synergy between machine learning, linguistics, and practitioner insights to enhance our education system. Her primary focus is on developing interpretable and scalable measures through NLP systems, aimed at assessing learning effectiveness and fostering adaptive learning environments.
+
+She completed her Ph.D. in Information Technology Engineering from [Politecnico di Milano ](https://www.polimi.it/) in October 2022. Her doctoral research was awarded by [EIT Digital](https://www.eitdigital.eu/) and centered on crafting a flexible and adaptable framework for educational chatbots. Throughout her Ph.D. journey, she specialized in creating highly customizable chatbot solutions tailored to the diverse educational requirements of teachers and students alike.
