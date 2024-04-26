@@ -23,8 +23,8 @@ It currently takes place every Thursday at 12:00 PM (Milan). For more info, feel
 | Date | Presenter | Paper |
 | ---- | ----------- | ---- | 
 | Apr 25 | Michele | [Fairwashing: the risk of rationalization](https://arxiv.org/abs/1901.09749) |
-|May 9 | Janis | - |
-\May 19 | Amanda | - |
+| May 9 | Janis | - |
+| May 19 | Amanda | - |
 
 
 See below for past talks.
