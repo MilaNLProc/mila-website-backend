@@ -22,9 +22,9 @@ It currently takes place every Thursday at 12:00 PM (Milan). For more info, feel
 
 | Date | Presenter | Paper |
 | ---- | ----------- | ---- | 
-| Apr 11 | Emanuele | [scGPT: Towards Building a Foundation Model for Single-Cell Multi-omics Using Generative AI](https://www.biorxiv.org/content/10.1101/2023.04.30.538439v1.full) |
-| Apr 18 | Kai | [Improving Wikipedia verifiability with AI](https://www.nature.com/articles/s42256-023-00726-1) |
 | Apr 25 | Michele | [Fairwashing: the risk of rationalization](https://arxiv.org/abs/1901.09749) |
+|May 9 | Janis | - |
+\May 19 | Amanda | - |
 
 
 See below for past talks.
@@ -74,3 +74,5 @@ See below for past talks.
 | Mar 14 | Donya | [Mission: Impossible Language Models](https://arxiv.org/abs/2401.06416) |
 | Mar 28 | Mikel | [Language Model Tokenizers Introduce Unfairness Between Languages](https://arxiv.org/abs/2305.15425) |
 | Apr 4 | Derya | [KG-GPT: A General Framework for Reasoning on Knowledge Graphs Using Large Language Models](https://arxiv.org/pdf/2310.11220.pdf) |
+| Apr 11 | Emanuele | [scGPT: Towards Building a Foundation Model for Single-Cell Multi-omics Using Generative AI](https://www.biorxiv.org/content/10.1101/2023.04.30.538439v1.full) |
+| Apr 18 | Kai | [Improving Wikipedia verifiability with AI](https://www.nature.com/articles/s42256-023-00726-1) |
