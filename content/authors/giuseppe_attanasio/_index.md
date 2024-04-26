@@ -58,7 +58,7 @@ email: "giuseppe.attanasio@polito.it"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 
 **Giuseppe Attanasio** Giuseppe Attanasio is a Postdoctoral Researcher at Bocconi, where he works on large-scale neural architectures for Natural Language Processing. His research focuses on understanding and regularizing models for debiasing and fairness purposes.
