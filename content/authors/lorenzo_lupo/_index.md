@@ -69,7 +69,7 @@ email: "lorenzo.lupo2@unibocconi.it"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 
 **Lorenzo Lupo** is a postdoctoral research fellow at Bocconi University, working on natural language processing and its applications to social and economic challenges. He is collaborating to the MENTALISM project, combining text analysis and machine learning with survey data to track inequality. 
