@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Subjective ? On the Danger of Conflating Hate and Offence in Abusive Language Detection"
+title: "Subjective isms? On the Danger of Conflating Hate and Offence in Abusive Language Detection"
 authors: ["Amanda Cercas Curry", "Gavin Abercrombie", "Zeerak Talat"]
 date: 2024-03-05
 doi: ""
