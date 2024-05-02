@@ -43,5 +43,5 @@ Interested candidates should submit
 2) a cover letter outlining research interests and career goals,
 3) a paper sample of your choice.
 
-To submit your application, please go to the [Bocconi postdoc job market page](https://jobmarket.unibocconi.eu/?type=a&urlBack=/wps/wcm/connect/Bocconi/SitoPubblico_IT/Albero+di+navigazione/Home/docenti+e+ricerca/docenti/Reclutamento+docenti/Concorsi/Assegni+di+Ricerca/)) and search for **“EXPLORING SOCIETAL IMPACT OF MEDIA ECOSYSTEM”**.
+To submit your application, please go to the [Bocconi postdoc job market page](https://jobmarket.unibocconi.eu/?type=a&urlBack=/wps/wcm/connect/Bocconi/SitoPubblico_IT/Albero+di+navigazione/Home/docenti+e+ricerca/docenti/Reclutamento+docenti/Concorsi/Assegni+di+Ricerca/) and search for **“EXPLORING SOCIETAL IMPACT OF MEDIA ECOSYSTEM”**.
 For any questions, please email Kai Zhu at [kai.zhu@unibocconi.it](mailto:kai.zhu@unibocconi.it).
