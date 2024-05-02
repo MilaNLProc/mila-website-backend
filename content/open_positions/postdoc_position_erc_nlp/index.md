@@ -1,6 +1,6 @@
 ---
 title: Postdoctoral Researcher - NLP
-summary: "Postdoctoral Researcher position up to 2 years - Deadline  May 30th 2024"
+summary: "Two Postdoctoral Researcher positions up to 2 years - Deadline  May 30th 2024"
 abstract: ""
 date: "2024-03-12T00:00:00Z"
 categories:
