@@ -16,7 +16,7 @@ tags:
 - subjectivity
 - nlp
 ---
-I have been recently awarded a €1.5m ERC Starting Grant project 2023 for my project PERSONAE.
+Debora Nozza have been recently awarded a €1.5m ERC Starting Grant project 2023 for my project PERSONAE.
 
 PERSONAE will make language technology (LT) accessible and valuable to everyone. I will revolutionize research in subjective tasks in NLP such as abusive language detection and sentiment and emotion analysis by developing a new field called personal NLP, yielding new datasets, tasks, and algorithms. This new research area will explore subjective tasks from the perspective of the individual as information receiver, making users active actors in the creation of LTs instead of mere recipients. This will allow for a more tailored, effective approach to NLP model design, resulting in better models overall.
 
