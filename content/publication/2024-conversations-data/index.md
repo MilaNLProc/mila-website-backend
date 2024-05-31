@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Conversations as a Source for Teaching Scientific Concepts at Different Education Levels"
-authors: ["Donya Rooein" and "Dirk Hovy"]
+authors: ["Donya Rooein","Dirk Hovy"]
 date: 2024-03-28
 doi: ""
 
