@@ -37,7 +37,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: media/2020_aaai_softlabels.pdf
+url_pdf: https://ojs.aaai.org/index.php/HCOMP/article/download/7478/7255/10850
 url_code:
 url_dataset:
 url_poster:

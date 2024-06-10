@@ -40,7 +40,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://aclanthology.org/2021.naacl-main.49.pdf
 url_code:
 url_dataset:
 url_poster:
