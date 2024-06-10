@@ -37,7 +37,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://aclanthology.org/W18-1106.pdf
 url_code: ""
 url_dataset:
 url_poster:
