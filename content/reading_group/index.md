@@ -22,9 +22,9 @@ It currently takes place every Thursday at 12:00 PM (Milan). For more info, feel
 
 | Date | Presenter | Paper |
 | ---- | ----------- | ---- | 
-| May-30 |	Carolin | - |
-| Jun-6	| Anne | - |
-| Jun-13	| Flor | - |
+| Jun-11	| paul | [Evaluating the persuasive influence of political microtargeting with large language models](https://www.pnas.org/doi/10.1073/pnas.2403116121) |
+
+
 
 
 See below for past talks.
