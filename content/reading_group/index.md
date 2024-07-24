@@ -22,8 +22,7 @@ It currently takes place every Thursday at 12:00 PM (Milan). For more info, feel
 
 | Date | Presenter | Paper |
 | ---- | ----------- | ---- | 
-| Jun-11	| paul | [Evaluating the persuasive influence of political microtargeting with large language models](https://www.pnas.org/doi/10.1073/pnas.2403116121) |
-
+ July 24 | Serena   | [Frontiers: Can Large Language Models Capture Human Preferences?](https://pubsonline.informs.org/doi/full/10.1287/mksc.2023.0306)
 
 
 
@@ -79,3 +78,5 @@ See below for past talks.
 | Apr 25 | Michele | [Fairwashing: the risk of rationalization](https://arxiv.org/abs/1901.09749) |
 | May-9 | Janis | [Synthetic Data Generation with Large Language Models for Text Classification: Potential and Limitations](https://arxiv.org/abs/2310.07849)|
 | May-19 | Amanda | [QUANTIFYING LANGUAGE MODELS’ SENSITIVITY TO SPURIOUS FEATURES IN PROMPT DESIGN or: How I learned to start worrying about prompt formatting](https://arxiv.org/pdf/2310.11324) |
+| Jun-11	| paul | [Evaluating the persuasive influence of political microtargeting with large language models](https://www.pnas.org/doi/10.1073/pnas.2403116121) |
+
