@@ -49,7 +49,7 @@ links:
    url: https://twitter.com/fb_vinid/status/1370065050061447178
 
 
-url_pdf: ''
+url_pdf: 'https://aclanthology.org/2021.naacl-main.348.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

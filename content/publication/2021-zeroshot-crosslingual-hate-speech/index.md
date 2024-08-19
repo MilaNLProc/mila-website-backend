@@ -39,7 +39,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: "https://aclanthology.org/2021.acl-short.114.pdf"
 url_code:
 url_dataset:
 url_poster: 2021-zeroshot-crosslingual-hate-speech-poster.pdf

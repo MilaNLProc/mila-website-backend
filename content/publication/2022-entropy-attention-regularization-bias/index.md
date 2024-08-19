@@ -36,14 +36,14 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: "https://aclanthology.org/2022.findings-acl.88.pdf"
 url_code: https://github.com/g8a9/ear
 url_dataset:
 url_poster:
 url_project:
 url_slides:
 url_source:
-url_video:
+url_video: "https://aclanthology.org/2022.findings-acl.88.mp4"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
