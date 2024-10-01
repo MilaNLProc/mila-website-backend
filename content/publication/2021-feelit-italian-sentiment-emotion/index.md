@@ -39,7 +39,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://www.aclweb.org/anthology/2021.wassa-1.8.pdf"
+url_pdf: "https://aclanthology.org/2021.wassa-1.8.pdf"
 url_code: "https://github.com/MilaNLProc/feel-it"
 url_dataset:
 url_poster:

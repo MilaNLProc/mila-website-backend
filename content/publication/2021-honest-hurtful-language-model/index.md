@@ -43,7 +43,7 @@ links:
    url: https://towardsdatascience.com/can-too-much-bert-be-bad-for-you-92f0014e099b
 
 
-url_pdf:
+url_pdf: "https://aclanthology.org/2021.naacl-main.191.pdf"
 url_code: https://github.com/MilaNLProc/honest
 url_dataset:
 url_poster: 2021-honest-hurtful-language-model-poster.pdf

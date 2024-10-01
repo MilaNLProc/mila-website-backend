@@ -19,8 +19,8 @@ publication_types: ["1"]
 publication: "[First Workshop on Efficient Benchmarking in NLP](https://nlp-power.github.io/)"
 publication_short: "First Workshop on Efficient Benchmarking in NLP at ACL 2022"
 
-abstract: "Transformer-based Natural Language Processing models have become the standard for hate speech detection. However, the unconscious use of these techniques for such a critical task comes with negative consequences. Various works have demonstrated that hate speech classifiers are biased. 
-These findings have prompted efforts to explain classifiers, mainly using attribution methods. 
+abstract: "Transformer-based Natural Language Processing models have become the standard for hate speech detection. However, the unconscious use of these techniques for such a critical task comes with negative consequences. Various works have demonstrated that hate speech classifiers are biased.
+These findings have prompted efforts to explain classifiers, mainly using attribution methods.
 In this paper, **we provide the first benchmark study of interpretability approaches for hate speech detection**. We cover four post-hoc token attribution approaches to explain the predictions of Transformer-based misogyny classifiers in English and Italian. Further, we compare generated attributions to attention analysis.  We find that only two algorithms provide faithful explanations aligned with human expectations. Gradient-based methods and attention, however, show inconsistent outputs, making their value for explanations questionable for hate speech detection tasks."
 
 # Summary. An optional shortened abstract.
@@ -41,14 +41,14 @@ featured: false
 
 # Custom links (uncomment lines below)
 
-url_pdf:
-url_code: 
+url_pdf: "https://aclanthology.org/2022.nlppower-1.11.pdf"
+url_code: "https://github.com/MilaNLProc/benchmarking-xai-misogyny"
 url_dataset:
-url_poster: 
+url_poster:
 url_project:
-url_slides: 
+url_slides:
 url_source:
-url_video:
+url_video: "https://aclanthology.org/2022.nlppower-1.11.mp4"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

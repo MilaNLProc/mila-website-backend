@@ -37,7 +37,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://www.aclweb.org/anthology/2021.wassa-1.29.pdf"
+url_pdf: "https://aclanthology.org/2021.wassa-1.29.pdf"
 url_code:
 url_dataset:
 url_poster:

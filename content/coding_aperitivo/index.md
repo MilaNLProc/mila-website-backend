@@ -13,6 +13,8 @@ header:
   caption: ""
   image: ""
 ---
+*"Have a negroni. Have two. Be open to a world where you may not understand or agree with the person next to you, but have a drink with them anyways."*
+*--Anthony Bourdain*
 
 The Coding Aperitivo is our take on a weekly seminar series. We end the working week and wind down with some relaxed academic chatter, a drink and some snacks. 
 

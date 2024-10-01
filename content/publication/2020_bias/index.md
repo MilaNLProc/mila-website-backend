@@ -37,7 +37,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://aclanthology.org/2020.acl-main.468v2.pdf
 url_code: ""
 url_dataset:
 url_poster:
