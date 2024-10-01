@@ -37,7 +37,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:https://openreview.net/forum?id=gT5hALch9z
+url_pdf: https://openreview.net/forum?id=gT5hALch9z
 url_code: 
 url_dataset:
 url_poster:
