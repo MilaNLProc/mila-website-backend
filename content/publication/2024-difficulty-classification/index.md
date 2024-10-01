@@ -37,7 +37,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://arxiv.org/pdf/2405.09482.pdf
+url_pdf: https://aclanthology.org/2024.bea-1.5.pdf
 url_code: 
 url_dataset:
 url_poster:
