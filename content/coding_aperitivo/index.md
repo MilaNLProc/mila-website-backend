@@ -117,11 +117,20 @@ We are very happy to discuss ongoing or upcoming research.
 - [Luna De Bruyne](https://research.flw.ugent.be/en/luna.debruyne): "Emotions without Borders: Challenges in Multilingual Emotion Detection"
 
 
-## Dirk's Negroni
-When in Milan, drink as the Milanese. Though the official recipe calls for equal parts gin, Campari and red vermouth, here we opt for a punchier negroni, heavy on the gin. For a sbagliato, substitute the gin for prosecco.
+## Dirk's Drinks
+When in Milan, drink as the Milanese. There are many excellent drink options, but they all start with a bitter and a red vermouth. The big names here are Campari and Martini, but there are plenty of other options worth exploring. Though the official recipes call for equal parts bitter and red vermouth, here we opt for a punchier taste, heavier on the bitter.
 
-- 3-4 parts gin (to taste)
-- 2 parts campari
-- 1 part red vermouth. 
+### Base:
+- 3 parts bitter
+- 2 parts red vermouth
 
-Pour the ingredients into a mixing glass with ice and stir until the glass feels very cold. Strain into a glass with a (very) large ice cube and a twist of orange (and rub the glass rim with it). 
+### Options:
+You can now take this into several directions, by adding different mixers:
+- 3 parts sparkling water (or fill it up) will get you an *Americano* (not to be confused with the coffee drink of the same name)
+- For an interesting and refreshing twist, try tonic water instead of sparkling
+- 3 parts prosecco get you a *negroni sbagliato* (the "messed up negroni")
+- 3 parts gin get you the original *negroni*
+- 3 parts bourbon get you a *boulevardier*
+
+Pour the ingredients into a mixing glass with some ice and stir until the glass feels very cold. Strain into a glass with a large ice cube (the larger the better: it will melt more slowly) and a twist of orange or lemon peel (and rub the glass rim with it). 
+Enjoy!
