@@ -26,14 +26,14 @@ It currently takes place every Thursday at 12:00 PM (Milan). For more info, feel
 | October 17 | Paul   | [Helpful assistant or fruitful facilitator? Investigating how personas affect language model behavior](https://arxiv.org/abs/2407.02099)
 | October 24 | Tiancheng   | 
 | October 31 | Maria   | 
-| Nov-7	Flor |
-| Nov-14	Serena | [Durably reducing conspiracy beliefs through dialogues with AI](https://www.science.org/doi/10.1126/science.adq1814)
-| Nov-21	Yujie |
-| Nov-28	Roberta |
-| Dec-5	Pranav | [Evaluating the Social Impact of Generative AI Systems
+| Nov-7	| Flor |
+| Nov-14	| Serena | [Durably reducing conspiracy beliefs through dialogues with AI](https://www.science.org/doi/10.1126/science.adq1814)
+| Nov-21	| Yujie |
+| Nov-28	| Roberta |
+| Dec-5	| Pranav | [Evaluating the Social Impact of Generative AI Systems
 in Systems and Society] (https://arxiv.org/pdf/2306.05949)
-| Dec-12	Dirk |
-| Dec-19	Ariana |
-| Dec-26	Debora |
+| Dec-12	| Dirk |
+| Dec-19	| Ariana |
+| Dec-26	| Debora |
 
 
