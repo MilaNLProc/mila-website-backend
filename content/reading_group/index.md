@@ -22,6 +22,7 @@ It currently takes place every Thursday at 12:00 PM (Milan). For more info, feel
 
 | Date | Presenter | Paper |
 | ---- | ----------- | ---- | 
- October 03 | Mikel   | [Toxic Synergy Between Hate Speech and Fake News Exposure](https://arxiv.org/pdf/2404.08110)
+| October 10 | Carolin   | [Diffusion Lens: Interpreting Text Encoders in Text-to-Image Pipelines](https://arxiv.org/pdf/2403.05846)
+| October 17 | Paul   | [Helpful assistant or fruitful facilitator? Investigating how personas affect language model behavior](https://arxiv.org/abs/2407.02099)
 
 
