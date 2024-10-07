@@ -30,7 +30,7 @@ It currently takes place every Thursday at 12:00 PM (Milan). For more info, feel
 | Nov-14	| Serena | [Durably reducing conspiracy beliefs through dialogues with AI](https://www.science.org/doi/10.1126/science.adq1814)
 | Nov-21	| Yujie |
 | Nov-28	| Roberta |
-| Dec-5	| Pranav | [Evaluating the Social Impact of Generative AI Systems in Systems and Society] (https://arxiv.org/pdf/2306.05949)
+| Dec-5	| Pranav | [Evaluating the Social Impact of Generative AI Systems in Systems and Society](https://arxiv.org/pdf/2306.05949)
 | Dec-12	| Dirk |
 | Dec-19	| Ariana |
 | Dec-26	| Debora |
