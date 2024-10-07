@@ -24,7 +24,7 @@ It currently takes place every Thursday at 12:00 PM (Milan). For more info, feel
 | ---- | ----------- | ---- | 
 | October 10 | Carolin   | [Diffusion Lens: Interpreting Text Encoders in Text-to-Image Pipelines](https://arxiv.org/pdf/2403.05846)
 | October 17 | Paul   | [Helpful assistant or fruitful facilitator? Investigating how personas affect language model behavior](https://arxiv.org/abs/2407.02099)
-| October 24 | Tiancheng   | 
+| October 24 | Tiancheng  |[Turning large language models into cognitive models](https://arxiv.org/abs/2306.03917) 
 | October 31 | Maria   | 
 | Nov-7	| Flor |
 | Nov-14	| Serena | [Durably reducing conspiracy beliefs through dialogues with AI](https://www.science.org/doi/10.1126/science.adq1814)
