@@ -22,10 +22,8 @@ It currently takes place every Thursday at 12:00 PM (Milan). For more info, feel
 
 | Date | Presenter | Paper |
 | ---- | ----------- | ---- | 
-| October 10 | Carolin   | [Diffusion Lens: Interpreting Text Encoders in Text-to-Image Pipelines](https://arxiv.org/pdf/2403.05846)
-| October 17 | Paul   | [Helpful assistant or fruitful facilitator? Investigating how personas affect language model behavior](https://arxiv.org/abs/2407.02099)
 | October 24 | Tiancheng  |[Turning large language models into cognitive models](https://arxiv.org/abs/2306.03917) 
-| October 31 | Maria   | 
+| October 31 | Maria   | [Mining misinformation discourse on social media within the ‘ideological square’](https://journals.sagepub.com/doi/full/10.1177/09579265231211490?journalCode=dasa)
 | Nov-7	| Flor |
 | Nov-14	| Serena | [Durably reducing conspiracy beliefs through dialogues with AI](https://www.science.org/doi/10.1126/science.adq1814)
 | Nov-21	| Yujie |
