@@ -19,8 +19,8 @@ organizations:
   
 education:
   courses:
-  - course: PhD in Computer Science
-    institution: IMS (University of Stuttgart) 
+  - course: PhD in Computational Linguistics
+    institution: University of Stuttgart
     year: 2024
 email: ""
     
