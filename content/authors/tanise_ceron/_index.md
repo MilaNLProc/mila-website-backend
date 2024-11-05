@@ -69,6 +69,6 @@ user_groups:
 - Researchers
 ---
 
-**Tanise Ceron** is a Postdoctoral Research Fellow at [Bocconi University](https:\\www.bocconi.it/). Her research lies in understanding how algorithms, and more specifically language models filter information such as understanding the types of biases embedded in large language models (LLMs) and how they manifest in downstream tasks. She is also keen on developing methods for modeling societal discourse. This involves tasks such as developing methods to mine ideologies, and more generally, opinions from texts. Lastly, she enjoys thinking about the implementation of my research in real world use case applications, such as news recommenders. 
+**Tanise Ceron** is a Postdoctoral Research Fellow at [Bocconi University](https:\\www.bocconi.it/). Her research lies in understanding how algorithms, and more specifically language models filter information such as understanding the types of biases embedded in large language models (LLMs) and how they manifest in downstream tasks. She is also keen on developing methods for modeling societal discourse. This involves tasks such as developing methods to mine ideologies, and more generally, opinions from texts. Lastly, she enjoys thinking about the implementation of her research in real world use case applications, such as news recommenders. 
 
 She co-leads the project [MULTIVIEW](https://www.ims.uni-stuttgart.de/en/research/projects/multiview/) which investigates methods for diversifying news recommendations in terms of perspectives. 
