@@ -22,12 +22,10 @@ It currently takes place every Thursday at 12:00 PM (Milan). For more info, feel
 
 | Date | Presenter | Paper |
 | ---- | ----------- | ---- | 
-| October 31 | Maria   | [Mining misinformation discourse on social media within the ‘ideological square’](https://journals.sagepub.com/doi/full/10.1177/09579265231211490?journalCode=dasa)
-| Nov-7	| Carolin | [Diffusion Lens: Interpreting Text Encoders in Text-to-Image Pipelines](https://arxiv.org/pdf/2403.05846)
 | Nov-14	| Serena | [Durably reducing conspiracy beliefs through dialogues with AI](https://www.science.org/doi/10.1126/science.adq1814)
 | Nov-21	| Yujie | [Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations?](https://arxiv.org/pdf/2405.05904)
 | Nov-28	| Roberta |
-| Dec-5	| Flor | 
+| Dec-5	| Flor | [Why AI Is WEIRD and Should Not Be This Way: Towards AI For Everyone, With Everyone, By Everyone](https://arxiv.org/pdf/2410.16315)
 | Dec-12	| Dirk |
 | Dec-19	| Ariana |
 | Dec-26	| Debora |
