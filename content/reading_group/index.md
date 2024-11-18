@@ -22,7 +22,6 @@ It currently takes place every Thursday at 12:00 PM (Milan). For more info, feel
 
 | Date | Presenter | Paper |
 | ---- | ----------- | ---- | 
-| Nov-14	| Serena | [Durably reducing conspiracy beliefs through dialogues with AI](https://www.science.org/doi/10.1126/science.adq1814)
 | Nov-21	| Yujie | [Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations?](https://arxiv.org/pdf/2405.05904)
 | Nov-28	| Roberta |
 | Dec-5	| Flor | [Why AI Is WEIRD and Should Not Be This Way: Towards AI For Everyone, With Everyone, By Everyone](https://arxiv.org/pdf/2410.16315)
