@@ -30,6 +30,24 @@ We are very happy to discuss ongoing or upcoming research.
 
 ## Past Guests
 
+<details>
+  <summary>Test</summary>
+  
+  ### Heading
+  1. Foo
+  2. Bar
+     * Baz
+     * Qux
+
+  ### Some Javascript
+  ```js
+  function logSomething(something) {
+    console.log('Something', something);
+  }
+  ```
+</details>
+
+
 ### 2021
 
 - [Emily Sheng](https://ewsheng.github.io/): "Biases in NLG and Dialogue Systems"
