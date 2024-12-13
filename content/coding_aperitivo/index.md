@@ -30,42 +30,72 @@ We are very happy to discuss ongoing or upcoming research.
 
 ## Past Guests
 
-<details>
-  <summary>Test</summary>
-  
-  ### Heading
-  1. Foo
-  2. Bar
-     * Baz
-     * Qux
+### 2024
+- [Emanuele La Malfa](https://scholar.google.com/citations?user=4_91m08AAAAJ&hl=en): "Code Simulation Challenges for Large Language Models"
+- [Enrico Liscio](https://enricoliscio.github.io/): "Context-Specific Value Inference via Hybrid Intelligence"
+- [Eve Fleisig](https://www.efleisig.com/): "When the Majority is Wrong: Modeling Annotator Disagreement for Language Tasks"
+- [Vishakh Padmakumar](https://vishakhpk.github.io/): "Does Writing with Language Models Reduce Content Diversity?"
+- [Enrico Bertino](https://www.linkedin.com/in/enricobertino/?originalSubdomain=it): "AI at a Milanese Chatbot Start-Up"
+- [Fangru Lin](https://fangru-lin.github.io/): "Graph-enhanced Large Language Models in Asynchronous Plan Reasoning"
+- [Xuhui Zhou](https://xuhuiz.com/): "Towards Socially Aware and Interactional NLP Systems"
+- [Minje Choi](https://minjechoi.github.io/): "Towards Evaluating and Measuring the Social Capabilities of Large Language Models"
+- [Sachin Kumar](https://sites.google.com/view/sachinkumar): "Adapting Language Models to Improve Reliability: Experiments with Refusals and Diverse Preference Modeling"
+- [Nino Scherrer](https://ninodimontalcino.github.io/): "Evaluating (Moral) Beliefs Encoded in LLMs"
+- [Mary Sanford](https://sites.google.com/view/marysanford/home): "Political Discourse on Climate Change in EU Party Manifestos: A Computational Text Analysis Approach"
+- [Anna Rogers](https://annargrs.github.io/), [Faeze Brahman](https://fabrahman.github.io/) and [Elman Mansimov](https://mansimov.io/): Workshop on LLMs in Research and Industry
+- [Eugenia Stamboliev](https://www.eugeniastamboliev.com/): "Can we Explain AI? On the Pitfalls of XAI"
+- [Maria Antoniak](https://maria-antoniak.github.io/): "Computational Approaches to Narratives"
+- [Lucy Li](https://lucy3.github.io/): "AboutMe: Using Self-Descriptions in Webpages to Document the Effects of English Pretraining Data Filters"
+- [Jasmijn Bastings](https://bastings.github.io/): "Bits, Bats & Bots: Deconstructing Gender in Language Technology"
+- [Fatma Elsafoury](https://efatmae.github.io/): "On the Sources of Bias in NLP Models: Origin, Impact, Mitigation, and the Ways Forward"
+- [Caleb Ziems](https://calebziems.com/): "How to Use Large Language Models for Computational Social Science"
+- [Rose Wang](https://rosewang2008.github.io/): "Scaling Expertise via Language Models with Applications to Education"
+- [Amin al Hazwani](https://aminalhazwani.com/): "Collaborating to Create a Language-Independent Encyclopedia"
+- [Luna De Bruyne](https://research.flw.ugent.be/en/luna.debruyne): "Emotions without Borders: Challenges in Multilingual Emotion Detection"
+- [Alina Leidinger](https://aleidinger.github.io/): "How are LLMs Mitigating Stereotyping Harms?"
+- [Giuseppe Russo](https://giuseppepepperusso.github.io/): "The Causal Impact of Content Curation Practises in Online Platforms"
+- [Julie Jiang](https://x.com/_julie_jiang): "Social Approval and Network Homophily as Motivators of Online Hate Speech"
+- [Joachim Baumann](https://www.ifi.uzh.ch/en/scg/people/Baumann.html): "Fact-Checking and Music Recommendation"
+- [Niklas Stöhr](https://niklas-stoehr.com/): "Relating Items on a Shared Scale: Making Measurements with LMs"
+- [Gavin Abercrombie](https://gavinabercrombie.github.io/): "Tackling Online Gender-Based Violence"
+- [Mikel Ngueajio](https://www.linkedin.com/in/mikelngueajio/): "Can Explainable AI Help Mitigate the Toxic Synergy between Hate Speech and Fake News?"
+- [Andrew Bean](https://www.oii.ox.ac.uk/people/profiles/andrew-bean/): "LINGOLY: A Benchmark of Olympiad-Level Linguistic Reasoning Puzzles"
+- [Sofie Labat](https://lt3.ugent.be/people/sofie-labat/): "Emotion Research in Interactions: Bridging NLP and Social Psychology Through Role Playing"
 
-  ### Some Javascript
-  ```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
+
+### 2023
+
+<details>
+  <summary>Click HERE to expand.</summary>
+  
+- [Maurice Jakesch](https://mauricejakesch.com/): "Assessing the Effects and Risks of Large Language Models in AI-Mediated Communication"
+- [Marco del Tredici](https://sites.google.com/site/marcodeltredici/): "Current trends in NLP"
+- [Fatma Elsafoury](https://efatmae.github.io/): "Hate Speech and Toxicity"
+- [Mor Geva](https://mega002.github.io/): "Annotation bias sources and prevention"
+- [Emanuele Bugliarello](https://e-bug.github.io/): "Language modelling as pixels"
+- [Tess Buckley](https://tessbuckley.me/): "Computational creativity and the ethics of AI-generated music"
+- [Marina Rizzi](https://marinarizzi.weebly.com/): "Self-regulation and the Evolution of Content: A Cross-Platform Analysis"
+- [Giovanni Cassani](https://www.tilburguniversity.edu/staff/g-cassani), Marco Bragoni, and Paul Schreiber: "Multimodal Representations for Words that Don’t Exist Yet"
+- [Laura Vasquez-Rodriguez](https://lmvasque.github.io/): "Introduction to text simplification with NLP"
+- [Raj Ammanabrolu](https://prithvirajva.com/): "Interactive Language Learning"
+- [Suchin Gururangan](https://suchin.io/): "All things language models, open-sourcing and regulation"
+- [Giada Pistilli](https://www.giadapistilli.com/): "Ethics in NLP"
+- [Edoardo Ponti](https://ducdauge.github.io/): "Modular Deep Learning"
+- [Julie-Anne Meaney](https://smash.inf.ed.ac.uk/author/julie-anne-meaney/): "Demographically-aware Computational Humour"
+- [Giorgio Franceschelli](https://giorgiofranceschelli.github.io/): "Creativity and machine learning"
+- [Aubrie Amstutz](https://aubrieamstutz.com/): "Managing toxicity and hate speech in the private sector"
+- [Tom McCoy](https://rtmccoy.com/): "Embers of Autoregression: Understanding Large Language Models Through the Problem They are Trained to Solve"
+- [Camilo Carvajal Reyes](https://www.dim.uchile.cl/~ccarvajal/): "EthicApp: analysing and understanding how people debate ethical issues"
+- [Tanvi Dinkar](https://www.linkedin.com/in/tanvi-dinkar-001aa037?originalSubdomain=uk): "Safety and robustness in conversational AI"
+
 </details>
 
 
-### 2021
-
-- [Emily Sheng](https://ewsheng.github.io/): "Biases in NLG and Dialogue Systems"
-- [Nedjma Ousidhoum](https://nedjmaou.github.io/): "Expectations vs. Reality when Working on Toxic Content Detection in NLP"
-- [Nils Reimers](https://www.nils-reimers.de/): "Training State-of-the-Art Text Embedding & Neural Search Models"
-- [Maarten Sap](https://maartensap.com/): "Detecting and Rewriting Socially Biased Language"
-- [Sunipa Dev](https://sunipa.github.io/): "Towards Interpretable, Fair and Socially-Aware of Language Representations"
-- [Alba Curry](https://www.linkedin.com/in/albacurry/): "Philosophy of Emotion and Sentiment Detection"
-- [Rob van der Goot](https://robvanderg.github.io/): "Multi-lingual and Multi-task learning: from Dataset Creation to Modeling
-- [Su Lin Blodgett](https://sblodgett.github.io/): "Social and Ethical Implications of NLP Technologies"
-- [Gabriele Sarti](https://gsarti.com/): "Interpreting Neural Language Models for Linguistic Complexity Assessment"
-- [Paul Röttger](https://paulrottger.com/): "Two Contrasting Data Annotation Paradigms for Subjective NLP Tasks"
-- [Chia-Chien Hung](https://www.uni-mannheim.de/dws/people/researchers/phd-students/chia-chien-hung/): "Multi-domain and Multilingual Dialog"
-- [Anna Wegmann](https://annawegmann.github.io/): "Does It Capture STEL? A Modular, Similarity-based Linguistic Style Evaluation Framework"
-- [Abhilasha Ravichander](https://www.cs.cmu.edu/~aravicha/): "Probing the Probing Paradigm: Does Probing Accuracy Entail Task Relevance?"
-- [Samson Tan](https://samsontmr.github.io/) (AWS AI Research & Education): "Towards Sociolinguistically-Inclusive NLP: An Adversarial Approach"
-
 ### 2022
+
+<details>
+  <summary>Click HERE to expand.</summary>
+
 - [Christine de Kock](https://www.cst.cam.ac.uk/people/cd700): "I Beg to Differ: A study of constructive disagreement in online conversations"
 - [Eliana Pastor](https://smartdata.polito.it/members/eliana-pastor/): "Pattern-based algorithms for Explainable AI"
 - [Dave Howcroft](https://davehowcroft.com/): "Low-Resource NLG"
@@ -90,50 +120,29 @@ We are very happy to discuss ongoing or upcoming research.
 - [William Agnew](https://sites.google.com/cs.washington.edu/william-agnew/home?pli=1): "Values, Ethics and NLP"
 - [Rami Aly](https://scholar.google.com/citations?user=dbzGY5YAAAAJ&hl=de): "Automatic fact checking"
 - [Indira Sen](https://indiiigo.github.io/): "Measuring social constructs with NLP: Two case studies of abusive language and workplace depression"
+</details>
 
-### 2023
-- [Maurice Jakesch](https://mauricejakesch.com/): "Assessing the Effects and Risks of Large Language Models in AI-Mediated Communication"
-- [Marco del Tredici](https://sites.google.com/site/marcodeltredici/): "Current trends in NLP"
-- [Fatma Elsafoury](https://efatmae.github.io/): "Hate Speech and Toxicity"
-- [Mor Geva](https://mega002.github.io/): "Annotation bias sources and prevention"
-- [Emanuele Bugliarello](https://e-bug.github.io/): "Language modelling as pixels"
-- [Tess Buckley](https://tessbuckley.me/): "Computational creativity and the ethics of AI-generated music"
-- [Marina Rizzi](https://marinarizzi.weebly.com/): "Self-regulation and the Evolution of Content: A Cross-Platform Analysis"
-- [Giovanni Cassani](https://www.tilburguniversity.edu/staff/g-cassani), Marco Bragoni, and Paul Schreiber: "Multimodal Representations for Words that Don’t Exist Yet"
-- [Laura Vasquez-Rodriguez](https://lmvasque.github.io/): "Introduction to text simplification with NLP"
-- [Raj Ammanabrolu](https://prithvirajva.com/): "Interactive Language Learning"
-- [Suchin Gururangan](https://suchin.io/): "All things language models, open-sourcing and regulation"
-- [Giada Pistilli](https://www.giadapistilli.com/): "Ethics in NLP"
-- [Edoardo Ponti](https://ducdauge.github.io/): "Modular Deep Learning"
-- [Julie-Anne Meaney](https://smash.inf.ed.ac.uk/author/julie-anne-meaney/): "Demographically-aware Computational Humour"
-- [Giorgio Franceschelli](https://giorgiofranceschelli.github.io/): "Creativity and machine learning"
-- [Aubrie Amstutz](https://aubrieamstutz.com/): "Managing toxicity and hate speech in the private sector"
-- [Tom McCoy](https://rtmccoy.com/): "Embers of Autoregression: Understanding Large Language Models Through the Problem They are Trained to Solve"
-- [Camilo Carvajal Reyes](https://www.dim.uchile.cl/~ccarvajal/): "EthicApp: analysing and understanding how people debate ethical issues"
-- [Tanvi Dinkar](https://www.linkedin.com/in/tanvi-dinkar-001aa037?originalSubdomain=uk): "Safety and robustness in conversational AI"
 
-### 2024
-- [Emanuele La Malfa](https://scholar.google.com/citations?user=4_91m08AAAAJ&hl=en): "Code Simulation Challenges for Large Language Models"
-- [Enrico Liscio](https://enricoliscio.github.io/): "Context-Specific Value Inference via Hybrid Intelligence"
-- [Eve Fleisig](https://www.efleisig.com/): "When the Majority is Wrong: Modeling Annotator Disagreement for Language Tasks"
-- [Vishakh Padmakumar](https://vishakhpk.github.io/): "Does Writing with Language Models Reduce Content Diversity?"
-- [Enrico Bertino](https://www.linkedin.com/in/enricobertino/?originalSubdomain=it): "AI at a Milanese Chatbot Start-Up"
-- [Fangru Lin](https://fangru-lin.github.io/): "Graph-enhanced Large Language Models in Asynchronous Plan Reasoning"
-- [Xuhui Zhou](https://xuhuiz.com/): "Towards Socially Aware and Interactional NLP Systems"
-- [Minje Choi](https://minjechoi.github.io/): "Towards Evaluating and Measuring the Social Capabilities of Large Language Models"
-- [Sachin Kumar](https://sites.google.com/view/sachinkumar): "Adapting Language Models to Improve Reliability: Experiments with Refusals and Diverse Preference Modeling"
-- [Nino Scherrer](https://ninodimontalcino.github.io/): "Evaluating (Moral) Beliefs Encoded in LLMs"
-- [Mary Sanford](https://sites.google.com/view/marysanford/home): "Political Discourse on Climate Change in EU Party Manifestos: A Computational Text Analysis Approach"
-- [Anna Rogers](https://annargrs.github.io/), [Faeze Brahman](https://fabrahman.github.io/) and [Elman Mansimov](https://mansimov.io/): Workshop on LLMs in Research and Industry
-- [Eugenia Stamboliev](https://www.eugeniastamboliev.com/): "Can we Explain AI? On the Pitfalls of XAI"
-- [Maria Antoniak](https://maria-antoniak.github.io/): "Computational Approaches to Narratives"
-- [Lucy Li](https://lucy3.github.io/): "AboutMe: Using Self-Descriptions in Webpages to Document the Effects of English Pretraining Data Filters"
-- [Jasmijn Bastings](https://bastings.github.io/): "Bits, Bats & Bots: Deconstructing Gender in Language Technology"
-- [Fatma Elsafoury](https://efatmae.github.io/): "On the Sources of Bias in NLP Models: Origin, Impact, Mitigation, and the Ways Forward"
-- [Caleb Ziems](https://calebziems.com/): "How to Use Large Language Models for Computational Social Science"
-- [Rose Wang](https://rosewang2008.github.io/): "Scaling Expertise via Language Models with Applications to Education"
-- [Amin al Hazwani](https://aminalhazwani.com/): "Collaborating to Create a Language-Independent Encyclopedia"
-- [Luna De Bruyne](https://research.flw.ugent.be/en/luna.debruyne): "Emotions without Borders: Challenges in Multilingual Emotion Detection"
+### 2021
+
+<details>
+  <summary>Click HERE to expand.</summary>
+
+- [Emily Sheng](https://ewsheng.github.io/): "Biases in NLG and Dialogue Systems"
+- [Nedjma Ousidhoum](https://nedjmaou.github.io/): "Expectations vs. Reality when Working on Toxic Content Detection in NLP"
+- [Nils Reimers](https://www.nils-reimers.de/): "Training State-of-the-Art Text Embedding & Neural Search Models"
+- [Maarten Sap](https://maartensap.com/): "Detecting and Rewriting Socially Biased Language"
+- [Sunipa Dev](https://sunipa.github.io/): "Towards Interpretable, Fair and Socially-Aware of Language Representations"
+- [Alba Curry](https://www.linkedin.com/in/albacurry/): "Philosophy of Emotion and Sentiment Detection"
+- [Rob van der Goot](https://robvanderg.github.io/): "Multi-lingual and Multi-task learning: from Dataset Creation to Modeling
+- [Su Lin Blodgett](https://sblodgett.github.io/): "Social and Ethical Implications of NLP Technologies"
+- [Gabriele Sarti](https://gsarti.com/): "Interpreting Neural Language Models for Linguistic Complexity Assessment"
+- [Paul Röttger](https://paulrottger.com/): "Two Contrasting Data Annotation Paradigms for Subjective NLP Tasks"
+- [Chia-Chien Hung](https://www.uni-mannheim.de/dws/people/researchers/phd-students/chia-chien-hung/): "Multi-domain and Multilingual Dialog"
+- [Anna Wegmann](https://annawegmann.github.io/): "Does It Capture STEL? A Modular, Similarity-based Linguistic Style Evaluation Framework"
+- [Abhilasha Ravichander](https://www.cs.cmu.edu/~aravicha/): "Probing the Probing Paradigm: Does Probing Accuracy Entail Task Relevance?"
+- [Samson Tan](https://samsontmr.github.io/) (AWS AI Research & Education): "Towards Sociolinguistically-Inclusive NLP: An Adversarial Approach"
+</details>
 
 
 ## Dirk's Drinks
