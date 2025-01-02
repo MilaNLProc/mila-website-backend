@@ -39,7 +39,7 @@ email: "emanuele.moscato2@unibocconi.it"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 
 **Maria Nawrocka** is a PhD candidate at the Doctoral School of Social Sciences, at the University of Warsaw. Her research focuses on the discourse surrounding refugees in Polish public television. Utilizing a customized NLP framework designed for the Polish language, she aims to uncover patterns and shifts in the representation of refugees over the past decade.
