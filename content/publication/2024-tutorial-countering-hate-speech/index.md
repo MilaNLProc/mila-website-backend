@@ -24,7 +24,7 @@ abstract: "In today’s digital age, hate speech and offensive speech online pos
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["Tutorial", "Hate Speech","Offensive Language", "Open Challenges", "Large Language Models"]
+tags: ["Tutorial", "Hate Speech", "Offensive Language", "Open Challenges", "Large Language Models"]
 categories: []
 featured: false
 
