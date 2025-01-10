@@ -18,19 +18,13 @@ The Reading Group is our weekly meeting to present and discuss exciting contribu
 
 It currently takes place every Thursday at 12:00 PM (Milan). For more info, feel free to [reach out](mailto:donya.rooein@unibocconi.it).
 
-## Upcoming Program
+## Upcoming Program 2025
 
 | Date | Presenter | Paper |
 | ---- | ----------- | ---- | 
-| October 24 | Tiancheng  |[Turning large language models into cognitive models](https://arxiv.org/abs/2306.03917) 
-| October 31 | Maria   | [Mining misinformation discourse on social media within the ‘ideological square’](https://journals.sagepub.com/doi/full/10.1177/09579265231211490?journalCode=dasa)
-| Nov-7	| Carolin | [Diffusion Lens: Interpreting Text Encoders in Text-to-Image Pipelines](https://arxiv.org/pdf/2403.05846)
-| Nov-14	| Serena | [Durably reducing conspiracy beliefs through dialogues with AI](https://www.science.org/doi/10.1126/science.adq1814)
-| Nov-21	| Yujie | [Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations?](https://arxiv.org/pdf/2405.05904)
-| Nov-28	| Roberta |
-| Dec-5	| Flor | 
-| Dec-12	| Dirk |
-| Dec-19	| Ariana |
-| Dec-26	| Debora |
+| Jan-9	| Elisa | [All Too Human? Mapping and Mitigating the Risks from Anthropomorphic AI](https://ojs.aaai.org/index.php/AIES/article/view/31613/33780)
+| Jan-16	| Peppe |[Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet](https://transformer-circuits.pub/2024/scaling-monosemanticity/)
+
+
 
 

@@ -72,7 +72,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 
 I am a <s>first-year</s> <s>second-year</s> third year PhD student Computation, Cognition and Language at the [Language Technology Lab](https://ltl.mmll.cam.ac.uk/) at [University of Cambridge](https://www.cam.ac.uk/), supervised by [Prof. Nigel Collier](https://sites.google.com/site/nhcollier/).
