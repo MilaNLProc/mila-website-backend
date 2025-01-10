@@ -2,11 +2,11 @@
 
 title: "Language is Scary when Over-Analyzed: Unpacking Implied Misogynistic Reasoning with Argumentation Theory-Driven Prompts"
 authors: ["Arianna Muti", "Federico Ruggeri", "Khalid Al Khatib", "Alberto Barrón-Cedeño", "Tommaso Caselli"]
-date: 2024-01-10
+date: 2024-11-09
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2024-11-11T14:48:20+01:00
+publishDate: 2024-11-09
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
