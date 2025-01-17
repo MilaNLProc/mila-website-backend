@@ -43,9 +43,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:baumann@ifi.uzh.ch'  # For a direct email link, use "mailto:debora.nozza@unibocconi.it".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/joebaumann
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=0Eunq_cAAAAJ
