@@ -20,10 +20,18 @@ It currently takes place every Thursday at 12:00 PM (Milan). For more info, feel
 
 ## Upcoming Program 2025
 
-| Date | Presenter | Paper |
-| ---- | ----------- | ---- | 
-| Jan-9	| Elisa | [All Too Human? Mapping and Mitigating the Risks from Anthropomorphic AI](https://ojs.aaai.org/index.php/AIES/article/view/31613/33780)
-| Jan-16	| Peppe |[Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet](https://transformer-circuits.pub/2024/scaling-monosemanticity/)
+
+| Date   | Presenter | Paper                                                                                      |
+| ------ | --------- | ------------------------------------------------------------------------------------------ |
+| Mar-6  | Debora    | [Academic mentees thrive in big groups, but survive in small groups](https://www.nature.com/articles/s41562-025-02114-8.epdf?sharing_token=Wdy0SXa-N16hunvHrJHN69RgN0jAjWel9jnR3ZoTv0Oy9ObQQRag4hgiYtQAH-R_NfGRwrw1jodL45sUR0J4axa06J1s4P5m6LWOZjnQ8Qyf7OJzmnKrrpDARo9w-I-lWhefXbGe-TSMqRSIS-DpofdaC2ExTXlyM36H5lfBcPo%3D)                         |
+| Mar-13 | Pranav    | How Good is your Wikipedia?                                                                 |
+| Mar-20 | Serena    |                                                                                            |
+| Mar-27 | Carolin   |                                                                                            |
+| Apr-3  | Albert    |                                                                                            |
+| Apr-10 | Donya     | A Comprehensive Framework to Operationalize Social Stereotypes for Responsible AI Evaluations |
+| Apr-17 | Arianna   |                                                                                            |
+| Apr-24 | Dirk      |                                                                                            |
+
 
 
 
