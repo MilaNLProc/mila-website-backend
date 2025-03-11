@@ -43,21 +43,26 @@
     name = "Coding Aperitivo"
     url = "/coding_aperitivo"
     weight = 40
-  
+
     [[main]]
     name = "Reading Group"
     url = "/reading_group"
     weight = 40
 
   [[main]]
+    name = "Alumni"
+    url = "/alumni"
+    weight = 50
+
+  [[main]]
     name = "Join us"
     url = "/join"
-    weight = 50
+    weight = 60
 
   [[main]]
     name = "Contact"
     url = "/contact"
-    weight = 60
+    weight = 70
 
 
 

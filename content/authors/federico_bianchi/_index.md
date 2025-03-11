@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoc, Stanford University
+role: Senior ML Scientist, TogetherAI
 
 # Organizations/Affiliations
 organizations:

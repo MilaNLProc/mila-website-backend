@@ -24,28 +24,28 @@ bio:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:giuseppe.attanasio@polito.it'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/peppeatta
-- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: ai
-  link: https://scholar.google.it/citations?user=IuhnRJQAAAAJ&hl=en
-- icon: github
-  icon_pack: fab
-  link: https://github.com/g8a9
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/giuseppe-attanasio/
-- icon: user
-  icon_pack: fas
-  link: https://gattanasio.cc
-- icon: music
-  icon_pack: fas
-  link: https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB?si=aad147ee54044638
+# social:
+# - icon: envelope
+#   icon_pack: fas
+#   link: 'mailto:giuseppe.attanasio@polito.it'
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/peppeatta
+# - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#   icon_pack: ai
+#   link: https://scholar.google.it/citations?user=IuhnRJQAAAAJ&hl=en
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/g8a9
+# - icon: linkedin
+#   icon_pack: fab
+#   link: https://www.linkedin.com/in/giuseppe-attanasio/
+# - icon: user
+#   icon_pack: fas
+#   link: https://gattanasio.cc
+# - icon: music
+#   icon_pack: fas
+#   link: https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB?si=aad147ee54044638
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
