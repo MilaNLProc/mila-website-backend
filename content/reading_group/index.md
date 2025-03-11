@@ -23,7 +23,6 @@ It currently takes place every Thursday at 12:00 PM (Milan). For more info, feel
 
 | Date   | Presenter | Paper                                                                                      |
 | ------ | --------- | ------------------------------------------------------------------------------------------ |
-| Mar-6  | Debora    | [Academic mentees thrive in big groups, but survive in small groups](https://www.nature.com/articles/s41562-025-02114-8.epdf?sharing_token=Wdy0SXa-N16hunvHrJHN69RgN0jAjWel9jnR3ZoTv0Oy9ObQQRag4hgiYtQAH-R_NfGRwrw1jodL45sUR0J4axa06J1s4P5m6LWOZjnQ8Qyf7OJzmnKrrpDARo9w-I-lWhefXbGe-TSMqRSIS-DpofdaC2ExTXlyM36H5lfBcPo%3D)                         |
 | Mar-13 | Pranav    | [How Good is your Wikipedia?](https://arxiv.org/abs/2411.05527)                                                                 |
 | Mar-20 | Serena    |                                                                                            |
 | Mar-27 | Carolin   |                                                                                            |
