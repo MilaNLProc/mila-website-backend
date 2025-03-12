@@ -44,6 +44,7 @@ url_project:
 url_slides: https://drive.google.com/file/d/1IV9Xu5aOSWGRyqUzsvldmXhb6dLBDIie/view
 url_source: https://nlp-for-countering-hate-speech-tutorial.github.io/
 url_video:
+socialmedia_post: 'Countering Hateful and Offensive Speech Online - Open Challenges" (Flor Miriam Plaza-Del-Arco, {@debora}, Marco Guerini, Jeffrey Sorensen, Marcos Zampieri, 2024) presented a tutorial on the challenges and solutions for detecting and mitigating hate speech online.'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
