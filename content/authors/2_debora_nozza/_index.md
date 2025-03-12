@@ -43,7 +43,7 @@ social:
   link: 'mailto:debora.nozza@unibocconi.it'  # For a direct email link, use "mailto:debora.nozza@unibocconi.it".
 - icon: bluesky
   icon_pack: fab
-  link: https://bsky.app/profile/YOUR_BSKY_HANDLE
+  link: https://bsky.app/profile/deboranozza.bsky.social
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.it/citations?hl=it&user=AKi-UWQAAAAJ
