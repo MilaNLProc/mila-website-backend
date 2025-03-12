@@ -6,7 +6,7 @@ title: 'Twists, Humps, and Pebbles: Multilingual Speech Recognition Models Exhib
 authors: ["Giuseppe Attanasio","Beatrice Savoldi","Dennis Fucci","Dirk Hovy"]
 date: 2024/11
 doi: ''
-publishDate: '2025-03-11T13:55:26+01:00'
+publishDate: '2024-11-11T13:55:26+01:00'
 publication_types:
 - '1'
 publication: Proceedings of the 2024 Conference on Empirical Methods in Natural Language
