@@ -3,15 +3,13 @@
 
 title: Explaining Speech Classification Models via Word-Level Audio Segments and Paralinguistic
   Features
-authors: '["Eliana Pastor","Alkis Koudounas","Giuseppe Attanasio","Dirk Hovy","Elena
-  Baralis"]'
+authors: ["Eliana Pastor","Alkis Koudounas","Giuseppe Attanasio","Dirk Hovy", "Elena Baralis"]
 date: 2024/3
 doi: ''
 publishDate: '2024-03-11T13:52:28+01:00'
 publication_types:
 - '1'
-publication: 'Proceedings of the 18th Conference of the European Chapter of the Association
-  for Computational Linguistics (Volume 1: Long Papers)'
+publication: 'Proceedings of the 18th Conference of the European Chapter of the Association  for Computational Linguistics (Volume 1: Long Papers)'
 publication_short: 'Proceedings of the 18th Conference of the European Chapter of
   the Association for Computational Linguistics (Volume 1: Long Papers)'
 abstract: "Predictive models make mistakes and have biases. To combat both, we need\
@@ -44,7 +42,7 @@ url_source: ''
 url_video: ''
 socialmedia_post: "\"Explaining Speech Classification Models\" by Pastor et al. (2024)\
   \ makes speech classification more transparent! \U0001F50D Their research reveals\
-  \ which words matter most & how tone and background noise impact decisions."
+  \ which words matter most and how tone and background noise impact decisions."
 image:
   caption: ''
   focal_point: Center
