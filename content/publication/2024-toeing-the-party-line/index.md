@@ -13,7 +13,7 @@ publishDate: "2024"
 publication_types:
   - "1"
 publication: "Findings of the Association for Computational Linguistics: EMNLP 2024"
-publication_short: "Findings of the Association for Computational Linguistics: EMNLP 2024"
+publication_short: "Findings of EMNLP 2024"
 abstract: |
   Political discourse on Twitter is a moving target: politicians continuously make
   statements about their positions. It is therefore crucial to track their discourse
