@@ -13,7 +13,7 @@ date: '2024'
 doi: ''
 publishDate: '2025-03-12'
 publication_types:
-- '1'
+- '2'
 publication: Transactions of the Association for Computational Linguistics, Volume
   12
 publication_short: TACL 
