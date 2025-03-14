@@ -67,4 +67,5 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "Bianchi et al.'s (2023) 'Easily Accessible Text-to-Image Generation Amplifies Demographic Stereotypes at Large Scale' reveals text-to-image models amplify stereotypes."
 ---
