@@ -67,4 +67,5 @@ projects: [integrator]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "'XLM-EMO: Multilingual Emotion Prediction in Social Media Text' by Bianchi, {@debora}, {@dirk} (2022) advances cross-language emotion detection, especially for low-resource languages."
 ---
