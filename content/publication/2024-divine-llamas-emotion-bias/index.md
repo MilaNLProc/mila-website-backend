@@ -66,4 +66,5 @@ projects: [integrator]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "Plaza-del-Arco et al.'s 'Divine LLaMAs..' (2024) addresses stereotypes on religion in Large Language Models and their social impact. Tech for all! #DigitalEquity"
 ---
