@@ -69,4 +69,5 @@ projects: [monica]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "'HATE-ITA: Hate Speech Detection in Italian Social Media Text' by {@debora} et al. Outperforms in identifying Italian hate speech. 2022."
 ---
