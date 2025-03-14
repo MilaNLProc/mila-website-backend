@@ -66,4 +66,5 @@ projects: [integrator]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 #   slides: ""
+socialmedia_post: "Hung et al.'s 2023 paper, 'Can Demographic Factors Improve Text Classification?' finds demographic adaptations of Transformer NLP models don't notably boost performance."
 ---
