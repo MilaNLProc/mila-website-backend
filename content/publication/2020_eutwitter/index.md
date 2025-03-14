@@ -67,4 +67,5 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "'Visualizing Regional Language Variation Across Europe on Twitter' by {@dirk} et al. uncovers language differences across Europe with stunning visuals. Language is art! #Linguistics"
 ---
