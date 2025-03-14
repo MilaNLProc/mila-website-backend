@@ -67,4 +67,5 @@ projects: [integrator]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "' 'State of Profanity Obfuscation in NLP Scientific Publications' probes bias in non-English papers. {@debora} & {@dirk} (2023) propose 'PrOf' to aid authors & improve access."
 ---
