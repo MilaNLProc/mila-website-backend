@@ -67,4 +67,5 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "'Predictive Biases in Natural Language Processing Models: A Conceptual Framework and Overview' by Shah, Schwartz, {@dirk} (2020). Dive into their mathematical NLP bias framework, its origins, impacts, and types. A great read for tech & fairness enthusiasts! #AIEthics"
 ---
