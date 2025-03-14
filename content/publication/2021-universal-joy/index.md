@@ -67,4 +67,5 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "'Universal Joy: A Data Set and Results for Classifying Emotions Across Languages' by Lamprinidis et al. (2021) explores how AI research affects our planet. Tech can be green too! #SustainableTech"
 ---
