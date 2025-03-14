@@ -66,4 +66,5 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "'Language is Scary when Over-Analyzed...' by {@arianna} et al. explores argumentative reasoning in misogyny detection (2024). Detecting implicit misogyny proves challenging for language models. #AI"
 ---
