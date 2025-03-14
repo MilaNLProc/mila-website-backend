@@ -67,4 +67,5 @@ projects: [integrator]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "'{@donya} & {@dirk}'s 2024 paper, 'Conversations as a Source for Teaching Scientific Concepts' turns video dialogues into effective teaching tools.'"
 ---
