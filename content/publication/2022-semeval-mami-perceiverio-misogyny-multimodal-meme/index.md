@@ -66,4 +66,5 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "'Detecting Misogynous Memes with Text & Image Modalities' by Attanasio, {@debora}, Bianchi. Their novel system uses Perceiver IO, surpassing all previous benchmarks. #AI #ScienceUpdate"
 ---
