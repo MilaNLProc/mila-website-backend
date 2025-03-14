@@ -69,4 +69,5 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "'FEEL-IT: Emotion and Sentiment Classification for the Italian Language' by Federico Bianchi, {@debora}, {@dirk} (2021) presents FEEL-IT, a novel model for Italian emotion detection and sentiment analysis."
 ---
