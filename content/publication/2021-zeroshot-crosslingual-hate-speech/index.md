@@ -69,4 +69,5 @@ projects: [integrator]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "'Exploring challenges in Zero-shot Cross-lingual Hate Speech Detection, {@debora} (2021) reveals how current models may inaccurately label non-hateful, language-specific interjections as hate speech signals.'"
 ---
