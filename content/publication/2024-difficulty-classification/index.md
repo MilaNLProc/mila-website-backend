@@ -2,7 +2,11 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Beyond Flesch-Kincaid: Prompt-based Metrics Improve Difficulty Classification of Educational Texts"
-authors: [Donya Rooein, Paul Rottger, Anastassia Shaitarova, Dirk Hovy]
+authors:
+  - Donya Rooein
+  - Paul Rottger
+  - Anastassia Shaitarova
+  - Dirk Hovy
 date: 2024-05-16
 doi: ""
 
