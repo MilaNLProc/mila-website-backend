@@ -67,4 +67,5 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "'Leveraging Social Interactions to Detect Misinformation on Social Media' by Fornaciari et al. (2023) uses combined text and network analysis to spot unreliable threads."
 ---
