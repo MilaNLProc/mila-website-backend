@@ -67,4 +67,5 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "Uma et al. (2020) highlights 'A Case for Soft Loss Functions' efficacy using soft labels & crowd annotations in AI tasks, outshining top-tier methods."
 ---
