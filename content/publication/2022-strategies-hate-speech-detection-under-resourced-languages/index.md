@@ -67,4 +67,5 @@ projects: [integrator]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "'Data-Efficient Strategies for Expanding Hate Speech Detection into Under-Resourced Languages' funnels limited target-language data to fine-tune models & enhance effectiveness. By {@paul} et al."
 ---
