@@ -67,5 +67,5 @@ projects: [integrator]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
-socialmedia_post: "New metrics for text difficulty adjustment by {@donya} et al. improves teaching efficiency. 'Beyond Flesch-Kincaid: Prompt-based Metrics Improve Difficulty Classification of Educational Texts' (2024)ð"
+socialmedia_post: "New metrics for text difficulty adjustment by {@donya} et al. improves teaching efficiency. 'Beyond Flesch-Kincaid: Prompt-based Metrics Improve Difficulty Classification of Educational Texts' (2024)"
 ---
