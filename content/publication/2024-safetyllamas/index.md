@@ -67,4 +67,5 @@ projects: [integrator, indomita]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "#AI #MachineLearning #SafetyFirst 'Safety-Tuned LLaMAs: Improving LLMs Safety' by Bianchi et al. explores training LLMs for safe refusals, warns of over-tuning."
 ---
