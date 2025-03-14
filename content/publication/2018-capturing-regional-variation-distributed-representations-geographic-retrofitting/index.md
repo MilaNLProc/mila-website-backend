@@ -67,4 +67,5 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "'Capturing Regional Variation with Distributed Place Representations and Geographic Retrofitting' by {@dirk} and Christoph Purschke (2018) highlights how social class and background impact technology performance. #TechInclusion"
 ---
