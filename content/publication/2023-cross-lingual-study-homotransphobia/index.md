@@ -67,4 +67,5 @@ projects: [monica]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "' 'Cross-Lingual Study of Homotransphobia on Twitter' by Locatelli, Damo, & {@debora} (2023) presents a new taxonomy for analysing LGBT and homotransphobia discourse on Twitter, across languages."
 ---
