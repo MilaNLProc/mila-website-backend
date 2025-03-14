@@ -67,4 +67,5 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "'Dense Node Representation for Geolocation' by Fornaciari & {@dirk} reveals efficient geolocation methods using node2vec & doc2vec models. Greater network size, less parameters. /publication/2019_m2v/2019_m2v"
 ---
