@@ -67,4 +67,5 @@ projects: ["integrator"]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "Fornaciari et al.'s 2022 'Hard and Soft Evaluation of NLP models with BOOtSTrap SAmpling - BooStSa' is a useful Python tool for benchmarking NLP predictions with bootstrapped sampling. #NLProc"
 ---
