@@ -66,4 +66,5 @@ projects: [integrator]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "'Five Sources of Bias in Natural Language Processing' by {@dirk}, Shrimai Prabhumoye. It outlines 5 bias sources in NLP: data, annotation, input, models, design. Info = fairness! #AIEthics"
 ---
