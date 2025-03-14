@@ -65,4 +65,5 @@ image:
   focal_point: ""
   preview_only: false
 
+socialmedia_post: "Bianchi et al.'s 'Cross-lingual Contextualized Topic Models with Zero-shot Learning' introduces a language-neutral model that predicts topics in unseen languages. Improves coherence and stability."
 ---
