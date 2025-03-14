@@ -67,4 +67,5 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "'MilaNLP @ WASSA: Does BERT Feel Sad When You Cry?' by Fornaciari et al. (2021) indicates that emotion and empathy are not related tasks for prediction."
 ---
