@@ -66,4 +66,5 @@ projects: [integrator]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "New study, 'Entropy-based Attention Regularization Frees Unintended Bias Mitigation from Lists' by Attanasio et al. redefines bias reduction in #AI, sans prior term knowledge. #2022Publication"
 ---
