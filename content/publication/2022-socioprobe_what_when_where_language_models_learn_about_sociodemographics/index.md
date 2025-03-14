@@ -67,4 +67,5 @@ projects: ["integrator"]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "'SocioProbe: What, When, and Where Language Models Learn about Sociodemographics' - Lauscher et al. delve into language models' grasp of sociodemographics. Their findings? Models learn, but don't apply it."
 ---
