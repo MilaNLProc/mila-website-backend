@@ -67,4 +67,5 @@ projects: [integrator]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "Hessenthaler et al.'s 2022 work delves into AI's link with fairness & energy reduction in English NLP models, challenging bias reduction theories. #AI #NLP #sustainability"
 ---
