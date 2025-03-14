@@ -69,4 +69,5 @@ projects: [integrator]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "'@debora et al.'s 2022 paper 'Measuring Harmful Sentence Completion in Language Models for LGBTQIA+' finds 13% bias in AI language models towards LGBTQIA+ community.'"
 ---
