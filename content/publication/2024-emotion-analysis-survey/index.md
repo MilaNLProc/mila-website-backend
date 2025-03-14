@@ -66,4 +66,5 @@ projects: [integrator]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: "Variation in emotion annotation based on demographics."
+socialmedia_post: "'Emotion Analysis in NLP: Trends, Gaps & Future' by Plaza-del-Arco et al. (2024) analyses key NLP papers, spotting major gaps in emotion analysis including terminology standardization and demographic aspects. #NLP #Research"
 ---
