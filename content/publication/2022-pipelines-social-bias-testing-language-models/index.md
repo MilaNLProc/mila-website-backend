@@ -70,4 +70,5 @@ projects: [integrator]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "#TBT #NLPproc 'Pipelines for Social Bias Testing of Large Language Models' by {@debora}, Federico Bianchi, {@dirk} (2022). Proposes social bias tests akin to software testing in AI dev pipelines."
 ---
