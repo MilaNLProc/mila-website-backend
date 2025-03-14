@@ -66,4 +66,5 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "'F. Bianchi & {@dirk}'s 2021 paper points out 5 barriers in NLP research and suggests solutions.' Details on risks, biases & costly trials here:"
 ---
