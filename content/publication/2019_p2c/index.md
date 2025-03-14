@@ -67,4 +67,5 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "Fornaciari, {@dirk}'s 'Identifying Linguistic Areas for Geolocation' explores using social media writing for geolocation via Point-to-City (P2C). More accuracy! /publication/2019_p2c/2019_p2c"
 ---
