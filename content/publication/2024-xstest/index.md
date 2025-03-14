@@ -67,5 +67,5 @@ projects: [integrator, indomita]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
-socialmedia_post: "'XSTest: A Test Suite for Identifying Exaggerated Safety Behaviours in Large Language Modelsâ by {@paul} et al. introduces dataset for false refusal assessment in big models. #AI #SafetyTesting"
+socialmedia_post: "'XSTest: A Test Suite for Identifying Exaggerated Safety Behaviours in Large Language Modelsâ by {@paul} et al. introduces dataset for false refusal assessment in big models. #AI #SafetyTesting"
 ---
