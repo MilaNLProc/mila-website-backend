@@ -66,4 +66,5 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "Uma, A. N. et al. examine AI model training in 'Learning from Disagreement: A Survey'. Disagreement-handling methods' performance is shaped by evaluation methods & dataset traits."
 ---
