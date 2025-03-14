@@ -67,4 +67,5 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "'Language Invariant Properties in NLP' by Bianchi, {@debora}, {@dirk} (2022) explores text transformation constants, studying translation & paraphrasing effects on sentiment & traits. #NLP #linguistics"
 ---
