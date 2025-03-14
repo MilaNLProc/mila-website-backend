@@ -66,4 +66,5 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "'BERTective: Language Models and Contextual Information for Deception Detection' by Fornaciari, T. et al. (2021) explores AI's ability to detect deceit through context."
 ---
