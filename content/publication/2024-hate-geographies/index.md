@@ -66,4 +66,5 @@ projects: [indomita]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "'Tonneau et al.'s (2024) 'From Languages to Geographies'' reveals geo-cultural bias in hate speech data, underlining the need for improved representation. #Research #BiasInData"
 ---
