@@ -67,4 +67,5 @@ projects: [integrator]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "'Impoverished Language Technology: The Lack of (Social) Class in NLP' by Curry, Talat, {@dirk} (2024). New tools target harmful content! #OnlineSafety"
 ---
