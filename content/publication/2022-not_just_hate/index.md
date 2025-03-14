@@ -67,4 +67,5 @@ projects: [twitterhealth]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "'It's Not Just Hate: A Multi-Dimensional Perspective on Detecting Harmful Speech Online' by Bianchi et al. advances #OnlineHate prediction using a 40k+ tweet dataset."
 ---
