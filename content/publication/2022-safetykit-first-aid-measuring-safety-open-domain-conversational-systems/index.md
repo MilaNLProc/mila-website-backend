@@ -66,4 +66,5 @@ projects: [integrator]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "'SAFETYKIT: Measuring Safety in Open-domain Conversational Systems' by Dinan et al. (2022) introduces taxonomy for AI safety, assesses tools' limits. #AIsafety"
 ---
