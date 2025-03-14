@@ -67,4 +67,5 @@ projects: [indomita, integrator]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "'My Answer is C' by Wang et al. (2024) underscores the scrutiny needed for full text responses in LLMs multi-choice evaluations."
 ---
