@@ -67,4 +67,5 @@ projects: [integrator, indomita]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "'SimpleSafetyTests: a Test Suite for Identifying Critical Safety Risks in Large Language Models' by Vidgen et al. (2023) provides a clear-cut test suite for critical safety risks in LLMs."
 ---
