@@ -67,4 +67,5 @@ projects: ["integrator"]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: ": Bergman et al.'s 'Guiding the Release of Safer E2E Conversational AI through Value Sensitive Design' explores AI launch with a value-sensitive lens."
 ---
