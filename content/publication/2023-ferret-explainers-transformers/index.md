@@ -67,4 +67,5 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "'Ferret: A Benchmarking Framework for Transformers' Explainers' by Attanasio et al. '23 simplifies XAI methods & aids AI decision interpretation. Link:"
 ---
