@@ -66,4 +66,5 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "'Geolocation with Attention-Based Multitask Learning Models' by Tommaso Fornaciari, {@dirk} (2019) reveals how online political talks can become one-sided. Breaking out of our bubbles! #SocialMedia"
 ---
