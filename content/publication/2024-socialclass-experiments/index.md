@@ -67,4 +67,5 @@ projects: [integrator]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "'Classist Tools: Social Class Correlates with Performance in NLP' by Curry et al. (2024) explores AI's hidden energy problem, and how machine learning impacts environmental sustainability. Tech can be green! #CleanTech"
 ---
