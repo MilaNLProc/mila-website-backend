@@ -70,4 +70,5 @@ projects: [integrator]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "'Importance of Modeling Social Factors of Language: Theory and Practice' by {@dirk}, Diyi Yang discusses NLP limitations, calling for focus on social factors, not just content."
 ---
