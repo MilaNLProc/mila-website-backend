@@ -66,4 +66,5 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "'Hey Siri. Ok Google. Alexa: A topic modeling of user reviews for smart speakers,' by Nguyen & {@dirk} decodes speaker reviews for user preferences using topic models. Domain knowledge needed for market analysis."
 ---
