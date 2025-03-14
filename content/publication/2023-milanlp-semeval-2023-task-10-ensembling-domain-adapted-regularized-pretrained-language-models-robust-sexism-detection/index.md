@@ -67,4 +67,5 @@ projects: [integrator,monica]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "MilaNLP's paper 'MilaNLP at SemEval-2023 Task 10: Ensembling Domain-Adapted and Regularized Pretrained Language Models for Robust Sexism Detection' innovates in sexism detection with an ensemble model."
 ---
