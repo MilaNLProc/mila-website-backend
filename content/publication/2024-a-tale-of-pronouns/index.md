@@ -66,4 +66,5 @@ projects: [monica, integrator]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "'Interpretability Informs Gender Bias Mitigation in Machine Translation'- Attanasio et al. (2023). Their new research tackles gender bias in machine translations using a simple, few-shot learning method for fairness."
 ---
