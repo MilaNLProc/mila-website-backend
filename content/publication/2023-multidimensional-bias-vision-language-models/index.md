@@ -67,4 +67,5 @@ projects: [monica]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "Paper: 'Multi-dimensional Study on Bias in Vision-Language Models' by G. Ruggeri, {@debora} 2023. Unveils biases in VL models affecting tasks."
 ---
