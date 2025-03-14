@@ -68,4 +68,5 @@ projects: [integrator]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "'Two Contrasting Data Annotation Paradigms for Subjective NLP Tasks' by {@paul} et al. (2022) explores descriptive and prescriptive data labeling paradigms. /publication/2022-two-contrasting-data-annotation-paradigms-subjective-nlp-tasks/2022-two-contrasting-data-annotation-paradigms-subjective-nlp-tasks"
 ---
