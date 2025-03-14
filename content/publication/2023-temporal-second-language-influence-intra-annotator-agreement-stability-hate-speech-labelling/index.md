@@ -67,4 +67,5 @@ projects: [integrator]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "'Temporal and Second Language Influence on Intra-Annotator Agreement and Stability in Hate Speech Labelling' Abercrombie, {@dirk}, & Prabhakaran (2023). NLP models: inclusive or not? #Inclusion"
 ---
