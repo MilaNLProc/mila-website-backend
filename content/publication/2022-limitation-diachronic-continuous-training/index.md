@@ -67,4 +67,5 @@ projects: [integrator,monica]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "' Attanasio et al. study asks 'Is It Worth the (Environmental) Cost?' analyzing continuous training for language models. Balances benefits, environmental impacts, for responsible use. #AI #Sustainability'"
 ---
