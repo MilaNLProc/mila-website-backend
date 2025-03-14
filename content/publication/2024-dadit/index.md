@@ -67,4 +67,5 @@ projects: [mentalism]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "'DADIT: A Dataset for Demographic Classification of Italian Twitter Users...' by Lupo et al. (2024). Not just text processing - Learning social dynamics & more. #AIInsights"
 ---
