@@ -67,4 +67,5 @@ projects: [indomita, integrator]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "'Compromesso! Italian Many-Shot Jailbreaks Undermine LLM Safety' by Pernisi, {@dirk}, {@paul} (2024). Paper highlights LLM vulnerability through Italian demos, more demos = more attack chances."
 ---
