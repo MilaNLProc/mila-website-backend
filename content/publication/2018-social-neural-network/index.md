@@ -67,4 +67,5 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "'Make Natural Language Processing About People Again' by {@dirk} (2018) uncovers how AI models portray different religions and emotions. #AIEthics"
 ---
