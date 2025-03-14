@@ -67,4 +67,5 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "'Measuring Harmful Representations in Scandinavian Language Models' uncovers gender bias, challenging Scandinavia's equity image. Spotlight on lasting bias in #AI. #MachineLearning"
 ---
