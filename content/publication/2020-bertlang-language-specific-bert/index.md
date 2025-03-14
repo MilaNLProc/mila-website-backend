@@ -67,4 +67,5 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "'[MASK]? Making Sense of Language-Specific BERT Models' by {@debora}, Bianchi & {@dirk} (2020), explores language-specific vs universal BERT models. /2020-bertlang-language-specific-bert"
 ---
