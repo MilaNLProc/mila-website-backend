@@ -69,4 +69,5 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "'Multilingual HateCheck: Functional Tests for Multilingual Hate Speech Detection Models' by {@paul} et al. (2022). A suite of tests for 10 languages."
 ---
