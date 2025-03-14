@@ -67,4 +67,5 @@ projects: [integrator]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "'Ecological Fallacy in Annotation' by Orlikowski et al. (2023) posits that sociodemographics in annotator models have minimal impact on performance."
 ---
