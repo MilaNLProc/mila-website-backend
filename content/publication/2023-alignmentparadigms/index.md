@@ -64,4 +64,5 @@ projects: [integrator, indomita]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "'The Empty Signifier Problem: Towards Clearer Paradigms for Operationalising 'Alignment' in Large Language Models' by Kirk et al. (2023) presents a novel framework for unpacking 'alignment' in LLMs, promoting definitional clarity."
 ---
