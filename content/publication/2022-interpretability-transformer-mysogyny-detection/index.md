@@ -71,4 +71,5 @@ projects: [integrator]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "'Benchmarking Post-Hoc Interpretability Approaches for Transformer-based Misogyny Detection' - Attanasio et al. Explores reliability of interpretability in hate speech detection."
 ---
