@@ -67,4 +67,7 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+
+socialmedia_post: "'Comparing Bayesian Models of Annotation' by Paun et al. dives into corpus annotation, evaluating six models' predictiveness and accuracy. Essential for navigating annotators and item difficulties."
+
 ---
