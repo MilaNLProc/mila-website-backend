@@ -67,5 +67,5 @@ projects: [integrator]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
-socialmedia_post: "'Explore 'Wisdom of Instruction-Tuned LLM Crowds' (2023)â reveals LLMs labels outperform single models in tasks & languages. But few-shot can't top zero-shot. Supervised models rule."
+socialmedia_post: "'Explore 'Wisdom of Instruction-Tuned LLM Crowds' (2023) reveals LLMs labels outperform single models in tasks & languages. But few-shot can't top zero-shot. Supervised models rule."
 ---
