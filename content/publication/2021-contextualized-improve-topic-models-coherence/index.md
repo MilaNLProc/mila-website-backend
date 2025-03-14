@@ -70,4 +70,5 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "Bianchi, Terragni & {@dirk} present a smarter technique for topic modeling. Their method uses contextual embeddings for clear, meaningful word clusters, transforming how we interpret large text collections."
 ---
