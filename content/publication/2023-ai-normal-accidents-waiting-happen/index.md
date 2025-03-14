@@ -66,4 +66,5 @@ projects: [integrator]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 #   slides: ""
+socialmedia_post: "'Viewpoint: Artificial Intelligence Accidents Waiting to Happen?' by Bianchi, Curry, {@dirk} (2023) demonstrates how complex AI systems risks unpredictability in tech accidents."
 ---
