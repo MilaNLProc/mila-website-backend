@@ -67,4 +67,5 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "Check out 'Helpful or Hierarchical?' by Rashid, F. et al advocating better non-binary representation in tech. #Inclusion"
 ---
