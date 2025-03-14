@@ -75,4 +75,5 @@ projects: [mimac]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "'We will Reduce Taxes' - Identifying Election Pledges with Language Models' by Fornaciari et al. makes election promise tracking effortless with neural models. #PolSci /publication/2021-aclfindings-mimac/2021-aclfindings-mimac"
 ---
