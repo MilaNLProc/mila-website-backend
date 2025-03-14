@@ -66,4 +66,5 @@ projects: [integrator]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "'Angry Men, Sad Women: Large Language Models Reflect Gendered Stereotypes in Emotion Attribution' by Plaza-del-Arco et al. (2024) studies how language models interpret emotions differently across cultures. #EmotionAI"
 ---
