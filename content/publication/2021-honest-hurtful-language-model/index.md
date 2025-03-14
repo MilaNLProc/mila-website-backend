@@ -73,4 +73,5 @@ projects: [integrator]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "'Measuring Hurtful Sentence Completion in Language Models' by {@debora} & team introduces HONEST, a new metric for harmful stereotypes. Language models use hurtful words 4.3% of the time."
 ---
