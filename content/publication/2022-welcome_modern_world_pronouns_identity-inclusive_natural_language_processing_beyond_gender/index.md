@@ -67,4 +67,5 @@ projects: ["integrator"]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "'Welcome to the Modern World of Pronouns: Identity-Inclusive Natural Language Processing beyond Gender' by Anne Lauscher, Archie Crowley, {@dirk} (2022) discusses non-binary representation in tech and NLP's pronouns issue. #Inclusion/publication/2022-welcome_modern_world_pronouns_identity-inclusive_natural_language_processing_beyond_gender"
 ---
