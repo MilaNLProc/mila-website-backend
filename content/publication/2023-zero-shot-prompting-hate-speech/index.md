@@ -67,4 +67,5 @@ projects: [integrator,monica]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "'Respectful or Toxic?' by Plaza-del-Arco, @debora & {@dirk} (2023) explores zero-shot learning for multilingual hate speech detection. Highlights prompt & model choice for accuracy. #AI #LanguageModels #HateSpeechDetection"
 ---
