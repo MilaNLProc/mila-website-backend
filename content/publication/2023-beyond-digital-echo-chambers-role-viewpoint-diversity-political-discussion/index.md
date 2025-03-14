@@ -66,4 +66,5 @@ projects: [twitterhealth]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 #   slides: ""
+socialmedia_post: "Hada et al.'s paper 'Beyond Digital 'Echo Chambers' explores online political discourse, introducing new metrics to gauge echo chambers' effects on views."
 ---
