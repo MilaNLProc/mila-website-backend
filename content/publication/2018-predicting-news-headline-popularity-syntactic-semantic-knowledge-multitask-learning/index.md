@@ -67,4 +67,5 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "'Predicting News Headline Popularity' by Lamprinidis, Hardt, {@dirk} (2018) shows neural networks perform similar to Logistic Regression in prediction."
 ---
