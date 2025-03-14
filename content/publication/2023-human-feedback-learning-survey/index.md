@@ -64,4 +64,5 @@ projects: [integrator, indomita]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+socialmedia_post: "'Examining 'Feedback Learning in Large Language Models' by Kirk et al. (2023).' The study reveals effective learning boost via human feedback integration in language models."
 ---
