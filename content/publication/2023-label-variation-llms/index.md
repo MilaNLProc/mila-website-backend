@@ -53,7 +53,8 @@ image:
   preview_only: false
 
 # Associated Projects (optional).
-projects: [integrator]
+projects:
+- integrator
 
 # Slides (optional).
 slides: ""
