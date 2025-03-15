@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: media/2019_adansonia.pdf
+url_pdf: https://docs.iza.org/dp12848.pdf
 url_code:
 url_dataset:
 url_poster:

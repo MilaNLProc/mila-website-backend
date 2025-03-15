@@ -37,7 +37,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://arxiv.org/pdf/2003.02912
 url_code: "https://github.com/MilaNLProc/bertlang"
 url_dataset:
 url_poster:

@@ -37,7 +37,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: media/2019_emnlp_p2c.pdf
+url_pdf: https://aclanthology.org/D19-5530
 url_code:
 url_dataset:
 url_poster:
