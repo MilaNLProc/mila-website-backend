@@ -67,5 +67,5 @@ projects: [integrator]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
-socialmedia_post: "'{@donya}, Amanda Cercas Curry, {@dirk}'s 'Know Your Audience' (2023) explores LLM adaptability to demographics. Findings show limited adaptability restricts educational use. #AI #Education'"
+socialmedia_post: "{@donya}, Amanda Cercas Curry, {@dirk}'s 'Know Your Audience' (2023) explores LLM adaptability to demographics. Findings show limited adaptability restricts educational use. #AI #Education"
 ---
