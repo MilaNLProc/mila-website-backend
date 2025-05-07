@@ -45,9 +45,7 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-socialmedia_post: 'Beyond Prompt Brittleness: Evaluating the Reliability and Consistency
-  of Political Worldviews in LLMs" ({@tanise} et al., 2025) evaluate political worldviews
-  in LLMs, unveiling that they''re unstable many policy issues.'
+socialmedia_post: 'Beyond Prompt Brittleness: Evaluating the Reliability and Consistency of Political Worldviews in LLMs" (@taniseceron.bsky.social et al.,) evaluate the consistency of political worldviews in LLMs, unveiling fine-grained stances in policy issues.'
 image:
   caption: ''
   focal_point: Center

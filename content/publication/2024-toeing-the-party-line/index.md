@@ -46,7 +46,7 @@ url_slides: ''
 url_source: ''
 url_video: ''
 socialmedia_post: '''Understanding Political Discourse on Twitter through Election
-  Manifestos'' Maurer et al. (2024) present a method for predicting party positions
+  Manifestos'' Maurer et al. (2024) present a method for predicting party positioning
   from tweets'
 image:
   caption: ''
