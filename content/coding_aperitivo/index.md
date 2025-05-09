@@ -30,7 +30,31 @@ We are very happy to discuss ongoing or upcoming research.
 
 ## Past Guests
 
+### 2025
+
+- [Pranav A](https://pranav-a.github.io/): "Twists and Turns in Chinese Tokenization"
+- [Taylor Sorensen](https://tsor13.github.io/): "Pluralistic Alignment: A Roadmap, Recent Work, and Open Problems"
+- [Shangbin Feng](https://bunsenfeng.github.io/): "Model Swarms: Collaborative Search to Adapt LLM Experts via Swarm Intelligence"
+- [Oskar van der Wal](https://odvanderwal.nl/): "The Easter Island Statues of Language Models"
+- [Pierra Riccio](https://ellisalicante.org/people/piera-en/): "Representing the Human Body in the AI Era"
+- [Tommaso Caselli](https://scholar.google.com/citations?user=fxQvP_QAAAAJ&hl=it): "The words we choose, the world we make"
+- [Dennis Fucci](https://scholar.google.com/citations?user=qXsqxA8AAAAJ&hl=en): "Through the Lens of Explainability: Understanding Gender Bias in Speech Translation"
+- [Akhila Yerukola](https://akhila-yerukola.github.io/): "Need for Culturally Contextual Safety Guardrails: A Case Study in Non-Verbal Gestures"
+- [Julia Mendelsohn](https://juliamendelsohn.github.io/): "Detecting implicitly harmful language in political discourse"
+- [Luca Maria Aiello](https://www.lajello.com/): "Persuasive Agents and their Collective Biases"
+- [Federica Durante](https://scholar.google.it/citations?user=KNkvcUwAAAAJ&hl=en): "The Social Perception of Social Classes: The Role of Stereotype Content in Perceptions of ‘Rich’ and ‘Poor’"
+- [Pia Pachinger](https://www.pia.wien/): "Modeling Toxicity Through the User’s Lens"
+- [Luca Braghieri](https://sites.google.com/view/lucabraghieri/home): "Article-level slant and polarization in news consumption on social media"
+- [Joon Sung Park](https://www.joonsungpark.com/): "Generative Agent Simulations of Human Behavior"
+- [Manuel Tonneau](https://manueltonneau.com/): "HateDay: Insights from a Global Hate Speech Dataset Representative of a Day on Twitter"
+
+
+
 ### 2024
+
+<details>
+  <summary>Click HERE to expand.</summary>
+
 - [Emanuele La Malfa](https://scholar.google.com/citations?user=4_91m08AAAAJ&hl=en): "Code Simulation Challenges for Large Language Models"
 - [Enrico Liscio](https://enricoliscio.github.io/): "Context-Specific Value Inference via Hybrid Intelligence"
 - [Eve Fleisig](https://www.efleisig.com/): "When the Majority is Wrong: Modeling Annotator Disagreement for Language Tasks"
@@ -62,6 +86,7 @@ We are very happy to discuss ongoing or upcoming research.
 - [Andrew Bean](https://www.oii.ox.ac.uk/people/profiles/andrew-bean/): "LINGOLY: A Benchmark of Olympiad-Level Linguistic Reasoning Puzzles"
 - [Sofie Labat](https://lt3.ugent.be/people/sofie-labat/): "Emotion Research in Interactions: Bridging NLP and Social Psychology Through Role Playing"
 
+</details>
 
 ### 2023
 
