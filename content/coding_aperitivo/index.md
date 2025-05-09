@@ -15,17 +15,18 @@ header:
 ---
 
 > *"Have a negroni. Have two. Be open to a world where you may not understand or agree with the person next to you, but have a drink with them anyways."*
+>
 > *--Anthony Bourdain*
 
-The Coding Aperitivo is our take on a weekly seminar series. We end the working week and wind down with some relaxed academic chatter, a drink and some snacks. 
+The Coding Aperitivo is our take on a weekly seminar series. We end the working week the traditional Milanese way and wind down with a drink, some snacks – and some relaxed academic chatter.
 
 
-## Format 
+## Format
 We usually host external speakers on Fridays at 4pm Milan time.
 Talks are mostly virtual, and sometimes in person.
 We encourage our guests to try different formats with us such as guided discussions, hands-on activities, debates or just a nice academic chat.
-Got some research ideas you and you want a sounding board?
-We are very happy to discuss ongoing or upcoming research. 
+Got some research ideas and you want a sounding board?
+We are very happy to discuss ongoing or upcoming research.
 
 
 ## Past Guests
@@ -92,7 +93,7 @@ We are very happy to discuss ongoing or upcoming research.
 
 <details>
   <summary>Click HERE to expand.</summary>
-  
+
 - [Maurice Jakesch](https://mauricejakesch.com/): "Assessing the Effects and Risks of Large Language Models in AI-Mediated Communication"
 - [Marco del Tredici](https://sites.google.com/site/marcodeltredici/): "Current trends in NLP"
 - [Fatma Elsafoury](https://efatmae.github.io/): "Hate Speech and Toxicity"
@@ -185,5 +186,5 @@ You can now take this into several directions, by adding different mixers:
 - 3 parts gin get you the original *negroni*
 - 3 parts bourbon get you a *boulevardier*
 
-Pour the ingredients into a mixing glass with some ice and stir until the glass feels very cold. Strain into a glass with a large ice cube (the larger the better: it will melt more slowly) and a twist of orange or lemon peel (and rub the glass rim with it). 
+Pour the ingredients into a mixing glass with some ice and stir until the glass feels very cold. Strain into a glass with a large ice cube (the larger the better: it will melt more slowly) and a twist of orange or lemon peel (and rub the glass rim with it).
 Enjoy!
