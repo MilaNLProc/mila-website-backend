@@ -32,7 +32,7 @@ We are very happy to discuss ongoing or upcoming research.
 
 ### 2025
 
-- [Pranav A](https://pranav-a.github.io/): "Twists and Turns in Chinese Tokenization"
+- [Pranav Agrawal](https://pranav-a.github.io/): "Twists and Turns in Chinese Tokenization"
 - [Taylor Sorensen](https://tsor13.github.io/): "Pluralistic Alignment: A Roadmap, Recent Work, and Open Problems"
 - [Shangbin Feng](https://bunsenfeng.github.io/): "Model Swarms: Collaborative Search to Adapt LLM Experts via Swarm Intelligence"
 - [Oskar van der Wal](https://odvanderwal.nl/): "The Easter Island Statues of Language Models"
