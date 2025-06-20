@@ -51,7 +51,7 @@ social:
   link: https://github.com/joebaumann
 - icon: user
   icon_pack: fas
-  link: https://www.ifi.uzh.ch/en/scg/people/Baumann.html
+  link: http://joebaumann.org/
 
 
 # Link to a PDF of your resume/CV from the About widget.
@@ -66,4 +66,4 @@ user_groups:
 - Researchers
 ---
 
-I am a postdoctoral researcher at the MilaNLP Lab at Bocconi University. I completed my PhD in the [Social Computing Group](https://www.ifi.uzh.ch/en/scg.html) at the University of Zurich, supervised by [Prof. Dr. Anikó Hannák](https://www.ifi.uzh.ch/en/scg/people/hannak.html). I am broadly interested in the societal effects of AI. During my PhD, I worked extensively on algorithmic fairness and algorithmic collective action as ways to contest power imbalances. I am also interested in the promises and risks of using LLMs for social science methods. Visit my [website](https://www.ifi.uzh.ch/en/scg/people/Baumann.html) for more information.
+I am a postdoctoral researcher at the MilaNLP Lab at Bocconi University. I completed my PhD in the [Social Computing Group](https://www.ifi.uzh.ch/en/scg.html) at the University of Zurich, supervised by [Prof. Dr. Anikó Hannák](https://www.ifi.uzh.ch/en/scg/people/hannak.html). I am broadly interested in the societal effects of AI. During my PhD, I worked extensively on algorithmic fairness and algorithmic collective action as ways to contest power imbalances. I am also interested in the promises and risks of using LLMs for social science methods. Visit my [website](http://joebaumann.org/) for more information.
