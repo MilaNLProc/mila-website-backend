@@ -6,7 +6,7 @@ title: 'Narratives at Conflict: Computational Analysis of News Framing in Multil
 authors: ["Antonina Sinelnik","Dirk Hovy"]
 date: 2024/8
 doi: ''
-publishDate: '2025-08-11T13:47:24+01:00'
+publishDate: '2024-08-11T13:47:24+01:00'
 publication_types:
 - '1'
 publication: 'Proceedings of the 62nd Annual Meeting of the Association for Computational
@@ -51,5 +51,5 @@ image:
 projects:
 - ''
 slides: ''
-# 
+#
 ---
