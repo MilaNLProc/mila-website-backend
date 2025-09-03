@@ -23,7 +23,6 @@ It currently takes place every Thursday at 12:00 PM (Milan). For more info, feel
 
 | Date   | Presenter | Paper                                                                                      |
 | ------ | --------- | ------------------------------------------------------------------------------------------ |
-| Mar-13 | Pranav    | [How Good is your Wikipedia?](https://arxiv.org/abs/2411.05527)                            |
 | Sep-4	| Paul	| [The Levers of Political Persuasion with Conversational AI](https://arxiv.org/pdf/2507.13919)   |
 | Sep-11 | 	Debora	                                                                                              |
 | Sep-18 |	Elisa	                                                                                                 |
