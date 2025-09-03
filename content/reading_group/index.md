@@ -39,7 +39,7 @@ It currently takes place every Thursday at 12:00 PM (Milan). For more info, feel
 | Dec-4	 | Pranav	                                                                                                 |
 | Dec-11	| Carolin	                                                                                               |
 | Dec-18 |	Serena	                                                                                               |
-| Dec-25 |	holiday	CANCELLED FOR Holiday                                                                          |
+| Dec-25 |	CANCELLED FOR Holiday                                                                          |
 
 
 
