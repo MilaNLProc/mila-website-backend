@@ -23,13 +23,24 @@ It currently takes place every Thursday at 12:00 PM (Milan). For more info, feel
 
 | Date   | Presenter | Paper                                                                                      |
 | ------ | --------- | ------------------------------------------------------------------------------------------ |
-| Mar-13 | Pranav    | [How Good is your Wikipedia?](https://arxiv.org/abs/2411.05527)                                                                 |
-| Mar-20 | Serena    |                                                                                            |
-| Mar-27 | Carolin   |                                                                                            |
-| Apr-3  | Albert    |                                                                                            |
-| Apr-10 | Donya     | [A Comprehensive Framework to Operationalize Social Stereotypes for Responsible AI Evaluations](https://arxiv.org/pdf/2501.02074) |
-| Apr-17 | Arianna   |                                                                                            |
-| Apr-24 | Dirk      |                                                                                            |
+| Mar-13 | Pranav    | [How Good is your Wikipedia?](https://arxiv.org/abs/2411.05527)                            |
+| Sep-4	| Paul	| [The Levers of Political Persuasion with Conversational AI](https://arxiv.org/pdf/2507.13919)   |
+| Sep-11 | 	Debora	                                                                                              |
+| Sep-18 |	Elisa	                                                                                                 |
+| Sep-25 |	Donya	                                                                                                 |
+| Oct-2	 |	CANCELLED FOR ARR DEADLINE                                                                             |
+| Oct-9	 | Arianna	                                                                                               |
+| Oct-16 | Joe	                                                                                                   |
+| Oct-23 | Dirk	                                                                                                   |
+| Oct-30 | Emanuele	                                                                                               |
+| Nov-6	 | CANCELLED FOR EMNLP                                                                                     |
+| Nov-13 | Anne	                                                                                                   |
+| Nov-20	| Tanise	                                                                                               |
+| Nov-27	| Yujie                                                                                                  |	
+| Dec-4	 | Pranav	                                                                                                 |
+| Dec-11	| Carolin	                                                                                               |
+| Dec-18 |	Serena	                                                                                               |
+| Dec-25 |	holiday	CANCELLED FOR Holiday                                                                          |
 
 
 
