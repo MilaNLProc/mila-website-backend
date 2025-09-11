@@ -23,7 +23,6 @@ It currently takes place every Thursday at 12:00 PM (Milan). For more info, feel
 
 | Date   | Presenter | Paper                                                                                      |
 | ------ | --------- | ------------------------------------------------------------------------------------------ |
-| Sep-11 | 	Debora	                                                                                              |
 | Sep-18 |	Elisa	                                                                                                 |
 | Sep-25 |	Donya	                                                                                                 |
 | Oct-2	 |	CANCELLED FOR ARR DEADLINE                                                                             |
