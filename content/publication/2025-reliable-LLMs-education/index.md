@@ -25,7 +25,7 @@ abstract: "Large language models (LLMs) are increasingly being adopted in educat
 summary: ""
 
 
-tags: ["Education","LLMs", "Multilingual" "NLP"]
+tags: ["Education","LLMs", "Multilingual", "NLP"]
 categories: []
 featured: false
 
@@ -67,5 +67,5 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
-socialmedia_post: "{@donyarooein} tested popular LLMs on 4 education tasks: spotting misconceptions, targeted feedback, interactive tutoring, and grading translations in 8 languages (Mandarin, Hindi, Arabic, German, Farsi, Telugu, Ukrainian, Czech) + English. Lower resource languages having poorer task performance"
+socialmedia_post: "{@donyarooein} tested popular LLMs on 4 education tasks: spotting misconceptions, targeted feedback, interactive tutoring, and grading translations in 8 languages + English. Lower resource languages having poorer task performance"
 ---
