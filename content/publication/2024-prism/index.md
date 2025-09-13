@@ -66,5 +66,5 @@ projects: [indomita]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
-socialmedia_post: "Kirk et al.'s (2024) paper 'The PRISM Alignment Dataset: What Participatory, Representative and Individualised Human Feedback Reveals About the Subjective and Multicultural Alignment of Large Language Models' explores how varied feedback enhances LLM alignment."
+socialmedia_post: "Best Paper at NeurIPS D&B 2024: Hannah Kirk, {@paul} et al. introduce 'The PRISM Alignment Dataset'"
 ---

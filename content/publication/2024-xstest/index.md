@@ -21,8 +21,8 @@ publishDate: 2023-07-12T14:48:20+01:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "NAACL 2024"
-publication_short: "NAACL 2024"
+publication: "NAACL 2024 (Main)"
+publication_short: "NAACL 2024 (Main)"
 
 abstract: "Without proper safeguards, large language models will readily follow malicious instructions and generate toxic content. This risk motivates safety efforts such as red-teaming and large-scale feedback learning, which aim to make models both helpful and harmless. However, there is a tension between these two objectives, since harmlessness requires models to refuse to comply with unsafe prompts, and thus not be helpful. Recent anecdotal evidence suggests that some models may have struck a poor balance, so that even clearly safe prompts are refused if they use similar language to unsafe prompts or mention sensitive topics. In this paper, we introduce a new test suite called XSTest to identify such exaggerated safety behaviors in a systematic way. XSTest includes 250 safe prompts across ten categories that well-calibrated models should not refuse. Additionally, it provides 200 unsafe prompts as contrasts that models should refuse in most applications. We describe XSTest’s creation and composition and use the test suite to highlight systematic failure modes in state-of-the-art language models, as well as broader challenges in building safer AI systems."
 
@@ -60,5 +60,5 @@ projects: [integrator, indomita]
 
 # Slides (optional).
 slides: ""
-socialmedia_post: "'XSTest: A Test Suite for Identifying Exaggerated Safety Behaviours in Large Language Models by {@paul} et al. introduces dataset for false refusal assessment in big models. #AI #SafetyTesting"
+socialmedia_post: "XSTest by {@paul} et al. introduced the first dataset for measuring false refusal in LLMs."
 ---

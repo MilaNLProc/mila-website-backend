@@ -67,5 +67,5 @@ projects: [indomita]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
-socialmedia_post: "Outstanding Paper at ACL 2024! 'Towards More Meaningful Evaluations for Values and Opinions in Large Language Models' by {@paul} et al. Enhancing political bias evaluation."
+socialmedia_post: "Outstanding Paper at ACL 2024! {@paul} et al. evaluate LLM values and opinions in 'Political Compass or Spinning Arrow?'"
 ---

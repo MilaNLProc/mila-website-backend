@@ -25,7 +25,7 @@ abstract: "Creating globally inclusive AI systems demands datasets reflecting di
 summary: ""
 
 
-tags: ["Social Norm","Iranian", "Culture" "NLP","LLMs"]
+tags: ["Social Norm","Iranian", "Culture", "NLP","LLMs"]
 categories: []
 featured: false
 
