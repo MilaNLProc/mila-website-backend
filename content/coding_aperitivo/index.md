@@ -29,7 +29,7 @@ Got some research ideas and you want a sounding board?
 We are very happy to discuss ongoing or upcoming research.
 
 
-## Past Guests
+## Past Speakers
 
 ### 2025
 
@@ -48,8 +48,15 @@ We are very happy to discuss ongoing or upcoming research.
 - [Luca Braghieri](https://sites.google.com/view/lucabraghieri/home): "Article-level slant and polarization in news consumption on social media"
 - [Joon Sung Park](https://www.joonsungpark.com/): "Generative Agent Simulations of Human Behavior"
 - [Manuel Tonneau](https://manueltonneau.com/): "HateDay: Insights from a Global Hate Speech Dataset Representative of a Day on Twitter"
-
-
+- [Yong Zheng-Xin](https://yongzx.github.io/): "Crosslingual and Safety Generalization of Reasoning Finetuning"
+- [Diyi Liu](https://deeliu97.github.io/): "Perceived Legitimacy in Borderline Content Moderation: The Impact of Moderation Source, Procedural Contestability, and Outcome Alignment"
+- [Zhijing Jin](https://zhijing-jin.com/home/): "Testing Moral Reasoning in Large Language Models: Trolley Problem, Political Bias, and Beyond"
+- [Shehzaad Dhuliawala](https://shehzaadzd.github.io/): "Learning to Adapt and Align with Feedback"
+- [Federico Ruggeri](https://www.unibo.it/sitoweb/federico.ruggeri6): "The Importance of Integrating and Extracting Textual Knowledge in Hate Speech"
+- [Pietro Lesci](https://pietrolesci.com/): "The Hidden Cost of a Split: Tokenisation Bias in Language Models"
+- [Miriam Schirmer](https://miriamschirmer.github.io/): "Measuring and Reducing the Psychological Impact of Online Harm"
+- [Tiago Pimentel](https://tpimentelms.github.io/): "How Much Does Tokenisation Impact Language Models?"
+- [Suyash Fulay](https://suyashfulay.com/): "Truth, Political Bias, and AI Representation"
 
 ### 2024
 
