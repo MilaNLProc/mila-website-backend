@@ -23,7 +23,7 @@ It currently takes place every Thursday at 12:00 PM (Milan). For more info, feel
 
 | Date   | Presenter | Paper                                                                                      |
 | ------ | --------- | ------------------------------------------------------------------------------------------ |
-| Sep-18 |	Elisa	                                                                                                 |
+| Sep-18 |	Elisa	 | [The sociolinguistic foundations of language modeling](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2024.1472411/full)                                                                                                |
 | Sep-25 |	Donya	                                                                                                 |
 | Oct-2	 |	CANCELLED FOR ARR DEADLINE                                                                             |
 | Oct-9	 | Arianna	                                                                                               |
