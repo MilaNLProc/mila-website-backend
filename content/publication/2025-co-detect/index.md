@@ -25,7 +25,7 @@ abstract: "We introduce Co-DETECT (Collaborative Discovery of Edge cases in TExt
 summary: ""
 
 
-tags: ["Co-detect","LLMs", "edge cases" "text classification"]
+tags: ["Co-detect","LLMs", "edge cases", "text classification"]
 categories: []
 featured: false
 
