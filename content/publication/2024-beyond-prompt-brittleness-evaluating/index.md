@@ -1,43 +1,28 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: 'Beyond Prompt Brittleness: Evaluating the Reliability and Consistency of Political
-  Worldviews in LLMs'
+title: 'Leveraging Media Frames to Improve Normative Diversity in News Recommendations'
 authors:
+- Sourabh Dattawad
+- Agnese Daffara
 - Tanise Ceron
-- Neele Falk
-- Ana Barić
-- Dmitry Nikolaev
-- Sebastian Padó
-date: '2024'
+date: '2025'
 doi: ''
-publishDate: '2025-03-12'
+publishDate: '2025-09-22'
 publication_types:
-- '2'
-publication: Transactions of the Association for Computational Linguistics, Volume
-  12
-publication_short: TACL 
-abstract: 'Due to the widespread use of large language models (LLMs), we need to understand
-  whether they embed a specific “worldview” and what these views reflect. Recent studies
-  report that, prompted with political questionnaires, LLMs show left-liberal leanings
-  (Feng et al., 2023; Motoki et al., 2024). However, it is as yet unclear whether
-  these leanings are reliable (robust to prompt variations) and whether the leaning
-  is consistent across policies and political leaning. We propose a series of tests
-  which assess the reliability and consistency of LLMs’ stances on political statements
-  based on a dataset of voting-advice questionnaires collected from seven EU countries
-  and annotated for policy issues. We study LLMs ranging in size from 7B to 70B parameters
-  and find that their reliability increases with parameter count. Larger models show
-  overall stronger alignment with left-leaning parties but differ among policy programs:
-  They show a (left-wing) positive stance towards environment protection, social welfare
-  state, and liberal society but also (right-wing) law and order, with no consistent
-  preferences in the areas of foreign policy and migration.'
+- '1'
+publication: In Proceedings of the 13th International Workshop on News Recommendation and Analytics (INRA)
+publication_short: INRA 
+abstract: 'Click-based news recommender systems suggest users content that aligns with their existing history, limiting the diversity of articles they encounter. Recent advances in aspect-based diversification – adding features such as sentiments or news categories (e.g. world, politics) – have made progress toward diversifying recommendations in terms of perspectives. However, these approaches often overlook the role of news framing, which shapes how stories are told by emphasizing specific angles or interpretations. In this paper, we treat media frames as a controllable aspect within the recommendation pipeline. By selecting articles based on a diversity of frames, our approach emphasizes varied narrative angles and broadens the interpretive space recommended to users. In addition to introducing frame-based diversification method, our work is the first to assess the impact of a news recommender system that integrates frame diversity using normative diversity metrics: representation, calibration, and activation. Our experiments based on media frame diversification show an improvement in exposure to previously unclicked frames up to 50%. This is important because repeated exposure to the same frames can reinforce existing biases or narrow interpretations, whereas introducing novel frames broadens
+users’ understanding of issues and perspectives. The method also enhances diversification across categorical and sentiment levels, thereby demonstrating that framing acts as a strong control lever for enhancing normative diversity.'
 summary: ''
 tags:
-- political bias
-- evaluation
+- media frames
+- diversity
+- news recommenders
 categories: []
 featured: false
-url_pdf: https://aclanthology.org/2024.tacl-1.76.pdf
+url_pdf: https://ceur-ws.org/Vol-4056/full3.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -45,7 +30,7 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-socialmedia_post: 'Beyond Prompt Brittleness: Evaluating the Reliability and Consistency of Political Worldviews in LLMs" (@taniseceron.bsky.social et al.,) evaluate the consistency of political worldviews in LLMs, unveiling fine-grained stances in policy issues.'
+socialmedia_post: '"Leveraging Media Frames to Improve Normative Diversity in News Recommendations" by S. Dattawad, A. Daffara and @tanise (2025) demonstrates how media frames enhance viewpoint diversity in news recommenders.'
 image:
   caption: ''
   focal_point: Center
