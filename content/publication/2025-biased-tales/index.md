@@ -25,7 +25,7 @@ abstract: "Stories play a pivotal role in human communication, shaping beliefs a
 summary: ""
 
 
-tags: ["Cultural Bias","LLMs", "Story generation" "Children"]
+tags: ["Cultural Bias","LLMs", "Story generation", "Children"]
 categories: []
 featured: false
 
