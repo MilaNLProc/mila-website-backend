@@ -1,43 +1,27 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: 'Toeing the Party Line: Election Manifestos as a Key to Understand Political
-  Discourse on Twitter'
+title: 'Leveraging Media Frames to Improve Normative Diversity in News Recommendations'
 authors:
-- Maximilian Maurer
+- Sourabh Dattawad
+- Agnese Daffara
 - Tanise Ceron
-- Sebastian Padó
-- Gabriella Lapesa
-date: 2024/11
+date: 2025/09
 doi: ''
-publishDate: '2025-03-12'
+publishDate: '2025-14-09'
 publication_types:
 - '1'
-publication: 'Findings of the Association for Computational Linguistics: EMNLP 2024'
-publication_short: 'Findings of EMNLP 2024'
-abstract: 'Political discourse on Twitter is a moving target: politicians continuously
-  make statements about their positions. It is therefore crucial to track their discourse
-  on social media to understand their ideological positions and goals. However, Twitter
-  data is also challenging to work with since it is ambiguous and often dependent
-  on social context, and consequently, recent work on political positioning has tended
-  to focus strongly on manifestos (parties’ electoral programs) rather than social
-  media.In this paper, we extend recently proposed methods to predict pairwise positional
-  similarities between parties from the manifesto case to the Twitter case, using
-  hashtags as a signal to fine-tune text representations, without the need for manual
-  annotation. We verify the efficacy of fine-tuning and conduct a series of experiments
-  that assess the robustness of our method for low-resource scenarios. We find that
-  our method yields stable positionings reflective of manifesto positionings, both
-  in scenarios with all tweets of candidates across years available and when only
-  smaller subsets from shorter time periods are available. This indicates that it
-  is possible to reliably analyze the relative positioning of actors without the need
-  for manual annotation, even in the noisier context of social media.'
+publication: 'Proceedings of the 13th International Workshop on News Recommendation and Analytics (INRA)'
+publication_short: 'INRA Workshop'
+abstract: 'Click-based news recommender systems suggest users content that aligns with their existing history, limiting the diversity of articles they encounter. Recent advances in aspect-based diversification -- adding features such as sentiments or news categories (e.g. world, politics) -- have made progress toward diversifying recommendations in terms of perspectives. However, these approaches often overlook the role of news framing, which shapes how stories are told by emphasizing specific angles or interpretations. In this paper, we treat media frames as a controllable aspect within the recommendation pipeline. By selecting articles based on a diversity of frames, our approach emphasizes varied narrative angles and broadens the interpretive space recommended to users. In addition to introducing frame-based diversification method, our work is the first to assess the impact of a news recommender system that integrates frame diversity using normative diversity metrics: representation, calibration, and activation. Our experiments based on media frame diversification show an improvement in exposure to previously unclicked frames up to 50%. This is important because repeated exposure to the same frames can reinforce existing biases or narrow interpretations, whereas introducing novel frames broadens users' understanding of issues and perspectives. The method also enhances diversification across categorical and sentiment levels, thereby demonstrating that framing acts as a strong control lever for enhancing normative diversity.'
 summary: ''
 tags:
-- political text
-- party positions
+- news recommenders
+- diversification
+- media frames
 categories: []
 featured: false
-url_pdf: https://aclanthology.org/2024.findings-emnlp.354.pdf
+url_pdf: https://ceur-ws.org/Vol-4056/full3.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -45,9 +29,7 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-socialmedia_post: '''Understanding Political Discourse on Twitter through Election
-  Manifestos'' Maurer et al. (2024) present a method for predicting party positioning
-  from tweets'
+socialmedia_post: '''Leveraging Media Frames to Improve Normative Diversity in News Recommendations'' Sourabh et al. (2025) shows how media frames injected in news recommenders can increase normative diversity.'
 image:
   caption: ''
   focal_point: Center
