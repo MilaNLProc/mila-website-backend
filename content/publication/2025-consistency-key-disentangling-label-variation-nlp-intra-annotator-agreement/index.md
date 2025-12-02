@@ -1,15 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: 'Consistency is Key: Disentangling Label Variation in Natural Language Processing
-  with Intra-Annotator Agreement'
-authors: '["Gavin Abercrombie","Tanvi Dinkar","Amanda Cercas Curry","Verena Rieser","Dirk
-  Hovy"]'
-date: 2025/11
+title: "Consistency is Key: Disentangling Label Variation in Natural Language Processing with Intra-Annotator Agreement"
+authors: ["Gavin Abercrombie", "Tanvi Dinkar", "Amanda Cercas Curry", "Verena Rieser", "Dirk Hovy"]
+date: 2025-11-09
 doi: ''
 publishDate: '2025-11-01T00:00:00+01:00'
-publication_types:
-- '1'
+publication_types: ["1"]
 publication: Proceedings of the The 4th Workshop on Perspectivist Approaches to NLP
 publication_short: Proceedings of the The 4th Workshop on Perspectivist Approaches
   to NLP
@@ -38,14 +35,8 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-socialmedia_post: '
-
-  Testing for inter-annotator agreement? Good. However, also check consistency over
-  time: we find that annotators provide inconsistent responses around 25% of the time.
-
-  https://aclanthology.org/2025.nlperspectives-1.6.pdf
-
-  '
+socialmedia_post: "Testing for inter-annotator agreement? Good. However, also check consistency over time: we find that annotators provide inconsistent responses around 25% of the time.\n
+  https://aclanthology.org/2025.nlperspectives-1.6.pdf"
 image:
   caption: ''
   focal_point: Center
@@ -53,5 +44,5 @@ image:
 projects:
 - integrator
 slides: ''
-# 
+#
 ---
