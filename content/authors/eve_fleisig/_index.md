@@ -58,7 +58,7 @@ social:
   link: https://github.com/efleisig
 - icon: user
   icon_pack: fas
-  link: efleisig.com
+  link: https://efleisig.com
 
 
 # Link to a PDF of your resume/CV from the About widget.
