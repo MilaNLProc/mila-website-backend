@@ -22,19 +22,10 @@ It currently takes place every Thursday at 12:00 PM (Milan). For more info, feel
 
 
 | Date   | Presenter | Paper                                                                                      |
-| ------ | --------- | ------------------------------------------------------------------------------------------ |
-| Sep-18 |	Elisa	 | [The sociolinguistic foundations of language modeling](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2024.1472411/full)                                                                                                |
-| Sep-25 |	Donya	                                                                                                 |
-| Oct-2	 |	CANCELLED FOR ARR DEADLINE                                                                             |
-| Oct-9	 | Arianna	                                                                                               |
-| Oct-16 | Joe	                                                                                                   |
-| Oct-23 | Dirk	                                                                                                   |
-| Oct-30 | Emanuele	                                                                                               |
-| Nov-6	 | CANCELLED FOR EMNLP                                                                                     |
-| Nov-13 | Anne	                                                                                                   |
-| Nov-20	| Tanise	                                                                                               |
-| Nov-27	| Yujie                                                                                                  |	
-| Dec-4	 | Pranav	                                                                                                 |
+| ------ | --------- | ------------------------------------------------------------------------------------------ |                      
+| Nov-20	| Joe	     | [Spectrum Tuning: Post-Training for Distributional Coverage and In-Context Steerability](https://arxiv.org/pdf/2510.06084)                                                                                          |
+| Nov-27	| Yujie    | [Layer Swapping for Zero-Shot Cross-Lingual Transfer in Large Language Models](https://openreview.net/forum?id=vQhn4wrQ6j)                                                                                              |	
+| Dec-4	 | Anne	                                                                                                 |
 | Dec-11	| Carolin	                                                                                               |
 | Dec-18 |	Serena	                                                                                               |
 | Dec-25 |	CANCELLED FOR Holiday                                                                          |
