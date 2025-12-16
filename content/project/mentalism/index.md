@@ -27,6 +27,8 @@ tags:
 - NLP
 ---
 
+> **This research project has officially concluded and is no longer active.**
+
 Over the last decade, discontent in democracy, mistrust in institutions, and the rise of populist parties have strained European societies. Underlying these tensions are often increasing inequalities in Western countries, which fuel the discontent of individuals. The Covid pandemic further exacerbated these problems, as anti-Covid measures taken by governments differently impacted societal groups.
 
 The MENTALISM project, funded by Fondazione Cariplo under grant agreement 2022-1480, combines modern social media analysis with traditional survey data to track inequality across Italy through the lens of the pandemic.

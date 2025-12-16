@@ -15,6 +15,9 @@ tags:
 - nlp
 ---
 
+
+> **This research project has officially concluded and is no longer active.**
+
 PI: [Debora Nozza](https://milanlproc.github.io/authors/debora_nozza/)
 
 co-PI: [Dirk Hovy](https://milanlproc.github.io/authors/1_dirk_hovy/) and [Nicoletta Balbo](https://didattica.unibocconi.eu/docenti/cv.php?rif=92152)

@@ -19,6 +19,7 @@ tags:
 - nlp
 ---
 
+> **This research project has officially concluded and is no longer active.**
 
 Echo chambers and online abuse are two significant problems affecting the health of conversations on social media. This interdisciplinary, multi-institutional project (led by George Washington University) helps Twitter tackle these issues by developing metrics and algorithms to measure various uncivil behaviors.
 Given the concerns about growing polarization and the spread of misinformation, our first two metrics, mutual recognition and diversity of perspectives, will help Twitter diagnose issues that arise when users isolate themselves from those who hold differing opinions. Mutual recognition measures whether and to what extent people on opposing sides of an issue acknowledge and engage with rival claims. When recognition occurs, a public sphere is established. When there is no recognition, echo chambers result. Diversity of perspectives measures the range of claims made on the platform, how likely users are to encounter (as opposed to engaging with) divergent and unfamiliar claims, and how polarized the debate is.
