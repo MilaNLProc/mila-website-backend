@@ -68,7 +68,9 @@ Applications must be submitted through the Bocconi University online platform:
 
 https://jobmarket.unibocconi.eu/?id=889
 
-Deadline: January 31st, 2026 – 23:59 (Italian time)
+<div style="margin:1.5rem 0; padding:0.75rem 1rem; border-radius:8px; background:#fff4ec; font-weight:600;">
+  ⏰ Deadline – January 31st, 2026, 23:59 (Italian time)
+</div>
 
 Required documents include a CV, publication list (or thesis link), up to ten publications, a cover letter, a research statement indicating which project(s) the candidate is applying for, and up to two academic referees.
 
