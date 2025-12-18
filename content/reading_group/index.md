@@ -23,12 +23,7 @@ It currently takes place every Thursday at 12:00 PM (Milan). For more info, feel
 
 | Date   | Presenter | Paper                                                                                      |
 | ------ | --------- | ------------------------------------------------------------------------------------------ |                      
-| Nov-20	| Joe	     | [Spectrum Tuning: Post-Training for Distributional Coverage and In-Context Steerability](https://arxiv.org/pdf/2510.06084)                                                                                          |
-| Nov-27	| Yujie    | [Layer Swapping for Zero-Shot Cross-Lingual Transfer in Large Language Models](https://openreview.net/forum?id=vQhn4wrQ6j)                                                                                              |	
-| Dec-4	 | Anne	                                                                                                 |
-| Dec-11	| Carolin	                                                                                               |
-| Dec-18 |	Serena	                                                                                               |
-| Dec-25 |	CANCELLED FOR Holiday                                                                          |
+| Dec-18 |	Serena	    | [Adversarial Poetry as a Universal Single-Turn Jailbreak Mechanism in Large Language Models](https://arxiv.org/pdf/2511.15304)   |                                                 | Dec-25 |	CANCELLED FOR Holiday                                                                          |
 
 
 
