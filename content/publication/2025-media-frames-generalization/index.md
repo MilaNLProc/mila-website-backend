@@ -7,14 +7,14 @@ authors:
   - Sourabh Dattawad
   - Sebastian Padó
   - Tanise Ceron
-date: 2025-12-02
+date: 2025-11-11
 doi: ''
-publishDate: '2025-12-02'
+publishDate: '2025-11-11'
 publication_types:
   - '1'
 publication: 'Proceedings of the 14th Joint Conference on Lexical and Computational Semantics (*SEM 2025)'
 publication_short: '*SEM 2025'
-abstract: 'Political discourse on Twitter is a moving target: politicians continuously make statements about their positions. It is therefore crucial to track their discourse on social media to understand their ideological positions and goals. However, Twitter data is also challenging to work with since it is ambiguous and often dependent on social context, and consequently, recent work on political positioning has tended to focus strongly on manifestos (parties’ electoral programs) rather than social media. In this paper, we extend recently proposed methods to predict pairwise positional similarities between parties from the manifesto case to the Twitter case, using hashtags as a signal to fine-tune text representations, without the need for manual annotation. We verify the efficacy of fine-tuning and conduct a series of experiments that assess the robustness of our method for low-resource scenarios. We find that our method yields stable positionings reflective of manifesto positionings, both in scenarios with all tweets of candidates across years available and when only smaller subsets from shorter time periods are available. This indicates that it is possible to reliably analyze the relative positioning of actors without the need for manual annotation, even in the noisier context of social media.'
+abstract: "Frames capture aspects of an issue that are emphasized in a debate by interlocutors and can help us understand how political language conveys different perspectives and ultimately shapes people{'}s opinions. The Media Frame Corpus (MFC) is the most commonly used framework with categories and detailed guidelines for operationalizing frames. It is, however, focused on a few salient U.S. news issues, making it unclear how well these frames can capture news issues in other cultural contexts. To explore this, we introduce FrameNews-PT, a dataset of Brazilian Portuguese news articles covering political and economic news and annotate it within the MFC framework.Through several annotation rounds, we evaluate the extent to which MFC frames generalize to the Brazilian debate issues. We further evaluate how fine-tuned and zero-shot models perform on out-of-domain data.Results show that the 15 MFC frames remain broadly applicable with minor revisions of the guidelines. However, some MFC frames are rarely used, and novel news issues are analyzed using general `fallback' frames. We conclude that cross-cultural frame use requires careful consideration."
 summary: ''
 tags:
   - media frames
