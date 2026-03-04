@@ -7,9 +7,9 @@ authors:
   - Sourabh Dattawad
   - Sebastian Padó
   - Tanise Ceron
-date: 2024-11-01
+date: 2025-12-02
 doi: ''
-publishDate: '2025-03-12'
+publishDate: '2025-12-02'
 publication_types:
   - '1'
 publication: 'Proceedings of the 14th Joint Conference on Lexical and Computational Semantics (*SEM 2025)'
