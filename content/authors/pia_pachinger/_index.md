@@ -24,10 +24,8 @@ education:
     year: 2027
   - course: MSc in Data Science
     institution: TU Wien 
-    year: 2022
   - course: BSc in Mathematics
     institution: University of Vienna
-    year: 2018
 email: ""
     
 interests:
