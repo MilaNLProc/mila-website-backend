@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Visiting PhD student
+role: Visiting PhD Student
 
 # Organizations/Affiliations
 organizations:
