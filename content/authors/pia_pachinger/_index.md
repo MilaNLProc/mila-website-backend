@@ -30,7 +30,7 @@ email: ""
     
 interests:
 - Safety Alignment
-- Offensive Text Detection
+- Offensive Language Detection
 - Human Label Variation
 - Personalization
 - Under-Resourced Settings in NLP
@@ -75,7 +75,7 @@ user_groups:
 - Researchers
 ---
 
-Pia is a fourth-year PhD student at TU Wien, advised by Julia Neidhardt and Allan Hanbury. She is interested in human label variation, personalization, and under-resourced settings in NLP, particularly in the context of offensive text detection and safety alignment. 
+Pia is a fourth-year PhD student at TU Wien, advised by Julia Neidhardt and Allan Hanbury. She is interested in human label variation, personalization, and under-resourced settings in NLP, particularly in the context of offensive language detection and safety alignment. 
 
 Prior to her PhD, she worked on expert recommender systems at the Knowledge Graph Lab at TU Wien and on anomaly detection in computer networks using neural networks at the Austrian Institute of Technology.
 
