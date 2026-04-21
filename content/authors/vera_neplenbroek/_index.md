@@ -24,8 +24,10 @@ education:
     year: 2027
   - course: MSc in Artificial Intelligence
     institution: University of Amsterdam
+    year: 2023
   - course: BSc in Liberal Arts & Sciences
     institution: Amsterdam University College
+    year: 2021
 email: ""
 
 interests:
