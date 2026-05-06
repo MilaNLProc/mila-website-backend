@@ -50,6 +50,9 @@ social:
 - icon: bluesky
   icon_pack: fab
   link: https://bsky.app/profile/marlutz.bsky.social
+- icon: twitter
+  icon_pack: fab
+  link: https://x.com/mar_lutz
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=-XwZNzgAAAAJ&hl=de
