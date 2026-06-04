@@ -51,6 +51,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/esradonmez
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/esradonmez/
 - icon: user
   icon_pack: fas
   link: https://esradonmez.github.io
