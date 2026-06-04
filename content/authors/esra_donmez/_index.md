@@ -28,7 +28,7 @@ interests:
 - Sociotechnical Alignment
 - Pluralistic Alignment
 - Human Label Variation
-- AI safety and Societal Impacts
+- AI Safety and Societal Impacts
 
 
 # Short bio (displayed in user profile at end of posts)
