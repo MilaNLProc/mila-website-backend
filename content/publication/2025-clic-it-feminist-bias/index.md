@@ -1,7 +1,3 @@
-[index-5.md](https://github.com/user-attachments/files/28798064/index-5.md)
----
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
 title: 'Probing Feminist Representations: A Study of Bias in LLMs and Word Embeddings'
 authors:
 - Arianna Muti
