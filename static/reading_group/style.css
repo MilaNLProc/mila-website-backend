@@ -1,0 +1,475 @@
+/* =========================================
+   Reading Group page styles
+   All rules are scoped under `.rg-page` so they
+   never leak into the rest of the Academic theme.
+========================================= */
+
+.rg-page {
+  --text: #313131;
+  --muted: #6c757d;
+  --border: #e5e5e5;
+  --link: #1565c0;
+  --background: #ffffff;
+  --soft-background: #f8f9fa;
+
+  --scheduled: #edf7e9;
+  --scheduled-chip: #d9ead3;
+  --cancelled: #fff1e8;
+  --cancelled-chip: #fce4d6;
+  --postponed: #f6f0fa;
+  --postponed-chip: #e4d7f5;
+  --break: #fff9e6;
+  --break-chip: #fff2cc;
+
+  /* Keep the section light and self-consistent even when the Academic theme is in dark mode (body gets a `.dark` class). */
+  background: var(--background);
+  color: var(--text);
+  font-size: 16px;
+  line-height: 1.65;
+}
+
+.rg-page * {
+  box-sizing: border-box;
+}
+
+.rg-page,
+.rg-page p,
+.rg-page li,
+.rg-page strong,
+.rg-page h2 {
+  color: var(--text);
+}
+
+.rg-page h2 {
+  color: #222;
+}
+
+.rg-page .article-content p {
+  margin: 0 0 18px;
+}
+
+.rg-page a {
+  color: var(--link);
+  text-decoration: none;
+}
+
+.rg-page a:hover {
+  text-decoration: underline;
+}
+
+/* =========================================
+   HERO IMAGE
+========================================= */
+
+.rg-page .reading-group-hero {
+  position: relative;
+  width: 100%;
+  margin-bottom: 8px;
+  overflow: hidden;
+  border-radius: 7px;
+}
+
+.rg-page .reading-group-hero img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+/* =========================================
+   IMAGE CREDIT
+========================================= */
+
+.rg-page .image-credit {
+  margin-top: 5px;
+  margin-bottom: 32px;
+  color: #777;
+  font-size: 0.72rem;
+  line-height: 1.4;
+  text-align: right;
+}
+
+/* =========================================
+   NEXT SESSION
+========================================= */
+
+.rg-page .next-card {
+  position: relative;
+  margin: 38px 0 48px;
+  padding: 26px 30px;
+  border: 1px solid var(--border);
+  border-left: 4px solid var(--link);
+  border-radius: 4px;
+  background: #fff;
+}
+
+.rg-page .next-label {
+  margin-bottom: 7px;
+  color: var(--link);
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.rg-page .next-card h2 {
+  margin: 0 0 13px;
+  color: #222;
+  font-size: 1.45rem;
+  font-weight: 600;
+}
+
+.rg-page .next-presenter {
+  margin-top: 4px;
+  color: #333;
+  font-size: 1.05rem;
+  font-weight: 600;
+}
+
+.rg-page .next-title {
+  margin-top: 5px;
+  font-size: 1.08rem;
+}
+
+.rg-page .next-title-tba {
+  color: var(--muted);
+  font-style: italic;
+}
+
+.rg-page .authors {
+  margin-top: 3px;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+.rg-page .note {
+  margin-top: 10px;
+  color: var(--muted);
+  font-size: 0.93rem;
+  font-style: italic;
+}
+
+/* =========================================
+   PROGRAM
+========================================= */
+
+.rg-page .program {
+  margin-top: 44px;
+}
+
+.rg-page .program-header {
+  margin-top: 30px;
+}
+
+.rg-page .program-header h2 {
+  margin: 0 0 20px;
+  color: #222;
+  font-size: 1.75rem;
+  font-weight: 600;
+}
+
+.rg-page .program-description {
+  margin-top: -10px;
+  margin-bottom: 22px;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+/* =========================================
+   CONTROLS
+========================================= */
+
+.rg-page .controls {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 22px;
+}
+
+.rg-page .search-wrapper {
+  flex: 1;
+}
+
+.rg-page .filter-wrapper {
+  flex: 0 0 auto;
+}
+
+.rg-page .controls input,
+.rg-page .controls select {
+  width: 100%;
+  min-height: 42px;
+  padding: 8px 12px;
+  color: #333;
+  background: white;
+  border: 1px solid #ced4da;
+  border-radius: 4px;
+  font-family: inherit;
+  font-size: 0.95rem;
+}
+
+.rg-page .controls input:focus,
+.rg-page .controls select:focus {
+  border-color: #80bdff;
+  outline: none;
+  box-shadow: 0 0 0 2px rgba(0, 123, 255, 0.12);
+}
+
+/* =========================================
+   TABLE with events read form CSV
+========================================= */
+
+.rg-page .table-wrapper {
+  width: 100%;
+  overflow-x: auto;
+  border-top: 1px solid var(--border);
+}
+
+.rg-page .table-wrapper table {
+  display: table;
+  width: 100%;
+  margin: 0;
+  border-collapse: collapse;
+  background: #fff;
+  color: var(--text);
+  font-size: 0.94rem;
+}
+
+.rg-page .table-wrapper table thead th {
+  padding: 12px 10px;
+  color: #444;
+  background: var(--soft-background);
+  border-bottom: 2px solid #dee2e6;
+  font-weight: 600;
+  text-align: left;
+  white-space: nowrap;
+}
+
+.rg-page .table-wrapper table tbody td {
+  padding: 13px 10px;
+  vertical-align: top;
+  color: var(--text);
+  background: #fff;
+  border-bottom: 1px solid var(--border);
+  transition: background-color 0.12s ease;
+}
+
+.rg-page .table-wrapper table tbody tr:hover td {
+  background: #f6f6f6;
+}
+
+/* Date */
+.rg-page .table-wrapper table tbody td:first-child {
+  width: 115px;
+  white-space: nowrap;
+  font-weight: 500;
+}
+
+/* Presenter */
+.rg-page .table-wrapper table tbody td:nth-child(2) {
+  min-width: 105px;
+  font-weight: 500;
+}
+
+/* Paper */
+.rg-page .table-wrapper table tbody td:nth-child(3) {
+  min-width: 220px;
+}
+
+/* =========================================
+   STATUS ROWS
+========================================= */
+
+.rg-page .table-wrapper table tbody tr.status-scheduled td {
+  background: var(--scheduled);
+}
+
+.rg-page .table-wrapper table tbody tr.status-cancelled td {
+  background: var(--cancelled);
+}
+
+.rg-page .table-wrapper table tbody tr.status-postponed td {
+  background: var(--postponed);
+}
+
+.rg-page .table-wrapper table tbody tr.status-break td {
+  background: var(--break);
+}
+
+.rg-page .table-wrapper table tbody tr.status-past td {
+  background: #fff;
+  color: #777;
+}
+
+.rg-page .table-wrapper table tbody tr.status-scheduled:hover td {
+  background: #e4f2dd;
+}
+
+.rg-page .table-wrapper table tbody tr.status-past:hover td {
+  background: #f6f6f6;
+}
+
+/* =========================================
+   BREAK
+========================================= */
+
+.rg-page .break-description {
+  color: #665c26;
+  font-style: italic;
+  font-weight: 500;
+}
+
+/* =========================================
+   STATUS CHIP
+========================================= */
+
+.rg-page .status-chip {
+  display: inline-block;
+  padding: 2px 9px;
+  border-radius: 999px;
+  font-size: 0.78rem;
+  line-height: 1.6;
+  white-space: nowrap;
+}
+
+.rg-page .status-chip-scheduled {
+  background: var(--scheduled-chip);
+}
+
+.rg-page .status-chip-cancelled {
+  background: var(--cancelled-chip);
+}
+
+.rg-page .status-chip-postponed {
+  background: var(--postponed-chip);
+}
+
+.rg-page .status-chip-break {
+  background: var(--break-chip);
+}
+
+.rg-page .status-chip-past {
+  color: #666;
+  background: #eee;
+}
+
+/* =========================================
+   LOADING / EMPTY / ERROR
+========================================= */
+
+.rg-page .loading {
+  padding: 20px 0;
+  color: var(--muted);
+}
+
+.rg-page .empty-message {
+  padding: 18px 0;
+  color: var(--muted);
+}
+
+.rg-page .error {
+  margin-top: 20px;
+  color: #b00020;
+}
+
+/* =========================================
+   PAGINATION
+========================================= */
+
+.rg-page .rg-pagination {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  margin-top: 14px;
+  padding-top: 14px;
+  border-top: 1px solid var(--border);
+}
+
+.rg-page .rg-pagination-count {
+  color: var(--muted);
+  font-size: 0.88rem;
+}
+
+.rg-page .rg-pagination-actions {
+  display: flex;
+  gap: 8px;
+}
+
+.rg-page .rg-pagination button {
+  padding: 7px 14px;
+  color: var(--link);
+  background: #fff;
+  border: 1px solid #ced4da;
+  border-radius: 4px;
+  font-family: inherit;
+  font-size: 0.88rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background-color 0.12s ease, border-color 0.12s ease;
+}
+
+.rg-page .rg-pagination button:hover {
+  background: var(--soft-background);
+  border-color: #adb5bd;
+}
+
+.rg-page .rg-pagination button:focus-visible {
+  outline: none;
+  border-color: #80bdff;
+  box-shadow: 0 0 0 2px rgba(0, 123, 255, 0.12);
+}
+
+/* =========================================
+   ACCESSIBILITY
+========================================= */
+
+.rg-page .sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* =========================================
+   MOBILE
+========================================= */
+
+@media (max-width: 700px) {
+  .rg-page .controls {
+    flex-direction: column;
+  }
+
+  .rg-page .search-wrapper,
+  .rg-page .filter-wrapper {
+    width: 100%;
+  }
+
+  .rg-page .next-card {
+    padding: 20px;
+  }
+
+  .rg-page .table-wrapper table {
+    font-size: 0.88rem;
+  }
+
+  .rg-page .table-wrapper table thead th,
+  .rg-page .table-wrapper table tbody td {
+    padding: 10px 8px;
+  }
+
+  .rg-page .rg-pagination {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .rg-page .rg-pagination-actions button {
+    flex: 1;
+  }
+}

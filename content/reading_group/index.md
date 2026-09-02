@@ -1,5 +1,6 @@
 ---
 title: Reading Group
+layout: reading_group
 summary: Papers and program of the MilaNLP Reading Group
 date: "2018-06-28T00:00:00Z"
 
@@ -14,10 +15,13 @@ header:
   image: ""
 ---
 
-The Reading Group is our weekly meeting to present and discuss exciting contributions from the community.
-
-It currently takes place every Thursday at 12:00 PM (Milan). For more info, feel free to [reach out](mailto:donya.rooein@unibocconi.it).
-
-
-
-
+<!--
+The page body is rendered by a custom layout (selected via `layout:` above):
+  layouts/_default/reading_group.html
+Static assets (schedule app + styles + hero image):
+  static/reading_group/app.js
+  static/reading_group/style.css
+  static/reading_group/rr_img.png
+The session list is loaded at runtime from the published Google Sheet CSV
+configured in static/reading_group/app.js (SHEET_URL).
+-->
