@@ -69,7 +69,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 
 **Esra** is a final-year PhD Candidate at [the IMS](https://www.ims.uni-stuttgart.de/en/), [University of Stuttgart](https://www.uni-stuttgart.de/en/), supervised by Agnieszka Faleńska. Her research focuses on socially embedded AI systems, spanning responsible/ethical AI and sociotechnical approaches to model design, alignment operationalization and objective trade-offs, sociotechnical evaluation and benchmarking, and the societal implications of AI. Currently, she is investigating value pluralism in AI alignment, with the goal of developing language technologies that represent diverse human perspectives and can dynamically adapt to new and/or minority perspectives.

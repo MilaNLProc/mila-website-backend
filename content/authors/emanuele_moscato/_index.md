@@ -64,7 +64,7 @@ email: "emanuele.moscato2@unibocconi.it"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 
 **Emanuele Moscato** Emanuele Moscato is a Postdoctoral Researcher at Bocconi, where he applies NLP-inspired models to a variety of problems including statistical physics of probabilistic languages, bioinformatics and NLP itself.
