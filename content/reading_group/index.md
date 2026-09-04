@@ -4,6 +4,11 @@ layout: reading_group
 summary: Papers and program of the MilaNLP Reading Group
 date: "2018-06-28T00:00:00Z"
 
+# Unlisted page: not in the header menu, and excluded from the sitemap
+# so it's not indexed by search engines. Still reachable directly via its URL.
+sitemap:
+  disable: true
+
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
 profile: false  # Show author profile?
