@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Visiting Postdoc
+role: Postdoc
 
 # Organizations/Affiliations
 organizations:
@@ -75,6 +75,6 @@ user_groups:
 - Researchers
 ---
 
-**Elisa Bassignana** is a Postdoctoral Research Fellow at [Bocconi University](https:\\www.bocconi.it/) and at the [NLPnorth](https://nlpnorth.github.io/) at the [IT University of Copenhagen](https://en.itu.dk/), and an affiliated member at the [Pioneer Centre for Artificial Intelligence](https://www.aicentre.dk/). Her research interest lies at the intersection between Natural Language Processing and Computational Social Science. Specifically, she's interested in analyzing the impact of generative AI on society, including on social stratification. During her PhD, she worked cross-domain Relation Extraction. Before that, she worked on hate speech detection and automatic personality classification.
+**Elisa Bassignana** is a Postdoctoral Research Fellow at [Bocconi University](https:\\www.bocconi.it/), a member of the [NLPnorth](https://nlpnorth.github.io/) at the [IT University of Copenhagen](https://en.itu.dk/), and an affiliated member at the [Pioneer Centre for Artificial Intelligence](https://www.aicentre.dk/). Her research interest lies at the intersection between Natural Language Processing and Computational Social Science. Specifically, she's interested in analyzing the impact of generative AI on society, including on social stratification. During her PhD, she worked cross-domain Relation Extraction. Before that, she worked on hate speech detection and automatic personality classification.
 
 Elisa served on the [EACL Student Board](https://eacl.org/general/#officers) and has co-organized the [EACL Student Research Workshop 2023](https://sites.google.com/view/eacl2023srw).
