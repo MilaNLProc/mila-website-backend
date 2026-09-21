@@ -27,8 +27,8 @@ email: "elba@itu.dk"
 interests:
 - Natural Language Processing
 - Computational Social Science
+- Societal impact of AI
 - NLP for social good
-- Emotion Analysis
 
 
 # Short bio (displayed in user profile at end of posts)
@@ -41,7 +41,10 @@ bio:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:elba@itu.dk'  # For a direct email link, use "mailto:debora.nozza@unibocconi.it".
+  link: 'mailto:elba@itu.dk' 
+- icon: bluesky
+  icon_pack: fab
+  link: https://bsky.app/profile/elisabassignana.bsky.social
 - icon: twitter
   icon_pack: fab
   link: https://x.com/EliBassignana
@@ -72,6 +75,6 @@ user_groups:
 - Researchers
 ---
 
-**Elisa Bassignana** is a Postdoctoral Research Fellow at the [NLPnorth](https://nlpnorth.github.io/) research group at the [IT University of Copenhagen](https://en.itu.dk/) and an affiliated member at the [Pioneer Centre for Artificial Intelligence](https://www.aicentre.dk/). Her research interest lies at the intersection between Natural Language Processing and Computational Social Science. Specifically, she's interested in analyzing social phenomena through the lens of language, by using NLP technologies. During her PhD, she worked on developing computation systems for Information Extraction with strong abilities to generalize over unseen data sources and label spaces. More specifically, she worked on cross-domain Relation Extraction. Before that, she worked in the field of Computational Social Science (hate speech and personality detection).
+**Elisa Bassignana** is a Postdoctoral Research Fellow at [Bocconi University](https:\\www.bocconi.it/) and at the [NLPnorth](https://nlpnorth.github.io/) at the [IT University of Copenhagen](https://en.itu.dk/), and an affiliated member at the [Pioneer Centre for Artificial Intelligence](https://www.aicentre.dk/). Her research interest lies at the intersection between Natural Language Processing and Computational Social Science. Specifically, she's interested in analyzing the impact of generative AI on society, including on social stratification. During her PhD, she worked cross-domain Relation Extraction. Before that, she worked on hate speech detection and automatic personality classification.
 
-Elisa serves as part of the [EACL Student Board](https://eacl.org/general/#officers) and has co-organized the [EACL Student Research Workshop 2023](https://sites.google.com/view/eacl2023srw).
+Elisa served on the [EACL Student Board](https://eacl.org/general/#officers) and has co-organized the [EACL Student Research Workshop 2023](https://sites.google.com/view/eacl2023srw).
