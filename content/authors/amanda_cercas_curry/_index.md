@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Researcher, CENTAI Institute
+role: Postdoc
 
 # Organizations/Affiliations
 organizations:

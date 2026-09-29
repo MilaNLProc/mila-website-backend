@@ -3,6 +3,7 @@ title: Postdoctoral Researcher – NLP (2 positions)
 summary: "Two Postdoctoral Researcher positions – Deadline January 31st, 2026"
 abstract: ""
 date: "2025-12-12T00:00:00Z"
+draft: true
 categories:
 tags:
 - natural language processing
@@ -21,7 +22,7 @@ We are seeking two highly motivated and talented individuals to join our MilaNLP
     <p><em>Social Awareness for better Large Language Model Learning</em></p>
     <p><strong>PI: Prof. Dirk Hovy</strong></p>
     <p>
-      Developing socially aware LLMs that can interpret social cues and cultural norms 
+      Developing socially aware LLMs that can interpret social cues and cultural norms
       through interactive training environments.
     </p>
     <p>
@@ -34,7 +35,7 @@ We are seeking two highly motivated and talented individuals to join our MilaNLP
     <p><em>Thinking Out Loud: A Speech-Based Data Collection Framework</em></p>
     <p><strong>PI: Prof. Debora Nozza</strong> <em>(with Dr. Giuseppe Attanasio)</em></p>
     <p>
-      Introducing speech-based annotation to produce richer, subjective, and expressive 
+      Introducing speech-based annotation to produce richer, subjective, and expressive
       data for next-generation NLP models.
     </p>
     <p>
