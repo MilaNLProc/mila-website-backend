@@ -9,13 +9,12 @@ authors:
 - Debora Nozza
 date: 2025/9
 doi: ''
-publishDate: '2026-06-09'
+publishDate: '2025-09-09'
 publication_types:
 - '1'
 publication: Proceedings of the Eleventh Italian Conference on Computational Linguistics
   (CLiC-it 2025)
-publication_short: Proceedings of the Eleventh Italian Conference on Computational
-  Linguistics (CLiC-it 2025)
+publication_short: CLiC-it 2025
 abstract: ''
 summary: ''
 tags:
