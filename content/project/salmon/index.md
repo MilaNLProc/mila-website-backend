@@ -12,6 +12,7 @@ categories:
 - nlp
 - machine learning
 tags:
+- current
 - large language models
 - social reasoning
 - alignment

@@ -14,6 +14,7 @@ categories:
 - political science
 - nlp
 tags:
+- past
 - computational social science
 - political science
 - nlp

@@ -11,6 +11,7 @@ image:
 
 categories:
 tags:
+- past
 - computational social sciences
 - nlp
 ---
