@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "PATS: Personality-Aware Teaching Strategies with Large Language Model Tutors"
-authors: ["Donya Rooein"," Sankalan Pal Chowdhury", "Mariia Eremeeva", "Yuan Qin", "Debora Nozza", "Mrinmaya Sachan", "Dirk Hovy"]
+authors: ["Donya Rooein", "Sankalan Pal Chowdhury", "Mariia Eremeeva", "Yuan Qin", "Debora Nozza", "Mrinmaya Sachan", "Dirk Hovy"]
 date: 2026-01-13
 doi: ""
 
@@ -38,7 +38,7 @@ featured: false
 #   icon: twitter
 
 url_pdf: https://arxiv.org/pdf/2601.08402
-url_code: 
+url_code:
 url_dataset:
 url_poster:
 url_project:
