@@ -11,6 +11,7 @@ image:
 categories:
 - nlp
 tags:
+- current
 - speech annotation
 - subjective nlp
 - data collection

@@ -31,6 +31,22 @@ We are very happy to discuss ongoing or upcoming research.
 
 ## Past Speakers
 
+### 2026
+- [Eleonora Mancini](https://scholar.google.com/citations?user=1Qk3rogAAAAJ&hl=it): "Multimodal AI for Human Expression Understanding"
+- [Belinda Li](https://belindal.github.io/): "Solving the Specification Problem through Interaction"
+- [Nikhil Sharma](https://www.nikhilsksharma.com/research): "Information Seeking, Consumption and Dissemination with LLM powered Information Systems"
+- [Bolei Ma](https://boleima.github.io/): "Insights from Survey Methodology for NLP Research"
+- [Naitian Zhou](https://naitian.org/): "Variation, semiotics, fashion, style"
+- [Martin Tutek](https://mttk.github.io/): "From Internals to Integrity: How Insights into Transformer LMs Improve Safety, Interpretability and Explanation Faithfulness"
+- [Dustin Wright](https://dustinbwright.com/):"LLMs Lack Perspective and Epistemic Diversity"
+- [Alexander Hoyle](https://alexanderhoyle.com/): "Topic Models as an Object Lesson in Machine Learning"
+- [Erasmo Purificato](https://erasmopurif.com/): "The Role of Artificial Intelligence in Scientific Research - A Science for Policy, European Perspective"
+- [Marco Antonio Stranisci](https://marcostranisci.github.io/): "Assessing Training Data Filtering Strategies for the Reduction of Harms in AI"
+- [Andreas Waldis](https://tresiwald.github.io/): "Reliability of Language Models — Computational Argumentation as Playground"
+- [Alireza Salemi](https://alirezasalemi7.github.io/): "Personalizing Large Language Models"
+- [Clement Jonathan Mazet-Sonilhac](https://cms27.github.io/): "AI Adoption and the Quality of Financial Service"
+- [Andrea De Varda](https://andrea-de-varda.github.io/): "Large Language Models as models of human language(s) and higher-level cognition"
+
 ### 2025
 
 - [Pranav Agrawal](https://pranav-a.github.io/): "Twists and Turns in Chinese Tokenization"
@@ -57,6 +73,13 @@ We are very happy to discuss ongoing or upcoming research.
 - [Miriam Schirmer](https://miriamschirmer.github.io/): "Measuring and Reducing the Psychological Impact of Online Harm"
 - [Tiago Pimentel](https://tpimentelms.github.io/): "How Much Does Tokenisation Impact Language Models?"
 - [Suyash Fulay](https://suyashfulay.com/): "Truth, Political Bias, and AI Representation"
+- [Jan Batzner](https://www.weizenbaum-institut.de/portrait/p/jan-batzner/#page=1&tags=science_publications&sort=date): "The Brief History of LLM Sycophancy as We Know It"
+- [Clara Meister](https://cimeister.github.io/): "Parity-Aware Byte-Pair Encoding: Improving Cross-lingual Fairness in Tokenization"
+- [Rochelle Choenni](https://rochellechoenni.github.io/): "Brittle but Steerable: Aligning Cultural Values in Multilingual Language Models"
+- [Valerio Capraro](https://caprarovalerio.com/): "The economics of language"
+- [Anders Giovanni Møller](https://scholar.google.com/citations?user=S2duMNoAAAAJ&hl=en): "How AI Affects Us: Controlled Experiments in Human-AI Interaction"
+- [Heather Lent](https://scholar.google.com/citations?user=ZxdpWo4AAAAJ&hl=en): "Emerging Ethical Challenges in NLP Research"
+- [Patricia Chiril](https://scholar.google.com/citations?user=AzsyeyIAAAAJ&hl=en): "NLP for Socially Grounded Research"
 
 ### 2024
 

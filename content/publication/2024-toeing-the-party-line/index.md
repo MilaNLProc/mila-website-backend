@@ -10,7 +10,7 @@ authors:
 - Gabriella Lapesa
 date: 2024/11
 doi: ''
-publishDate: '2025-03-12'
+publishDate: '2024-11-12'
 publication_types:
 - '1'
 publication: 'Findings of the Association for Computational Linguistics: EMNLP 2024'

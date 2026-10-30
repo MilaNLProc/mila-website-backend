@@ -12,6 +12,7 @@ image:
 categories:
 - nlp
 tags:
+- current
 - hate speech
 - subjectivity
 - nlp

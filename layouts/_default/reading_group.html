@@ -1,0 +1,96 @@
+{{- define "main" -}}
+
+<article class="article">
+
+  {{ partial "page_header" . }}
+
+  <div class="article-container">
+
+    <div class="article-style">
+
+      <link rel="stylesheet" href="{{ "reading_group/style.css" | relURL }}">
+
+      <div class="rg-page">
+
+        {{/* ===== Hero image ===== */}}
+        <div class="reading-group-hero">
+          <img src="{{ "reading_group/rr_img.png" | relURL }}" alt="Reading Group">
+        </div>
+        <p class="image-credit">Image generated with ChatGPT.</p>
+
+        {{/* ===== Intro ===== */}}
+        <div class="article-content">
+
+          <p>
+            The Reading Group is our weekly meeting to present and discuss exciting contributions from the community.
+          </p>
+
+          <p>
+            It currently takes place every Thursday at
+            <strong>12:00 PM (Milan)</strong>.
+            For more info, feel free to
+            <a href="mailto:lorena.calvo@unibocconi.it">reach out</a>.
+          </p>
+
+          {{/* ===== Next session (rendered by app.js) ===== */}}
+          <section id="rg-next-session" aria-live="polite"></section>
+
+          {{/* ===== Program ===== */}}
+          <section class="program">
+
+            <div class="program-header">
+              <h2>Program</h2>
+              <p class="program-description">
+                Browse upcoming and previous Reading Group sessions.
+              </p>
+            </div>
+
+            <div class="controls">
+
+              <div class="search-wrapper">
+                <label for="rg-search" class="sr-only">Search sessions</label>
+                <input
+                  id="rg-search"
+                  type="search"
+                  placeholder="Search presenter, paper, author or note..."
+                  autocomplete="off">
+              </div>
+
+              <div class="filter-wrapper">
+                <label for="rg-filter" class="sr-only">Filter sessions</label>
+                <select id="rg-filter">
+                  <option value="upcoming">Upcoming</option>
+                  <option value="all">All sessions</option>
+                  <option value="past">Past</option>
+                  <option value="scheduled">Scheduled</option>
+                  <option value="break">Break</option>
+                  <option value="cancelled">Cancelled</option>
+                  <option value="postponed">Postponed</option>
+                </select>
+              </div>
+
+            </div>
+
+            <div id="rg-loading" class="loading">
+              Loading Reading Group schedule...
+            </div>
+
+            <div id="rg-sessions" aria-live="polite"></div>
+
+            <div id="rg-error" class="error" role="alert"></div>
+
+          </section>
+
+        </div>
+      </div>
+
+    </div>
+
+    {{ partial "page_footer" . }}
+
+  </div>
+</article>
+
+<script src="{{ "reading_group/app.js" | relURL }}" defer></script>
+
+{{- end -}}

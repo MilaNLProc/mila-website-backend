@@ -12,6 +12,7 @@ image:
 categories:
 - demographic
 tags:
+- past
 - demographic
 - NLP
 ---

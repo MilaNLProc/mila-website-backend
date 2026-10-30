@@ -44,10 +44,11 @@
     url = "/coding_aperitivo"
     weight = 40
 
-    [[main]]
-    name = "Reading Group"
-    url = "/reading_group"
-    weight = 40
+    # Reading Group page is not linked in the header by default; still accessible through direct link though
+    # [[main]]
+    #   name = "Reading Group"
+    #   url = "/reading_group"
+    #   weight = 40
 
   [[main]]
     name = "Alumni"

@@ -1,7 +1,13 @@
 ---
 title: Reading Group
+layout: reading_group
 summary: Papers and program of the MilaNLP Reading Group
 date: "2018-06-28T00:00:00Z"
+
+# Unlisted page: not in the header menu, and excluded from the sitemap
+# so it's not indexed by search engines. Still reachable directly via its URL.
+sitemap:
+  disable: true
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
@@ -14,18 +20,13 @@ header:
   image: ""
 ---
 
-The Reading Group is our weekly meeting to present and discuss exciting contributions from the community.
-
-It currently takes place every Thursday at 12:00 PM (Milan). For more info, feel free to [reach out](mailto:donya.rooein@unibocconi.it).
-
-## Upcoming Program 2025
-
-
-| Date   | Presenter | Paper                                                                                      |
-| ------ | --------- | ------------------------------------------------------------------------------------------ |                      
-| Dec-18 |	Serena	    | [Adversarial Poetry as a Universal Single-Turn Jailbreak Mechanism in Large Language Models](https://arxiv.org/pdf/2511.15304)   |                                                 | Dec-25 |	CANCELLED FOR Holiday                                                                          |
-
-
-
-
-
+<!--
+The page body is rendered by a custom layout (selected via `layout:` above):
+  layouts/_default/reading_group.html
+Static assets (schedule app + styles + hero image):
+  static/reading_group/app.js
+  static/reading_group/style.css
+  static/reading_group/rr_img.png
+The session list is loaded at runtime from the published Google Sheet CSV
+configured in static/reading_group/app.js (SHEET_URL).
+-->

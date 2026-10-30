@@ -38,6 +38,13 @@
     </h3>
 
     <div class="article-style">
+
+      {{ if eq $item.Type "publication" }}
+        {{ with ($item.Params.publication_short | default $item.Params.publication) }}
+        <span class="publication-venue">{{ . | markdownify | plainify | htmlUnescape }}</span>
+        <br>
+        {{ end }}
+      {{ end }}
       {{ .Date.Format "January, 2006" }}
     </div>
 

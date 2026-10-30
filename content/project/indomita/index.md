@@ -14,6 +14,7 @@ categories:
 - NLP
 - hate speech
 tags:
+- past
 - demographic
 - social media
 - NLP
