@@ -1,4 +1,3 @@
-[index-4.md](https://github.com/user-attachments/files/24671417/index-4.md)
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
