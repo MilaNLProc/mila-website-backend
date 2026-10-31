@@ -5,3 +5,4 @@ resources/*
 content/.DS_Store
 .gitignore
 .DS_Store
+.history
