@@ -7,32 +7,14 @@ authors:
 - Dmitry Nikolaev
 - Dominik Stammbach
 - Debora Nozza
-date: 2025-09-26
+date: 2026-10-10
 doi: ''
-publishDate: '2025-09-26'
+publishDate: '2026-10-10'
 publication_types:
 - '3'
 publication: 'arXiv preprint arXiv:2509.22367'
 publication_short: 'arXiv:2509.22367'
-abstract: 'Large language models (LLMs) are known to generate politically biased
-  text. Yet, it remains unclear how such biases arise, making it difficult to
-  design effective mitigation strategies. We hypothesize that these biases are
-  rooted in the composition of training data. Taking a data-centric perspective,
-  we formulate research questions on (1) political leaning present in data, (2)
-  data imbalance, (3) cross-dataset similarity, and (4) data-model alignment.
-  We then examine how exposure to political content relates to models'' stances
-  on policy issues. We analyze the political content of pre- and post-training
-  datasets of open-source LLMs, combining large-scale sampling, political-leaning
-  classification, and stance detection. We find that training data is
-  systematically skewed toward left-leaning content, with pre-training corpora
-  containing substantially more politically engaged material than post-training
-  data. We further observe a strong correlation between political stances in
-  training data and model behavior, and show that pre-training datasets exhibit
-  similar political distributions despite different curation strategies. In
-  addition, we find that political biases are already present in base models
-  and persist across post-training stages. These findings highlight the central
-  role of data composition in shaping model behavior and motivate the need for
-  greater data transparency.'
+abstract: 'Large language models (LLMs) reflect politically-slanted opinions in their generated text. Even though it is widely assumed that model behavior stem from training data, there has been no study quantifying the extent to which political content is part of the training data. To bridge this gap, we aim to directly estimate (1)~the proportion of politically engaged texts in training data, (2)~respective data imbalance, (3)~cross-dataset similarity, and (4)~correlations between data composition and model behaviour. We analyze the political content of pre- and post-training datasets of open-source LLMs, combining large-scale sampling, political-leaning classification, and stance detection. We find that all LLM training datasets are systematically skewed towards left-leaning content, with pre-training containing more politically engaged than post-training corpora. We further observe a strong correlation between political stances in training data and model behavior, which is present already in most base models and persists across post-training stages. These findings highlight the role of data composition in correlating with model behavior and motivate the need for greater data transparency as a means to understand and monitor model behavior.'
 summary: ''
 tags:
 - LLMs
@@ -49,7 +31,7 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-socialmedia_post: ''
+socialmedia_post: '''What Is The Political Content in LLMs'' by Ceron et al (2026) investigate the unbalance in the distruibution of the political content present in the pre- and post-training data'
 image:
   caption: ''
   focal_point: Center
