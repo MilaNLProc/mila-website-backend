@@ -1,3 +1,6 @@
+---
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+
 title: "WildSEEK: Evaluating Language Models for Information-Seeking"
 authors:
 - Tanise Ceron
