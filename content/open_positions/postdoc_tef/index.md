@@ -1,9 +1,8 @@
 ---
-title: Postdoctoral Researcher – NLP (2 positions)
-summary: "Two Postdoctoral Researcher positions – Deadline January 31st, 2026"
+title: Postdoctoral Researcher – NLP (1 position)
+summary: "Postdoctoral Researcher in Socially Aware Large Language Models – Deadline December 15, 2026"
 abstract: ""
-date: "2025-12-12T00:00:00Z"
-draft: true
+date: "2026-11-10T00:00:00Z"
 categories:
 tags:
 - natural language processing
@@ -11,82 +10,40 @@ tags:
 - machine learning
 ---
 
+Current LLMs can process extraordinary amounts of text, yet still struggle to “read the room.” SALMON investigates how models can display social awareness through interactive learning, social feedback, and "social" environments that require negotiation, cooperation, cultural adaptation, and moral reasoning.
+[Learn more →](https://milanlproc.github.io/project/salmon/)
 
-We are seeking two highly motivated and talented individuals to join our MilaNLP research team as Postdoctoral Researchers in the field of Natural Language Processing. The call includes two positions, each associated with a different research project and supervised by a different Principal Investigator.
-
-
-<div style="display:flex; gap:20px; flex-wrap:wrap;">
-
-  <div style="flex:1; min-width:280px; padding:1rem; border-radius:10px; background:#fff4ec;">
-    <h3>🐟 SALMON</h3>
-    <p><em>Social Awareness for better Large Language Model Learning</em></p>
-    <p><strong>PI: Prof. Dirk Hovy</strong></p>
-    <p>
-      Developing socially aware LLMs that can interpret social cues and cultural norms
-      through interactive training environments.
-    </p>
-    <p>
-      <a href="https://milanlproc.github.io/project/salmon/">Learn more →</a>
-    </p>
-  </div>
-
-  <div style="flex:1; min-width:280px; padding:1rem; border-radius:10px; background:#eef5ff;">
-    <h3>🎤 TOLD</h3>
-    <p><em>Thinking Out Loud: A Speech-Based Data Collection Framework</em></p>
-    <p><strong>PI: Prof. Debora Nozza</strong> <em>(with Dr. Giuseppe Attanasio)</em></p>
-    <p>
-      Introducing speech-based annotation to produce richer, subjective, and expressive
-      data for next-generation NLP models.
-    </p>
-    <p>
-      <a href="https://milanlproc.github.io/project/told/">Learn more →</a>
-    </p>
-  </div>
-
-</div>
-
-
-
----
+## Your Profile
+- A PhD (completed before May 2027) in NLP, machine learning, AI, computational social science, or a related field.
+- Strong experience with language models, experimental, and scientific writing skills.
+- An interest in reinforcement learning, multi-agent systems, agent-based modeling, and model evaluation.
+- Interest in interdisciplinary research connecting AI with social sciences.
+- Strong publication record in NLP/ML/AI or related areas  
+- Fluency in English (Italian not required)
 
 ## Position Details
-- **Number of positions:** 2 (one on each project)
-- **Duration:** 2 years (renewable)  
-- **Earliest starting date:** March 1st, 2026  
+- **Location:** Bocconi University, Milan, Italy
+- **Duration:** 2 years (possible 2-year extension subject to funding and institutional arrangements)  
+- **Earliest starting date:** January 1st, 2027
 - **Compensation:** €55,500 gross/year (13 monthly installments)  
 - **Additional research budget:** €2,000/year  
 - **Teaching requirements:** None (optional up to 48 hours/semester)  
 - **Funding:** Tech Europe Foundation (TEF)
-
----
-
-## Your Profile
-- PhD in Computer Science, NLP/Computational Linguistics, Machine Learning, Data Science, or related fields  
-- Strong programming skills in Python  
-- Experience with neural network models (e.g., PyTorch)  
-- Solid publication record in NLP/CL or related areas  
-- Fluency in English (Italian not required)
+**⏳ Application deadline: December 15, 2026**
 
 ---
 
 ## Application Process
-Applications must be submitted through the Bocconi University online platform:
+Applications *must be submitted through the Bocconi University online platform* (emailed or late submissions cannot be considered):
+[https://jobmarket.unibocconi.eu/?id=1011](https://jobmarket.unibocconi.eu/?id=1011)
 
-https://jobmarket.unibocconi.eu/?id=889
-
-<div style="margin:1.5rem 0; padding:0.75rem 1rem; border-radius:8px; background:#fff4ec; font-weight:600;">
-  ⏰ Deadline – January 31st, 2026, 23:59 (Italian time)
-</div>
-
-Required documents include:
-- a CV
+Required documents:
+- a cover letter
+- a research statement
+- CV
 - publication list (or thesis link)
 - up to ten publications
-- a cover letter
-- a research statement indicating which project(s) the candidate is applying for
 - up to two academic referees
 
 For technical issues with the upload system, please contact: faculty@unibocconi.it  
-For scientific questions:  
-- SALMON: dirk.hovy@unibocconi.it  
-- TOLD: debora.nozza@unibocconi.it  
+For scientific questions: dirk.hovy@unibocconi.it  
