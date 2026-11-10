@@ -16,11 +16,12 @@ publication_short: 'EACL 2026'
 abstract: "Public opinion surveys show cross-cultural differences in political opinions between socio-cultural contexts. However, there is no clear evidence whether these differences translate to cross-lingual differences in multilingual large language models (MLLMs). We analyze whether opinions transfer between languages or whether there are separate opinions for each language in MLLMs of various sizes across five Western languages. We evaluate MLLMs' opinions by prompting them to report their (dis)agreement with political statements from voting advice applications. To better understand the interaction between languages in the models, we evaluate them both before and after aligning them with more left or right views using direct preference optimization and English alignment data only. Our findings reveal that unaligned models show only very few significant cross-lingual differences in the political opinions they reflect. The political alignment shifts opinions almost uniformly across all five languages. We conclude that in Western language contexts, political opinions transfer between languages, demonstrating the challenges in achieving explicit socio-linguistic, cultural, and political alignment of MLLMs."
 summary: ''
 tags:
-- political text
-- party positions
+- political opinions
+- llm evaluation
+- multilinguality
 categories: []
 featured: false
-url_pdf: https://arxiv.org/abs/2508.05553
+url_pdf: https://aclanthology.org/2026.eacl-long.14.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''

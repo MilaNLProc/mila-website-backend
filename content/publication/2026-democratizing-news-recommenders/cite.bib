@@ -1,0 +1,17 @@
+@inproceedings{10.1145/3805689.3812406,
+author = {Hardy and Pad{\'o}, Sebastian and Wuehrl, Amelie and Ceron, Tanise},
+title = {Democratizing News Recommenders: Modeling Multiple Perspectives for News Candidate Generation with VQ-VAE},
+year = {2026},
+isbn = {9798400725968},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3805689.3812406},
+doi = {10.1145/3805689.3812406},
+abstract = {News Recommender Systems (NRS) play a central role in society They shape what users read, whose perspectives they encounter, and influence public discourse. Yet their design is value-laden: intentionally or not, NRS can embed undesired values in their recommendation procedures, such as exclusion of underrepresented voices or favoring specific viewpoints, which conflict with democratic goals. Despite this, existing solutions lack an intervention mechanism that controls these values. Therefore, we introduce an approach that parameterizes NRS with the goal of intervening in such values and promoting different democratic goals in models.We propose Aspect-Aware Candidate Generation (A2CG), a normatively configurable procedure for the candidate generation stage of NRS which allows designers to explicitly shape diversity in the recommendations. A2CG introduces diversity at the start of the recommendation system rather than only re-ranking candidates as a post-processing step. A2CG diversifies recommendations by representing articles along different diversity aspects: sentiment, political leaning, topic, and media framing. User interests are encoded over these aspects using a Vector Quantized VAE, and a decoder-only model predicts the next article aspects the users are likely to engage with. To broaden exposure to perspectives, A2CG injects diversity at retrieval by selectively flipping aspects in the predicted query, allowing candidate diversity to be tuned for specific democratic models.Our method enables qualitatively different normative configurations that existing NRS cannot express, and unlike baselines with fixed structural biases, A2CG allows continuous calibration between democratic ideals without retraining. Our findings empirically show that A2CG generates novel, diverse, and serendipitous candidates while providing explicit, parameter-driven control over the trade-off between personalization and democratic alignment. Rather than aiming for pointwise superiority over existing methods, A2CG's key contribution lies in its controllability and ability to express flexible normative configurations.},
+booktitle = {Proceedings of the 2026 ACM Conference on Fairness, Accountability, and Transparency},
+pages = {6723–6747},
+numpages = {25},
+keywords = {Candidate Generation, Multiple Perspectives, Democratic Models, Recommendation Systems},
+location = {Montreal, QC, Canada},
+series = {FAccT '26}
+}
