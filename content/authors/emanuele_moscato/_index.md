@@ -30,25 +30,7 @@ bio:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:emanuele.moscato2@unibocconi.it'
-- icon: twitter
-  icon_pack: fab
-  link: https://x.com/EmaLearns
-- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=lAXVSqQAAAAJ&hl=it&oi=sra
-- icon: github
-  icon_pack: fab
-  link: https://github.com/emanuele-moscato
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/emanuele-moscato/
-- icon: user
-  icon_pack: fas
-  link: https://emanuele-moscato.github.io/
+social: []
 # - icon: music
 #   icon_pack: fas
 #   link: https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB?si=aad147ee54044638

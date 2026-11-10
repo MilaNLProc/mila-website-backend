@@ -7,7 +7,7 @@ date: "2023-02-27T00:00:00Z"
 image:
   caption: '[Photo by Knowledge Bocconi](https://www.stampa.unibocconi.it/immagini/UP_NozzaERCstory85120231018155110_res.jpg)'
 
-  focal_point: Smart
+  focal_point: Center
 
 categories:
 - nlp
