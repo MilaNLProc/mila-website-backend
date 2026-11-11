@@ -1,0 +1,42 @@
+---
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+
+title: "Overreliance on AI in Information-seeking from Video Content"
+authors:
+- Anders Giovanni Møller
+- Elisa Bassignana
+- Francesco Pierri
+- Luca Maria Aiello
+date: "2026-11-11"
+doi: "10.18653/2026.emnlp-main.137"
+publishDate: "2026-11-11"
+publication_types:
+- "1"
+publication: "Conference on Empirical Methods in Natural Language Processing"
+publication_short: "EMNLP 2026"
+abstract: "The ubiquity of multimedia content is reshaping online information spaces, particularly in social media environments. At the same time, search is being rapidly transformed by generative AI, with large language models (LLMs) routinely deployed as intermediaries between users and multimedia content to retrieve and summarize information. Despite their growing influence, the impact of LLM inaccuracies and potential vulnerabilities on multimedia information-seeking tasks remains largely unexplored. We investigate how generative AI affects accuracy, efficiency, and confidence in information retrieval from videos. We conduct an experiment with around 900 participants on 8,000+ video-based information-seeking tasks, comparing behavior across three conditions: (1) access to videos only, (2) access to videos with LLM-based AI assistance, and (3) access to videos with a deceiving AI assistant designed to provide false answers. We find that AI assistance increases accuracy by 3–7% when participants viewed the relevant video segment, and by 27–35% when they did not. Efficiency increases by 10% for short videos and 25% for longer ones. However, participants tend to over-rely on AI outputs, resulting in accuracy drops of up to 32% when interacting with the deceiving AI. Alarmingly, self-reported confidence in answers remains stable across all three conditions. Our findings expose fundamental safety risks in AI-mediated video information retrieval."
+summary: "We measure overreliance of AI users and find that AI help boosts accuracy and efficiency, but users quickly become overreliant, leaving them vulnerable."
+tags:
+- information seeking
+- overreliace
+- multimodal
+- AI assistance
+categories: []
+featured: false
+url_pdf: "https://aclanthology.org/2026.emnlp-main.137.pdf"
+url_code: "https://github.com/AndersGiovanni/vllm-search/"
+url_dataset: "https://huggingface.co/datasets/tceron/wildseek"
+url_poster: "https://elisabassignana.github.io/assets/posters/2026-EMNLP-Overreliance.pdf"
+url_project: "https://blog.andersgiovanni.com/"
+url_slides: "https://elisabassignana.github.io/assets/slides/2026-CS2Nordics.pdf"
+url_source: ""
+url_video: "https://elisabassignana.github.io/assets/slides/2026-CS2Nordics.pdf"
+socialmedia_post: 'We measure overreliance of AI users and find that AI help boosts accuracy and efficiency, but users quickly become overreliant, leaving them vulnerable.'
+image:
+  caption: ''
+  focal_point: Center
+  preview_only: false
+projects:
+- 
+slides: ""
+---
